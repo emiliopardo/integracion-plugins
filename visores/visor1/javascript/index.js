@@ -12,7 +12,7 @@ const map = M.map({
     projection: 'EPSG:25830*m',
 });
 // Se añaden controles
-map.addControls(['ScaleLine', 'Mouse', 'panzoombar']);
+map.addControls(['scaleline', 'mouse', 'OverviewMap', 'panzoombar', 'layerswitcher']);
 
 
 // configuración plugin simpleLegend
@@ -142,7 +142,7 @@ const baseLayerSelector = new M.plugin.Simplebaselayerselector(configSimpleBaseL
 //const inputSelectAddLayer = new M.plugin.Inputselectaddlayer(configInventarioSedesEquipamientos);
 //const inputSelectAddLayer = new M.plugin.Inputselectaddlayer(configTipologiasConstrucctivas);
 const inputSelectAddLayer = new M.plugin.Inputselectaddlayer(configDirectorioEmpresas);
-const simpleLegend = new M.plugin.Simplelegend(configSimpleLegend)
+const simpleLegend = new M.plugin.Simplelegend()
 const mapfooter = new M.plugin.Mapfooter(configIECA);
 
 map.addPlugin(baseLayerSelector);
