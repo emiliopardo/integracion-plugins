@@ -15,7 +15,7 @@ const map = M.map({
 map.addControls(['scaleline', 'mouse', 'OverviewMap', 'panzoombar', 'layerswitcher']);
 
 
-mapa.addControls(new M.control.GetFeatureInfo(
+map.addControls(new M.control.GetFeatureInfo(
  'html', 
  {buffer: 10}));
 
