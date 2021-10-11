@@ -79,6 +79,6 @@ simpleLegend.on(M.evt.ADDED_TO_MAP, () => {
     console.log('se cargo el plugin Simplelegend');
 })
 
-inputSelectAddLayer.on(M.evt.LOAD,()=>{
-    console.log('cargo nueva capa')
+mapfooter.on(M.evt.ADDED_TO_MAP,()=>{
+    console.log('se cargo el plugin Mapfooter')
 })
