@@ -12,7 +12,7 @@ const map = M.map({
     projection: 'EPSG:25830*m',
 });
 // Se añaden controles
-map.addControls(['scaleline', 'mouse', 'OverviewMap', 'panzoombar', 'layerswitcher']);
+map.addControls(['scaleline', 'mouse', 'OverviewMap', 'panzoombar']);
 
 
 map.addControls(new M.control.GetFeatureInfo(
