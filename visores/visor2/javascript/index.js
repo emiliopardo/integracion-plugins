@@ -14,6 +14,11 @@ const map = M.map({
 // Se añaden controles
 map.addControls(['ScaleLine', 'Mouse', 'panzoombar']);
 
+map.addControls(new M.control.GetFeatureInfo(
+    'html', 
+    {buffer: 10}));
+   
+
 
 // configuración plugin simpleBaseLayerSelector
 
