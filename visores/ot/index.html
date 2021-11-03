@@ -210,8 +210,17 @@
         const baseLayerSelector = new M.plugin.Simplebaselayerselector(configSimpleBaseLayerSelector);
         // Se carga el plugin en el visor
         mapajs.addPlugin(baseLayerSelector);
+
+        //CAPAS AUXILIARES NO SE MUESTRAN EN LayerSwitcher
+        limites_Municipales_lineal.displayInLayerSwitcher = false
+        limites_Provinciales_lineal.displayInLayerSwitcher = false
+        //CARGA DE CAPAS AUXILIARES
+        mapajs.addLayers([limites_Municipales_lineal,limites_Provinciales_lineal])
+
         // CARGA DE CAPAS
         mapajs.addLayers([PT01, PT07, PT08, PT09])
+
+        
     </script>
 </body>
 
