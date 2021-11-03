@@ -13,6 +13,9 @@
         rel="stylesheet" />
     <script type="text/javascript"
         src="https://emiliopardo.github.io/simplebaselayerselector/simplebaselayerselector.ol.min.js"></script>
+    <!-- Plugin SimpleLegend-->
+    <script type="text/javascript" src="https://emiliopardo.github.io/simplelegend/simplelegend.ol.min.js"></script>
+    <link href="https://emiliopardo.github.io/simplelegend/simplelegend.ol.min.css" rel="stylesheet" />
     <style>
         html,
         body {
@@ -205,7 +208,7 @@
 
         mapajs = M.map({
             container: "map",
-            controls: ['scale', 'scaleline', 'panzoombar', 'layerswitcher', 'mouse', 'getfeatureinfo', 'navtoolbar'],
+            controls: ['scale', 'scaleline', 'panzoombar','mouse', 'getfeatureinfo', 'navtoolbar'],
             //wmcfiles: ['https://www.juntadeandalucia.es/fomentoyvivienda/IDE/PT/config/wmc/Proteccion_Territorial.xml*mapa', 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/PT/config/wmc/PT_Satelite.xml*satelite']
             layers: [ortofoto2016_color,
                 ortofoto2016_pancromatica,
@@ -217,28 +220,35 @@
         });
 
         // configuración plugin simpleBaseLayerSelector
-
         const configSimpleBaseLayerSelector = { displayBaseLayersInLayerSwitcher: false }
-
         // Constructor del plugin Simplebaselayerselector con parámetros de configuración
         const baseLayerSelector = new M.plugin.Simplebaselayerselector(configSimpleBaseLayerSelector);
+        // configuración plugin SimpleLegend
+        const configSimpleLegend = {
+            title: 'Leyenda',
+            draggable: true,
+            layers: [PT01,PT07,PT08,PT09]
+        }
+        // Constructor del plugin SimpleLegend con parámetros de configuración
+        const simplelegend = new Simplelegend(configSimpleLegend);
         // Se carga el plugin en el visor
         mapajs.addPlugin(baseLayerSelector);
+        mapajs.addPlugin(simplelegend);
 
         //CAPAS AUXILIARES NO SE MUESTRAN EN LayerSwitcher
         limites_Municipales_lineal.displayInLayerSwitcher = false;
         limites_Provinciales_lineal.displayInLayerSwitcher = false;
         toponimia.displayInLayerSwitcher = false;
-        batimetria.displayInLayerSwitcher =false;
-        contexto_andalucia.displayInLayerSwitcher=false;
+        batimetria.displayInLayerSwitcher = false;
+        contexto_andalucia.displayInLayerSwitcher = false;
         //CARGA DE CAPAS AUXILIARES
-        mapajs.addLayers([contexto_andalucia,batimetria,limites_Provinciales_lineal,limites_Municipales_lineal])
+        mapajs.addLayers([contexto_andalucia, batimetria, limites_Provinciales_lineal, limites_Municipales_lineal])
         // CARGA DE CAPAS TEMÁTICAS
         mapajs.addLayers([PT01, PT07, PT08, PT09])
         //CARGA DE CAPA DE TOPONIMIA
         mapajs.addLayers([toponimia])
 
-        
+
     </script>
 </body>
 
