@@ -230,7 +230,7 @@
             layers: [PT01, PT07, PT08, PT09]
         }
         // Constructor del plugin SimpleLegend con parámetros de configuración
-        const simplelegend = new Simplelegend(configSimpleLegend);
+        const simplelegend = new M.plugin.SimpleLegend(configSimpleLegend);
         // Se carga el plugin en el visor
         mapajs.addPlugin(baseLayerSelector);
         mapajs.addPlugin(simplelegend);
