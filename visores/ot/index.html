@@ -32,6 +32,22 @@
     <script type="text/javascript">
 
 
+        let limites_Provinciales_lineal = new M.layer.WMS({
+            url: 'http://www.ideandalucia.es/wms/mta10v_2007?',
+            name: 'Limites_Provinciales_lineal',
+            legend: 'Contornos Provinciales',
+            transparent: true,
+            tiled: true
+        });
+
+        let limites_Municipales_lineal = new M.layer.WMS({
+            url: 'http://www.ideandalucia.es/wms/mta10v_2007?',
+            name: 'Limites_Municipales_lineal',
+            legend: 'Contornos Municipales',
+            transparent: true,
+            tiled: true
+        });
+
         let PT01 = new M.layer.WMS({
             url: 'http://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
             name: 'PT01',
@@ -46,8 +62,8 @@
             legend: 'Zonas de protección',
             transparent: true,
             tiled: true
-        });  
-        
+        });
+
         let PT08 = new M.layer.WMS({
             url: 'http://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
             name: 'PT08',
@@ -55,11 +71,20 @@
             transparent: true,
             tiled: true
         });
-        
+
         let PT09 = new M.layer.WMS({
             url: 'http://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
-            name: 'PT08',
+            name: 'PT09',
             legend: 'Elementos puntuales de protección',
+            transparent: true,
+            tiled: true
+        });
+
+
+        let PT09 = new M.layer.WMS({
+            url: 'http://www.callejerodeandalucia.es/servicios/base/wms?',
+            name: 'CDAU_toponimia',
+            legend: 'Toponimia',
             transparent: true,
             tiled: true
         });        
@@ -72,11 +97,8 @@
 
 
 
-        mapajs.addLayers([PT01,PT07,PT08,PT09])
+        mapajs.addLayers([PT01, PT07, PT08, PT09])
     </script>
 </body>
 
 </html>
-
-
-
