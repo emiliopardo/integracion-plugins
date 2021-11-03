@@ -38,7 +38,7 @@
         // DEFINICIÓN CAPAS BASE //
 
         const ortofoto2016_color = new M.layer.WMS({
-            url: 'http://www.ideandalucia.es/wms/ortofoto2016?',
+            url: 'https://www.ideandalucia.es/wms/ortofoto2016?',
             name: 'ortofotografia_2016_rgb',
             legend: 'Ortofotografía Color 0,5 metros/pixel (Año 2016)',
             transparent: false,
@@ -50,7 +50,7 @@
         ortofoto2016_color.setLegendURL('https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png')
 
         const ortofoto2016_pancromatica = new M.layer.WMS({
-            url: 'http://www.ideandalucia.es/wms/ortofoto2016?',
+            url: 'https://www.ideandalucia.es/wms/ortofoto2016?',
             name: 'ortofotografia_2016_pancromatico',
             legend: 'Ortofotografía Pancromática 0,5 metros/pixel (Año 2016)',
             transparent: false,
@@ -62,7 +62,7 @@
         ortofoto2016_pancromatica.setLegendURL('https://www.ideandalucia.es/visor/leyendas/ortofoto2016_pancromatico.png');
 
         const ortofoto2016_infrarrojo = new M.layer.WMS({
-            url: 'http://www.ideandalucia.es/wms/ortofoto2016?',
+            url: 'https://www.ideandalucia.es/wms/ortofoto2016?',
             name: 'ortofotografia_2016_infrarrojo',
             legend: 'Ortofotografía Infrarrojo 0,5 metros/pixel (Año 2016)',
             transparent: false,
@@ -121,7 +121,7 @@
 
 
         let limites_Provinciales_lineal = new M.layer.WMS({
-            url: 'http://www.ideandalucia.es/wms/mta10v_2007?',
+            url: 'https://www.ideandalucia.es/wms/mta10v_2007?',
             name: 'Limites_Provinciales_lineal',
             legend: 'Contornos Provinciales',
             transparent: true,
@@ -129,7 +129,7 @@
         });
 
         let limites_Municipales_lineal = new M.layer.WMS({
-            url: 'http://www.ideandalucia.es/wms/mta10v_2007?',
+            url: 'https://www.ideandalucia.es/wms/mta10v_2007?',
             name: 'Limites_Municipales_lineal',
             legend: 'Contornos Municipales',
             transparent: true,
@@ -138,7 +138,7 @@
 
         //PROTECCIÓN TERRITORIAL //
         let PT01 = new M.layer.WMS({
-            url: 'http://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
+            url: 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
             name: 'PT01',
             legend: 'Ámbitos de los planes de ordenación del territorio',
             transparent: true,
@@ -146,7 +146,7 @@
         });
 
         let PT07 = new M.layer.WMS({
-            url: 'http://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
+            url: 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
             name: 'PT07',
             legend: 'Zonas de protección',
             transparent: true,
@@ -154,7 +154,7 @@
         });
 
         let PT08 = new M.layer.WMS({
-            url: 'http://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
+            url: 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
             name: 'PT08',
             legend: 'Elementos lineales de protección',
             transparent: true,
@@ -162,7 +162,7 @@
         });
 
         let PT09 = new M.layer.WMS({
-            url: 'http://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
+            url: 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
             name: 'PT09',
             legend: 'Elementos puntuales de protección',
             transparent: true,
@@ -171,7 +171,7 @@
 
 
         let toponimia = new M.layer.WMS({
-            url: 'http://www.callejerodeandalucia.es/servicios/base/wms?',
+            url: 'https://www.callejerodeandalucia.es/servicios/base/wms?',
             name: 'CDAU_toponimia',
             legend: 'Toponimia',
             transparent: true,
@@ -184,7 +184,7 @@
         mapajs = M.map({
             container: "map",
             controls: ['scale', 'scaleline', 'panzoombar', 'layerswitcher', 'mouse', 'getfeatureinfo', 'navtoolbar'],
-            //wmcfiles: ['http://www.juntadeandalucia.es/fomentoyvivienda/IDE/PT/config/wmc/Proteccion_Territorial.xml*mapa', 'http://www.juntadeandalucia.es/fomentoyvivienda/IDE/PT/config/wmc/PT_Satelite.xml*satelite']
+            //wmcfiles: ['https://www.juntadeandalucia.es/fomentoyvivienda/IDE/PT/config/wmc/Proteccion_Territorial.xml*mapa', 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/PT/config/wmc/PT_Satelite.xml*satelite']
             layers: [ortofoto2016_color,
                 ortofoto2016_pancromatica,
                 ortofoto2016_infrarrojo,
