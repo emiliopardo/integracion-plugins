@@ -212,13 +212,17 @@
         mapajs.addPlugin(baseLayerSelector);
 
         //CAPAS AUXILIARES NO SE MUESTRAN EN LayerSwitcher
-        limites_Municipales_lineal.displayInLayerSwitcher = false
-        limites_Provinciales_lineal.displayInLayerSwitcher = false
+        limites_Municipales_lineal.displayInLayerSwitcher = false;
+        limites_Provinciales_lineal.displayInLayerSwitcher = false;
+        toponimia.displayInLayerSwitcher = false;
         //CARGA DE CAPAS AUXILIARES
-        mapajs.addLayers([limites_Municipales_lineal,limites_Provinciales_lineal])
+        mapajs.addLayers([limites_Provinciales_lineal,limites_Municipales_lineal])
 
-        // CARGA DE CAPAS
+        // CARGA DE CAPAS TEMÁTICAS
         mapajs.addLayers([PT01, PT07, PT08, PT09])
+
+        //CARGA DE CAPA DE TOPONIMIA
+        mapajs.addLayers([toponimia])
 
         
     </script>
