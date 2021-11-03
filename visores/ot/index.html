@@ -200,6 +200,8 @@
 
         // Constructor del plugin Simplebaselayerselector con parámetros de configuración
         const baseLayerSelector = new M.plugin.Simplebaselayerselector(configSimpleBaseLayerSelector);
+        // Se carga el plugin en el visor
+        mapjs.addPlugin(baseLayerSelector);
         // CARGA DE CAPAS
         mapajs.addLayers([PT01, PT07, PT08, PT09])
     </script>
