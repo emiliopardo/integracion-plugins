@@ -16,6 +16,13 @@
     <!-- Plugin SimpleLegend-->
     <script type="text/javascript" src="https://emiliopardo.github.io/simplelegend/simplelegend.ol.min.js"></script>
     <link href="https://emiliopardo.github.io/simplelegend/simplelegend.ol.min.css" rel="stylesheet" />
+    <!-- Plugin MapHeader-->
+    <script type="text/javascript" src="https://emiliopardo.github.io/mapheader/mapheader.ol.min.js"></script>
+    <link href="https://emiliopardo.github.io/mapheader/mapheader.ol.min.css" rel="stylesheet" />
+    <!-- Plugin MapFooter-->
+    <script type="text/javascript" src="https://emiliopardo.github.io/mapfooter/mapfooter.ol.min.js"></script>
+    <link href="https://emiliopardo.github.io/mapfooter/mapfooter.ol.min.css" rel="stylesheet" />
+
     <style>
         html,
         body {
@@ -230,7 +237,7 @@
             layers: [PT01, PT07, PT08, PT09]
         }
         // Constructor del plugin SimpleLegend con parámetros de configuración
-        const simplelegend = new M.plugin.SimpleLegend(configSimpleLegend);
+        const simplelegend = new M.plugin.Simplelegend(configSimpleLegend);
         // Se carga el plugin en el visor
         mapajs.addPlugin(baseLayerSelector);
         mapajs.addPlugin(simplelegend);
