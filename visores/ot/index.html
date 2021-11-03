@@ -8,6 +8,11 @@
     <!-- ficheros javascript -->
     <script type="text/javascript" src="https://mapea4-sigc.juntadeandalucia.es/js/mapea-6.0.0.ol.min.js"></script>
     <script type="text/javascript" src="https://mapea4-sigc.juntadeandalucia.es/js/configuration-6.0.0.js"></script>
+    <!-- Plugin BaseLayers-->
+    <link href="https://emiliopardo.github.io/simplebaselayerselector/simplebaselayerselector.ol.min.css"
+        rel="stylesheet" />
+    <script type="text/javascript"
+        src="https://emiliopardo.github.io/simplebaselayerselector/simplebaselayerselector.ol.min.js"></script>
     <style>
         html,
         body {
@@ -30,7 +35,6 @@
 <body>
     <div id="map"></div>
     <script type="text/javascript">
-
         // DEFINICIÓN CAPAS BASE //
 
         const ortofoto2016_color = new M.layer.WMS({
@@ -190,7 +194,12 @@
                 MapaAndalucia],
         });
 
+        // configuración plugin simpleBaseLayerSelector
 
+        const configSimpleBaseLayerSelector = { displayBaseLayersInLayerSwitcher: false }
+
+        // Constructor del plugin Simplebaselayerselector con parámetros de configuración
+        const baseLayerSelector = new M.plugin.Simplebaselayerselector(configSimpleBaseLayerSelector);
         // CARGA DE CAPAS
         mapajs.addLayers([PT01, PT07, PT08, PT09])
     </script>
