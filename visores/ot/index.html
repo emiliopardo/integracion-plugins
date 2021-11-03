@@ -182,6 +182,8 @@
             styles: 'PT01_Ambipot'
         });
 
+        PT01.setLegendURL('https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?SERVICE=WMS&VERSION=1.1.0&REQUEST=GetLegendGraphic&LAYER=PT01&FORMAT=image%2Fpng&EXCEPTIONS=image%2Fpng&style=PT01_Ambipot')
+
         let PT07 = new M.layer.WMS({
             url: 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
             name: 'PT07',
@@ -191,6 +193,8 @@
         }, {
             styles: 'PT07_Zoprotec'
         });
+
+        PT07.setLegendURL('https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?SERVICE=WMS&VERSION=1.1.0&REQUEST=GetLegendGraphic&LAYER=PT07&FORMAT=image%2Fpng&EXCEPTIONS=image%2Fpng&style=PT07_Zoprotec')
 
         let PT08 = new M.layer.WMS({
             url: 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
@@ -202,6 +206,8 @@
             styles: 'PT08_Elinpro'
         });
 
+        PT08.setLegendURL('https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?SERVICE=WMS&VERSION=1.1.0&REQUEST=GetLegendGraphic&LAYER=PT08&FORMAT=image%2Fpng&EXCEPTIONS=image%2Fpng&style=PT08_Elinpro')
+
         let PT09 = new M.layer.WMS({
             url: 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
             name: 'PT09',
@@ -211,6 +217,8 @@
         }, {
             styles: 'PT09_Epunpro'
         });
+
+        PT09.setLegendURL('https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?SERVICE=WMS&VERSION=1.1.0&REQUEST=GetLegendGraphic&LAYER=PT09&FORMAT=image%2Fpng&EXCEPTIONS=image%2Fpng&style=PT09_Epunpro')
         // FIN PROTECCIÓN TERRITORIAL //
 
         mapajs = M.map({
@@ -228,19 +236,19 @@
 
         // configuración plugin simpleBaseLayerSelector
         const configSimpleBaseLayerSelector = { displayBaseLayersInLayerSwitcher: false }
-        // Constructor del plugin Simplebaselayerselector con parámetros de configuración
-        const baseLayerSelector = new M.plugin.Simplebaselayerselector(configSimpleBaseLayerSelector);
         // configuración plugin SimpleLegend
         const configSimpleLegend = {
             title: 'Leyenda',
             draggable: true,
             layers: [PT01, PT07, PT08, PT09]
         }
+        // Constructor del plugin Simplebaselayerselector con parámetros de configuración
+         const baseLayerSelector = new M.plugin.Simplebaselayerselector(configSimpleBaseLayerSelector);
         // Constructor del plugin SimpleLegend con parámetros de configuración
         const simplelegend = new M.plugin.Simplelegend(configSimpleLegend);
-        // Se carga el plugin en el visor
+        // Se cargan los plugins en el visor
         mapajs.addPlugin(baseLayerSelector);
-        mapajs.addPlugin(simplelegend);
+        //mapajs.addPlugin(simplelegend);
 
         //CAPAS AUXILIARES NO SE MUESTRAN EN LayerSwitcher
         limites_Municipales_lineal.displayInLayerSwitcher = false;
