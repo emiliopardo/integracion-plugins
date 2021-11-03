@@ -240,7 +240,7 @@
         const configSimpleLegend = {
             title: 'Leyenda',
             draggable: true,
-            layers: [PT01, PT07, PT08, PT09]
+            layers: []
         }
         // Constructor del plugin Simplebaselayerselector con parámetros de configuración
          const baseLayerSelector = new M.plugin.Simplebaselayerselector(configSimpleBaseLayerSelector);
@@ -248,7 +248,9 @@
         const simplelegend = new M.plugin.Simplelegend(configSimpleLegend);
         // Se cargan los plugins en el visor
         mapajs.addPlugin(baseLayerSelector);
-        //mapajs.addPlugin(simplelegend);
+        mapajs.addPlugin(simplelegend);
+
+        simplelegend.updateLegend([PT01, PT07, PT08,PT09])
 
         //CAPAS AUXILIARES NO SE MUESTRAN EN LayerSwitcher
         limites_Municipales_lineal.displayInLayerSwitcher = false;
