@@ -136,6 +136,31 @@
             tiled: true
         });
 
+
+        let contexto_andalucia = new M.layer.WMS({
+            url: 'https://www.callejerodeandalucia.es/servicios/base/wms?',
+            name: 'contexto_andalucia',
+            legend: 'contexto_andalucia',
+            transparent: true,
+            tiled: true
+        });
+
+        let batimetria = new M.layer.WMS({
+            url: 'https://www.callejerodeandalucia.es/servicios/base/wms?',
+            name: 'batimetria',
+            legend: 'batimetria',
+            transparent: true,
+            tiled: true
+        });
+
+        let toponimia = new M.layer.WMS({
+            url: 'https://www.callejerodeandalucia.es/servicios/base/wms?',
+            name: 'CDAU_toponimia',
+            legend: 'Toponimia',
+            transparent: true,
+            tiled: true
+        });
+
         //PROTECCIÓN TERRITORIAL //
         let PT01 = new M.layer.WMS({
             url: 'https://www.juntadeandalucia.es/fomentoyvivienda/IDE/proteccionterritorial/servicios/wms?',
@@ -176,17 +201,6 @@
         }, {
             styles: 'PT09_Epunpro'
         });
-
-
-        let toponimia = new M.layer.WMS({
-            url: 'https://www.callejerodeandalucia.es/servicios/base/wms?',
-            name: 'CDAU_toponimia',
-            legend: 'Toponimia',
-            transparent: true,
-            tiled: true
-        });
-
-
         // FIN PROTECCIÓN TERRITORIAL //
 
         mapajs = M.map({
@@ -215,12 +229,12 @@
         limites_Municipales_lineal.displayInLayerSwitcher = false;
         limites_Provinciales_lineal.displayInLayerSwitcher = false;
         toponimia.displayInLayerSwitcher = false;
+        batimetria.displayInLayerSwitcher =false;
+        contexto_andalucia.displayInLayerSwitcher=false;
         //CARGA DE CAPAS AUXILIARES
-        mapajs.addLayers([limites_Provinciales_lineal,limites_Municipales_lineal])
-
+        mapajs.addLayers([contexto_andalucia,batimetria,limites_Provinciales_lineal,limites_Municipales_lineal])
         // CARGA DE CAPAS TEMÁTICAS
         mapajs.addLayers([PT01, PT07, PT08, PT09])
-
         //CARGA DE CAPA DE TOPONIMIA
         mapajs.addLayers([toponimia])
 
