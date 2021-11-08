@@ -140,7 +140,7 @@
 
         mdt_2016.setLegendURL('https://www.ideandalucia.es/visor/leyendas/mdt_2016_tintas_hipsometricas.png');
 
-        const CDAU_Base = new M.layer.WMS({
+        const CDAUBase = new M.layer.WMS({
             url: 'https://www.callejerodeandalucia.es/servicios/base/wms?',
             name: 'CDAU_base',
             legend: 'Base Cartográfica Callejero Digital de Andalucía',
@@ -262,7 +262,7 @@
                 ortofoto2016_infrarrojo,
                 mdt_siose2013,
                 mdt_2016,
-                CDAU_Base,
+                CDAUBase,
                 MapaAndalucia],
         });
 
