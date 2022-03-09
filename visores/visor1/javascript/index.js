@@ -33,13 +33,13 @@ const configSimpleBaseLayerSelector = { displayBaseLayersInLayerSwitcher: false 
     data: {
       name: 'Directorio de Empresas',
       layers: [
-        direst_comercio_2018,
-        direst_construccion_2018,
-        direst_energia_2018,
-        direst_hosteleria_2018,
-        direst_industria_2018,
-        direst_servicios_2018,
-        direst_transporte_2018
+        direst_comercio_2020,
+        direst_construccion_2020,
+        direst_energia_2020,
+        direst_hosteleria_2020,
+        direst_industria_2020,
+        direst_servicios_2020,
+        direst_transporte_2020
       ]
     }
   }
