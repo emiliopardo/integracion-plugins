@@ -376,7 +376,7 @@ const viviendas_colectivas = new M.layer.WMS({
 //Capa ise:Nuevas_Tecnologias
 
 const tecnologia = new M.layer.WFS({
-    name: "Nuevas_Tecnologias",
+    name: "nuevas_tecnologias",
 
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
@@ -457,7 +457,7 @@ tecnologia.setStyle(compositeTecnologia);
 //Capa ise:Agricultura
 
 const agricultura = new M.layer.WFS({
-    name: "Agricultura_Ganaderia_Pesca",
+    name: "agricultura_ganaderia_pesca",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Agricultura, ganadería y pesca",
@@ -540,7 +540,7 @@ agricultura.setStyle(compositeAgricultura);
 //Capa ise:Cultura
 
 const cultura = new M.layer.WFS({
-    name: "Cultura",
+    name: "cultura",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Cultura",
@@ -634,7 +634,7 @@ cultura.setStyle(compositeCultura);
 //Capa ise:EmpresasYprofesionales
 
 const empresa = new M.layer.WFS({
-    name: "EmpresasYprofesionales",
+    name: "empresas_profesionales",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Empresas y profesionales",
@@ -708,7 +708,7 @@ empresa.setStyle(compositeEmpresa);
 const educacion = new M.layer.WFS({
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
-    name: "Estudiar",
+    name: "estudiar",
     legend: "Estudiar",
     geometry: 'POINT',
     extract: true,
@@ -830,7 +830,7 @@ const compositeEducacion = categoriaEducacion.add(clusterStyleEducacion);
 educacion.setStyle(compositeEducacion);
 
 const empleo = new M.layer.WFS({
-    name: "Empleo",
+    name: "empleo",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Empleo",
@@ -908,7 +908,7 @@ empleo.setStyle(compositeEmpleo);
 
 
 const industria = new M.layer.WFS({
-    name: "Industria_Minas",
+    name: "industria_minas",
 
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
@@ -989,7 +989,7 @@ industria.setStyle(compositeIndustria);
 //Capa ise:Investigación e Innovacion
 
 const investigacion = new M.layer.WFS({
-    name: "Investigacion_Innovacion",
+    name: "investigacion",
 
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
@@ -1082,7 +1082,7 @@ investigacion.setStyle(compositeInvestigacion);
 const justicia = new M.layer.WFS({
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
-    name: "JusticiaSeguridadEmergencias",
+    name: "justicia_seguridad_emergencias",
     legend: "Justicia, seguridad y emergencias",
     cql: "Dependencia<>'Ayuntamiento' AND Dependencia<>'Ministerio del Interior' AND Tipo<>'Bomberos'",
     geometry: 'POINT',
@@ -1170,7 +1170,7 @@ justicia.setStyle(compositeJusticia);
 
 
 const medioAmbiente = new M.layer.WFS({
-    name: "MedioAmbiente",
+    name: "medio_ambiente",
 
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
@@ -1257,8 +1257,7 @@ const compositeMedioAmbiente = categoriaMedioAmbiente.add(clusterStyleMedioAmbie
 medioAmbiente.setStyle(compositeMedioAmbiente);
 
 const otros = new M.layer.WFS({
-    name: "Otros",
-
+    name: "otros",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Otros",
@@ -1340,8 +1339,7 @@ const compositeOtros = categoriaOtros.add(clusterStyleOtros);
 otros.setStyle(compositeOtros);
 
 const salud = new M.layer.WFS({
-    name: "Salud",
-
+    name: "salud",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Salud",
@@ -1441,8 +1439,7 @@ const compositeSalud = categoriaSalud.add(clusterStyleSalud);
 salud.setStyle(compositeSalud);
 
 const social = new M.layer.WFS({
-    name: "Servicios_Sociales",
-
+    name: "servicios_sociales",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Servicios sociales",
@@ -1557,7 +1554,7 @@ social.setStyle(compositeSocial);
 // ISE Transporte
 
 const transporte = new M.layer.WFS({
-    name: "Trafico_Transporte",
+    name: "trafico_transporte",
 
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
@@ -1630,7 +1627,7 @@ const compositeTransporte = categoriaTransporte.add(clusterStyconstransporte);
 transporte.setStyle(compositeTransporte);
 
 const turismo = new M.layer.WFS({
-    name: "Turismo_Ocio",
+    name: "turismo_ocio",
 
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
@@ -1717,7 +1714,7 @@ turismo.setStyle(compositeTurismo);
 //registros
 
 const registros = new M.layer.WFS({
-    name: "Registros",
+    name: "registros",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     name: "Registros",
@@ -1771,65 +1768,11 @@ registros.setStyle(estiloRegistros);
 registros.setStyle(clusterStyleRegistros);
 
 
-//buzones
 
-const buzones = new M.layer.WFS({
-    name: "Buzones",
-    url: "https://www.ideandalucia.es/services/ise/wfs?",
-    namespace: "ise",
-    name: "Buzones",
-    geometry: 'MPOINT',
-    extract: true
-}, {
-    vendor: {
-        getFeature: {
-            'propertyName': 'Nombre,Horario,Direccion,Foto,geom'
-        }
-    }
-});
-
-const estiloBuzones = new M.style.Point({
-    icon: {
-        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Sedes/svg/logo6.svg'
-    }
-});
-
-const clusterOptionsBuzones = {
-    ranges: [{
-        min: 2,
-        max: 100,
-        style: new M.style.Point({
-            fill: {
-                color: '#699923',
-                opacity: 1
-            },
-            stroke: {
-                color: '#224d19'
-            },
-            radius: 12
-        })
-    }
-    ],
-    animated: true,
-    hoverInteraction: false,
-    displayAmount: true,
-    selectedInteraction: true,
-    maxFeaturesToSelect: 2,
-    distance: 100,
-    label: {
-        font: 'bold 12px Comic Sans MS',
-        color: '#FFFFFF'
-    }
-};
-
-const clusterStyleBuzones = new M.style.Cluster(clusterOptionsBuzones, vendorParameters);
-
-buzones.setStyle(estiloBuzones);
-buzones.setStyle(clusterStyleBuzones);
 
 // delegaciones 
 const delegaciones = new M.layer.WFS({
-    name: "Delegaciones",
+    name: "delegaciones",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     name: "Delegaciones",
@@ -1885,7 +1828,7 @@ delegaciones.setStyle(clusterStyleDelegaciones);
 
 //ArchivosCentrales 
 const archivos = new M.layer.WFS({
-    name: "ArchivosCentrales",
+    name: "archivos_centrales",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     name: "Archivos_Centrales",
@@ -1940,7 +1883,7 @@ archivos.setStyle(clusterStyleArchivos);
 
 //Organizacion Institucional
 const organizacionInstitucional = new M.layer.WFS({
-    name: "OrganizacionInstitucional",
+    name: "organizaciones_institucionales",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     name: "Organizacion_institucional",
@@ -2049,7 +1992,7 @@ organizacionInstitucional.setStyle(compositeOrganizacionInstitucional);
 
 //consejerías
 const consejerias = new M.layer.WFS({
-    name: "Consejerias",
+    name: "consejerias",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     name: "Consejerias",
@@ -2107,7 +2050,7 @@ consejerias.setStyle(clusterStyleConsejerias);
 //organismos
 
 const organismos = new M.layer.WFS({
-    name: "Organismos",
+    name: "organismos",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     name: "Organismos",
