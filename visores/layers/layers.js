@@ -377,7 +377,6 @@ const viviendas_colectivas = new M.layer.WMS({
 
 const tecnologia = new M.layer.WFS({
     name: "nuevas_tecnologias",
-
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Nuevas tecnologías",
@@ -909,7 +908,6 @@ empleo.setStyle(compositeEmpleo);
 
 const industria = new M.layer.WFS({
     name: "industria_minas",
-
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Industria y minas",
@@ -990,7 +988,6 @@ industria.setStyle(compositeIndustria);
 
 const investigacion = new M.layer.WFS({
     name: "investigacion",
-
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Investigación e innovación",
@@ -1171,7 +1168,6 @@ justicia.setStyle(compositeJusticia);
 
 const medioAmbiente = new M.layer.WFS({
     name: "medio_ambiente",
-
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Medio ambiente",
@@ -1555,7 +1551,6 @@ social.setStyle(compositeSocial);
 
 const transporte = new M.layer.WFS({
     name: "trafico_transporte",
-
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Tráfico y transporte",
@@ -1628,7 +1623,6 @@ transporte.setStyle(compositeTransporte);
 
 const turismo = new M.layer.WFS({
     name: "turismo_ocio",
-
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Turismo y ocio",
@@ -1717,7 +1711,6 @@ const registros = new M.layer.WFS({
     name: "registros",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
-    name: "Registros",
     geometry: 'MPOINT',
     extract: true
 }, {
@@ -1775,7 +1768,6 @@ const delegaciones = new M.layer.WFS({
     name: "delegaciones",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
-    name: "Delegaciones",
     geometry: 'MPOINT',
     extract: true
 }, {
@@ -1831,7 +1823,6 @@ const archivos = new M.layer.WFS({
     name: "archivos_centrales",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
-    name: "Archivos_Centrales",
     geometry: 'MPOINT',
     extract: true
 }, {
@@ -1886,7 +1877,6 @@ const organizacionInstitucional = new M.layer.WFS({
     name: "organizaciones_institucionales",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
-    name: "Organizacion_institucional",
     geometry: 'MPOINT',
     extract: true
 }, {
@@ -1995,7 +1985,6 @@ const consejerias = new M.layer.WFS({
     name: "consejerias",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
-    name: "Consejerias",
     geometry: 'MPOINT',
     extract: true
 }, {
@@ -2053,7 +2042,6 @@ const organismos = new M.layer.WFS({
     name: "organismos",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
-    name: "Organismos",
     geometry: 'MPOINT',
     extract: true
 }, {
