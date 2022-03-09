@@ -80,9 +80,9 @@ const MapaAndalucia = new M.layer.WMS({
 })
 
 // definición vector layers capas de overlay
-const direst_transporte_2018 = new M.layer.WMS({
+const direst_transporte_2020 = new M.layer.WMS({
     url: 'http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?',
-    name: 'direst_transporte_2018',
+    name: 'direst_transporte_2020',
     legend: 'Sector Transporte y almacenamiento',
     transparent: true,
     tiled: true
@@ -91,9 +91,9 @@ const direst_transporte_2018 = new M.layer.WMS({
   })
   
   
-  const direst_servicios_2018 = new M.layer.WMS({
+  const direst_servicios_2020 = new M.layer.WMS({
     url: 'http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?',
-    name: 'direst_servicios_2018',
+    name: 'direst_servicios_2020',
     legend: 'Sector Servicios sanitarios, educativos y resto de servicios',
     transparent: true,
     tiled: true
@@ -101,9 +101,9 @@ const direst_transporte_2018 = new M.layer.WMS({
     styles: 'direst_servicios'
   })
   
-  const direst_industria_2018 = new M.layer.WMS({
+  const direst_industria_2020 = new M.layer.WMS({
     url: 'http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?',
-    name: 'direst_industria_2018',
+    name: 'direst_industria_2020',
     legend: 'Sector Industria',
     transparent: true,
     tiled: true
@@ -111,9 +111,9 @@ const direst_transporte_2018 = new M.layer.WMS({
     styles: 'direst_industria'
   })
   
-  const direst_hosteleria_2018 = new M.layer.WMS({
+  const direst_hosteleria_2020 = new M.layer.WMS({
     url: 'http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?',
-    name: 'direst_hosteleria_2018',
+    name: 'direst_hosteleria_2020',
     legend: 'Sector Hostelería',
     transparent: true,
     tiled: true
@@ -121,9 +121,9 @@ const direst_transporte_2018 = new M.layer.WMS({
     styles: 'direst_hosteleria'
   })
   
-  const direst_energia_2018 = new M.layer.WMS({
+  const direst_energia_2020 = new M.layer.WMS({
     url: 'http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?',
-    name: 'direst_energia_2018',
+    name: 'direst_energia_2020',
     legend: 'Sector Energía, agua y resíduos',
     transparent: true,
     tiled: true
@@ -131,9 +131,9 @@ const direst_transporte_2018 = new M.layer.WMS({
     styles: 'direst_energia'
   })
   
-  const direst_construccion_2018 = new M.layer.WMS({
+  const direst_construccion_2020 = new M.layer.WMS({
     url: 'http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?',
-    name: 'direst_construccion_2018',
+    name: 'direst_construccion_2020',
     legend: 'Sector Construcción',
     transparent: true,
     tiled: true
@@ -141,9 +141,9 @@ const direst_transporte_2018 = new M.layer.WMS({
     styles: 'direst_construccion'
   })
   
-  const direst_comercio_2018 = new M.layer.WMS({
+  const direst_comercio_2020 = new M.layer.WMS({
     url: 'http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?',
-    name: 'direst_comercio_2018',
+    name: 'direst_comercio_2020',
     legend: 'Sector Comercio',
     transparent: true,
     tiled: true
