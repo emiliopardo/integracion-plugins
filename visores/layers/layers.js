@@ -10,7 +10,7 @@ const ortofoto2016_color = new M.layer.WMS({
     styles: 'default'
 })
 
-ortofoto2016_color.setLegendURL('https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png')
+ortofoto2016_color.setLegendURL('../leyendas/ortofoto2016_color.png')
 
 const ortofoto2016_pancromatica = new M.layer.WMS({
     url: 'http://www.ideandalucia.es/wms/ortofoto2016?',
@@ -22,7 +22,7 @@ const ortofoto2016_pancromatica = new M.layer.WMS({
     styles: 'default'
 })
 
-ortofoto2016_pancromatica.setLegendURL('https://www.ideandalucia.es/visor/leyendas/ortofoto2016_pancromatico.png');
+ortofoto2016_pancromatica.setLegendURL('../leyendas/ortofoto2016_pancromatico.png');
 
 const ortofoto2016_infrarrojo = new M.layer.WMS({
     url: 'http://www.ideandalucia.es/wms/ortofoto2016?',
@@ -34,7 +34,7 @@ const ortofoto2016_infrarrojo = new M.layer.WMS({
     styles: 'default'
 })
 
-ortofoto2016_infrarrojo.setLegendURL('https://www.ideandalucia.es/visor/leyendas/ortofoto2016_infrarrojo.png');
+ortofoto2016_infrarrojo.setLegendURL('../leyendas/ortofoto2016_infrarrojo.png');
 
 
 const mdt_siose2013 = new M.layer.WMS({
@@ -47,7 +47,7 @@ const mdt_siose2013 = new M.layer.WMS({
     styles: 'default'
 })
 
-mdt_siose2013.setLegendURL('https://www.ideandalucia.es/visor/leyendas/siose_2013.png');
+mdt_siose2013.setLegendURL('../leyendas/siose_2013.png');
 
 const mdt_2016 = new M.layer.WMS({
     url: 'https://www.ideandalucia.es/wms/mdt_2016?',
@@ -59,7 +59,7 @@ const mdt_2016 = new M.layer.WMS({
     styles: 'default'
 })
 
-mdt_2016.setLegendURL('https://www.ideandalucia.es/visor/leyendas/mdt_2016_tintas_hipsometricas.png');
+mdt_2016.setLegendURL('../leyendas/mdt_2016_tintas_hipsometricas.png');
 
 const CDAU_Base = new M.layer.WMS({
     url: 'https://www.callejerodeandalucia.es/servicios/base/wms?',
@@ -69,7 +69,7 @@ const CDAU_Base = new M.layer.WMS({
     tiled: true
 })
 
-CDAU_Base.setLegendURL('https://www.ideandalucia.es/visor/leyendas/cdau_base.png');
+CDAU_Base.setLegendURL('../leyendas/cdau_base.png');
 
 const MapaAndalucia = new M.layer.WMS({
     url: 'https://www.ideandalucia.es/services/andalucia/wms?',
@@ -78,6 +78,8 @@ const MapaAndalucia = new M.layer.WMS({
     transparent: false,
     tiled: true
 })
+
+MapaAndalucia.setLegendURL('../leyendas/mapa_andalucia.png');
 
 // definición vector layers capas de overlay
 const direst_transporte_2020 = new M.layer.WMS({
