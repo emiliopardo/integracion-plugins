@@ -585,7 +585,7 @@ let culturaPatrimonio = new M.style.Point({
 //SimbologÃ­a categorizada
 
 let categoriaCultura = new M.style.Category("Nivel2", {
-    "Artes escÃ©nicas": culturaArtesEscenicas,
+    "Artes escénicas": culturaArtesEscenicas,
     "Letras, bibliotecas y archivos": culturaLetras,
     "Otros centros": culturaOtrosCentros,
     "Patrimonio": culturaPatrimonio      
@@ -987,7 +987,7 @@ industria.setStyle(compositeIndustria);
 //Capa ise:Investigación e Innovacion
 
 const investigacion = new M.layer.WFS({
-    name: "investigacion",
+    name: "investigacion_innovacion",
     url: "https://www.ideandalucia.es/services/ise/wfs?",
     namespace: "ise",
     legend: "Investigación e innovación",
