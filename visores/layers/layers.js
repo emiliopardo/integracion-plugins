@@ -556,39 +556,39 @@ const cultura = new M.layer.WFS({
 
 
 
-//Asignación de Iconos
+//AsignaciÃ³n de Iconos
 
-const culturaArtesEscenicas = new M.style.Point({
+let culturaArtesEscenicas = new M.style.Point({
     icon: {
         src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/artes.png'
     }
 });
 
-const culturaconstras = new M.style.Point({
+let culturaLetras = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/constras.png'
+        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/letras.png'
     }
 });
 
-const culturaOtrosCentros = new M.style.Point({
+let culturaOtrosCentros = new M.style.Point({
     icon: {
         src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/otros_centros.png'
     }
 });
 
-const culturaPatrimonio = new M.style.Point({
+let culturaPatrimonio = new M.style.Point({
     icon: {
         src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/patrimonio_c.png'
     }
 });
 
-//Simbología categorizada
+//SimbologÃ­a categorizada
 
-const categoriaCultura = new M.style.Category("Nivel2", {
-    "Artes escénicas": culturaArtesEscenicas,
-    "constras, bibliotecas y archivos": culturaconstras,
+let categoriaCultura = new M.style.Category("Nivel2", {
+    "Artes escÃ©nicas": culturaArtesEscenicas,
+    "Letras, bibliotecas y archivos": culturaLetras,
     "Otros centros": culturaOtrosCentros,
-    "Patrimonio": culturaPatrimonio
+    "Patrimonio": culturaPatrimonio      
 });
 
 //Simbología Cluster
