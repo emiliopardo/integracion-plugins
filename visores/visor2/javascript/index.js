@@ -38,7 +38,6 @@ const configInventarioSedesEquipamientos = {
                     group: 'Sedes',
                     layers: [
                         registros,
-                        buzones,
                         delegaciones,
                         archivos,
                         organizacionInstitucional,
