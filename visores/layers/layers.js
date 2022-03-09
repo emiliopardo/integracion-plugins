@@ -560,25 +560,25 @@ const cultura = new M.layer.WFS({
 
 let culturaArtesEscenicas = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/artes.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/artes.png'
     }
 });
 
 let culturaLetras = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/letras.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/letras.png'
     }
 });
 
 let culturaOtrosCentros = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/otros_centros.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/otros_centros.png'
     }
 });
 
 let culturaPatrimonio = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/patrimonio_c.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Cultura/patrimonio_c.png'
     }
 });
 
@@ -735,49 +735,49 @@ const estiloEducacion = new M.style.Point({
 
 const educacionCentrosEspecificos = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/centros_especificos.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/centros_especificos.png'
     }
 });
 
 const educacionInfantil = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/educacion.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/educacion.png'
     }
 });
 
 const educacionDistancia = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/e_distancia.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/e_distancia.png'
     }
 });
 
 const educacionArtisticas = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/e_artisticas.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/e_artisticas.png'
     }
 });
 
 const educacionIdiomas = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/escuela_oficial.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/escuela_oficial.png'
     }
 });
 
 const educacionPermanente = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/educacion_permanente.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/educacion_permanente.png'
     }
 });
 
 const educacionFP = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/formacion.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/formacion.png'
     }
 });
 
 const educacionUniversidades = new M.style.Point({
     icon: {
-        src: ' https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/universidades.png'
+        src: 'https://www.juntadeandalucia.es/institutodeestadisticaycartografia/mapa_equipamientos/geolocalizacion/iconos/Equipamientos/Educacion/universidades.png'
     }
 });
 
