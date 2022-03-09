@@ -786,8 +786,8 @@ const educacionUniversidades = new M.style.Point({
 const categoriaEducacion = new M.style.Category("Nivel2", {
     "Centros específicos de educación especial": educacionCentrosEspecificos,
     "Educación infantil, primaria y/o secundaria": educacionInfantil,
-    "EnseÃ±anza a distancia": educacionDistancia,
-    "EnseÃ±anzas artísticas, deportivas": educacionArtisticas,
+    "Enseñanza a distancia": educacionDistancia,
+    "Enseñanzas artísticas, deportivas": educacionArtisticas,
     "Escuela oficial de idiomas": educacionIdiomas,
     "Formación profesional": educacionFP,
     "Secciones y centros de educación permanente": educacionPermanente,
