@@ -466,7 +466,7 @@ const agricultura = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Tipo,Dependencia,Nivel1,Nivel2,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'
+            'propertyName': 'Nombre,Tipo,Dependencia,Nivel1,Nivel2,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'	
         }
     }
 });
@@ -839,7 +839,7 @@ const empleo = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'
+            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'	
         }
     }
 });
@@ -999,7 +999,7 @@ const investigacion = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'
+            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'	
         }
     }
 });
@@ -1090,7 +1090,7 @@ const justicia = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'
+            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'	
         }
     }
 });
@@ -1348,7 +1348,7 @@ const salud = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'
+            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'	
         }
     }
 });
@@ -1448,7 +1448,7 @@ const social = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Tipo,Dependencia,Nivel1,Nivel2,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'
+            'propertyName': 'Nombre,Tipo,Dependencia,Nivel1,Nivel2,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'	
         }
     }
 });
@@ -1564,7 +1564,7 @@ const transporte = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'
+            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'	
         }
     }
 });
@@ -1637,7 +1637,7 @@ const turismo = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'
+            'propertyName': 'Nombre,Dependencia,Nivel1,Nivel2,Tipo,Titularidad,Horario,Direccion,Edificio,Localidad,Municipio,Provincia,Telefono,Fax,Correo_electronico,web,geom'	
         }
     }
 });
@@ -1723,7 +1723,7 @@ const registros = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Horario,Direccion,Foto,geom'
+            'propertyName': 'Nombre,Horario,Direccion,Foto,geom'	
         }
     }
 });
@@ -2001,7 +2001,7 @@ const consejerias = new M.layer.WFS({
 }, {
     vendor: {
         getFeature: {
-            'propertyName': 'Nombre,Sede,Direccion,Telefono,Fax,Correo_electronico,web,Foto,geom'
+            'propertyName': 'Nombre,Sede,Direccion,Telefono,Fax,Correo_electronico,web,Foto,Procedimientos_Servicios,Temas,geom'
         }
     }
 });
