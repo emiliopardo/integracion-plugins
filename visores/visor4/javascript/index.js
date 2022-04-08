@@ -8,7 +8,7 @@ let base = new M.layer.WMS({
 })
 
 base.displayInLayerSwitcher = false;
-//base.setOpacity(0);
+base.setOpacity(0);
 
 
 const map = M.map({
