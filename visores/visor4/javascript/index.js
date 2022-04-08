@@ -1,6 +1,6 @@
 
 let base = new M.layer.WMS({
-  url: 'http://www.ideandalucia.es/wms/mta400v_2008?',
+  url: 'https://www.ideandalucia.es/wms/mta400v_2008?',
   name: 'Redes_energeticas',
   legend: 'Redes',
   transparent: false,
@@ -8,7 +8,7 @@ let base = new M.layer.WMS({
 })
 
 base.displayInLayerSwitcher = false;
-base.setOpacity(0);
+//base.setOpacity(0);
 
 
 const map = M.map({
