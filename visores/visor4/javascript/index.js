@@ -25,10 +25,10 @@ const map = M.map({
 // const config = 'http://localhost/tileserver/styles/style-basic/style.json'
 // const config = 'http://localhost/tileserver/styles/mapa_andalucia_gray_scale_fondo_negro/style.json'
 // const config = 'http://localhost/tileserver/styles/style-dark-matter/style.json'
-const config = 'https://api.maptiler.com/maps/openstreetmap/style.json?key=NxfrAN8VvDV2T3sw3L6z'
+// const config = 'https://api.maptiler.com/maps/openstreetmap/style.json?key=NxfrAN8VvDV2T3sw3L6z'
 
-const mvtStyles = new M.plugin.Mvtstyles(config);
+// const mvtStyles = new M.plugin.Mvtstyles(config);
 
-map.addPlugin(mvtStyles);
+// map.addPlugin(mvtStyles);
 
 
