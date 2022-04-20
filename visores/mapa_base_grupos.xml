@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ViewContext xmlns="http://www.opengis.net/context" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="Callejero" version="1.1.0" xsi:schemaLocation="http://www.opengis.net/context http://schemas.opengis.net/context/1.1.0/context.xsd">
+  <General>
+    <Window height="370" width="610"/>
+    <BoundingBox SRS="EPSG:25830" maxx="850000" maxy="4400000" minx="-100000" miny="3850000"/>
+    <Title>SIOSE y Ortofoto</Title>
+    <Extension>
+      <ol:maxExtent xmlns:ol="http://openlayers.org/context" maxx="850000" maxy="4400000" minx="-100000" miny="3850000"/>
+      <ol:group xmlns:ol="http://openlayers.org/context" id="nivel1" title="Mapa de  Andalucía" orderInsideGroupDisplay="0">
+	     <ol:group id="GROUP_1" title="Cartografía de Andalucía" orderInsideGroupDisplay="1" />
+	     <ol:group id="GROUP_2" title="Cartografía de Contexto" orderInsideGroupDisplay="0" />
+          </ol:group>
+     </Extension>    
+    <KeywordList>
+      <Keyword>IECA</Keyword>
+      <Keyword>SIOSE</Keyword>
+      <Keyword>Ortofoto</Keyword>
+      <Keyword>Andalucía</Keyword>
+      <Keyword>Toporaster</Keyword>
+      <Keyword>Callejero</Keyword>
+    </KeywordList>
+    <Abstract>Fichero de configuración del contexto de visualización de capas.</Abstract>
+  </General>
+  <LayerList>
+    <!--  ******   SIOSE + MDT 2013    ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/wms/siose_2013?"/>
+      </Server>
+      <Name>sombreado_siose_2013</Name>
+      <Title>Siose + MDT 2013</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png; mode=24bit</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">0.9</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">true</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/siose_2013.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <!--  ******   PENDIENTE_2016   ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/wms/mdt_2016?"/>
+      </Server>
+      <Name>sombreado_orografico_2016,modelo_digital_pendientes_2016</Name>
+      <Title>Modelo de Pendientes 2016</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png; mode=24bit</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">0.9</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">true</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/pendientes_2016_gardiente.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <!--  ******   MDT_2016   COLOR  ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/wms/mdt_2016?"/>
+      </Server>
+      <Name>sombreado_orografico_2016,modelo_digital_terreno_2016_color</Name>
+      <Title>Modelo Digital del Terreno 2016 (tintas Hipsométricas)</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png; mode=24bit</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">0.9</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">true</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/mdt_2016_tintas_hipsometricas.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <!--  ******   MDT_2016   PANCROMATICO  ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/wms/mdt_2016?"/>
+      </Server>
+      <Name>sombreado_orografico_2016,modelo_digital_terreno_2016_escala_grises</Name>
+      <Title>Modelo Digital del Terreno 2016 (Pancromático)</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png; mode=24bit</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">0.9</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">true</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/mdt_2016_pancromatico.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <!--  ******   ORTOFOTO 2016  COLOR  ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/wms/ortofoto2016?"/>
+      </Server>
+      <Name>ortofotografia_2016_rgb</Name>
+      <Title>Ortofotografía Digital de Andalucía año 2016 (RGB)</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png; mode=8bit</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">0.9</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">true</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <!--  ******   ORTOFOTO 2016  PANCROMATICA  ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/wms/ortofoto2016?"/>
+      </Server>
+      <Name>ortofotografia_2016_pancromatico</Name>
+      <Title>Ortofotografía Digital de Andalucía año 2016 (Pancromatico)</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png; mode=8bit</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">0.9</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">true</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/ortofoto2016_pancromatico.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <!--  ******   ORTOFOTO 2016  INFRARROJA  ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/wms/ortofoto2016?"/>
+      </Server>
+      <Name>ortofotografia_2016_infrarrojo</Name>
+      <Title>Ortofotografía Digital de Andalucía año 2016 (Infrarrojo)</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png; mode=8bit</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">0.9</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">true</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/ortofoto2016_infrarrojo.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <!--  ******   BASE CARTOGRAFICA CDAU  ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.callejerodeandalucia.es/servicios/base/wms?"/>
+      </Server>
+      <Name>CDAU_base</Name>
+      <Title>Base Cartográfica Callejero Digital de Andalucía</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png; mode=8bit</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">0.9</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">true</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/cdau_base.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+<!--  ******   FONDO TRANSPARENTE    ******  -->
+    <Layer hidden="0" queryable="0">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/services/andalucia/wms?"/>
+      </Server>
+      <Name>andalucia:btn100_0101s_uni_admin_paises</Name>
+      <Title>Sin Fondo</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">0.1</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">true</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/fondo_blanco.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>    
+    <!--  ******   CARTOGRAFIA DE CONTEXTO    ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/services/andalucia/wms?"/>
+      </Server>
+      <Name>andalucia:13_Cartografia_Contexto</Name>
+      <Title>Cartografía de Contexto</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">1</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">false</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+         <ol:groupDisplayLayerSwitcher xmlns:ol="http://openlayers.org/context">GROUP_2</ol:groupDisplayLayerSwitcher>
+	   <ol:orderInsideGroupDisplayLayerSwitcher xmlns:ol="http://openlayers.org/context">1</ol:orderInsideGroupDisplayLayerSwitcher>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/leyenda_Cartografia_Contexto_Mapa_Andalucia.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/services/andalucia/wms?"/>
+      </Server>
+      <Name>13_Textos_Cartografia_Contexto</Name>
+      <Title>Textos Cartografía de Contexto</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">1</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">false</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">true</ol:singleTile>
+         <ol:groupDisplayLayerSwitcher xmlns:ol="http://openlayers.org/context">GROUP_2</ol:groupDisplayLayerSwitcher>
+	   <ol:orderInsideGroupDisplayLayerSwitcher xmlns:ol="http://openlayers.org/context">2</ol:orderInsideGroupDisplayLayerSwitcher>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/leyenda_Textos_Contexto_Mapa_Andalucia.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <!--  ******   CARTOGRAFIA DE ANDALUCIA    ******  -->
+    <Layer hidden="0" queryable="1">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/services/andalucia/wms?"/>
+      </Server>
+      <Name>andalucia:01_Cartografia_Andalucia</Name>
+      <Title>Cartografía de Andalucia</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">1</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">false</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">false</ol:singleTile>
+         <ol:groupDisplayLayerSwitcher xmlns:ol="http://openlayers.org/context">GROUP_1</ol:groupDisplayLayerSwitcher>
+	   <ol:orderInsideGroupDisplayLayerSwitcher xmlns:ol="http://openlayers.org/context">1</ol:orderInsideGroupDisplayLayerSwitcher>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/leyenda_Cartografia_Mapa_Andalucia.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+    <!--  ******   TEXTOS CARTOGRAFIA DE ANDALUCIA    ******  -->
+    <Layer hidden="0" queryable="0">
+      <Server service="OGC:WMS" title="Andalucía" version="1.1.1">
+        <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/services/andalucia/wms?"/>
+      </Server>
+      <Name>andalucia:01_Textos_Andalucia</Name>
+      <Title>Textos Cartografía de Andalucia</Title>
+      <SRS>EPSG:25830</SRS>
+      <FormatList>
+        <Format current="1">image/png</Format>
+      </FormatList>
+      <Extension>
+        <ol:opacity xmlns:ol="http://openlayers.org/context">1</ol:opacity>
+        <ol:transparent xmlns:ol="http://openlayers.org/context">true</ol:transparent>
+        <ol:isBaseLayer xmlns:ol="http://openlayers.org/context">false</ol:isBaseLayer>
+        <ol:displayInLayerSwitcher xmlns:ol="http://openlayers.org/context">true</ol:displayInLayerSwitcher>
+        <ol:singleTile xmlns:ol="http://openlayers.org/context">true</ol:singleTile>
+         <ol:groupDisplayLayerSwitcher xmlns:ol="http://openlayers.org/context">GROUP_1</ol:groupDisplayLayerSwitcher>
+	   <ol:orderInsideGroupDisplayLayerSwitcher xmlns:ol="http://openlayers.org/context">2</ol:orderInsideGroupDisplayLayerSwitcher>
+      </Extension>
+      <StyleList>
+        <Style current="1">
+          <Name/>
+          <Title>Estilo de la leyenda</Title>
+          <LegendURL format="image/png" height="120" width="200">
+            <OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://www.ideandalucia.es/visor/leyendas/leyenda_Textos_Mapa_Andalucia.png"/>
+          </LegendURL>
+        </Style>
+      </StyleList>
+      <sld:MinScaleDenominator xmlns:sld="http://www.opengis.net/sld">730.78136246</sld:MinScaleDenominator>
+      <sld:MaxScaleDenominator xmlns:sld="http://www.opengis.net/sld">2500000</sld:MaxScaleDenominator>
+    </Layer>
+  </LayerList>
+</ViewContext>
