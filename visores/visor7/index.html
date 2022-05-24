@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta lang="ES">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapea 6 Style Mapbox</title>
+    <style>
+        html,
+        body,
+        #map {
+            padding: 0;
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            background: #FFFFFF;
+        }
+
+        #menu {
+            position: absolute;
+            margin-left: 48%;
+            margin-top: 10px;
+            z-index: 10000;
+        }
+
+        #select {
+            text-align: left;
+            padding-left: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="menu">
+        <select id="select">
+            <option value="color">Mapa de Andalucía a Color</option>
+            <option value="grises">Mapa de Andalucía Escala de Grises</option>
+            <option value="sepias">Mapa de Andalucía Escala de Sepias</option>
+        </select>
+    </div>
+    <div id="map"></div>
+    <!-- fichero estilos  MAPEA-->
+    <link href="https://mapea4-sigc.juntadeandalucia.es/assets/css/mapea-6.1.0.ol.min.css" rel="stylesheet" />
+    <!-- ficheros javascript MAPEA -->
+    <script type="text/javascript" src="https://mapea4-sigc.juntadeandalucia.es/js/mapea-6.1.0.ol.min.js"></script>
+    <script type="text/javascript" src="https://mapea4-sigc.juntadeandalucia.es/js/configuration-6.1.0.js"></script>
+    <!-- fichero estilos VISOR -->
+    <!-- <link href="../css/index.css" rel="stylesheet" /> -->
+    <!-- ficheros javascript VISOR -->
+    <script type="text/javascript" src="./mapbox-style/mapaAndalucia_color.js"></script>
+    <script type="text/javascript" src="./mapbox-style/mapaAndalucia_escala_grises.js"></script>
+    <script type="text/javascript" src="./mapbox-style/mapaAndalucia_escala_sepias.js"></script>
+    <script type="text/javascript" src="./javascript/olms.js"></script>
+    <script type="text/javascript" src="./javascript/index.js"></script>
+</body>
+
+</html>
