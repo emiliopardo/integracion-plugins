@@ -7,7 +7,7 @@ const mapjs = M.map({
     draw: false
   },
   zoom: 6,
-  controls: ['layerswitcher'],
+  controls: ['panzoombar','mouse','layerswitcher'],
   layers: [new M.layer.OSM(), new M.layer.WMS({
     url: 'https://ideandalucia.es/wms/ortofoto2016?',
     name: 'ortofotografia_2016_rgb',
