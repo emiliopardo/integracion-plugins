@@ -52,15 +52,15 @@ let mapa_andalucia_color = new M.layer.MapboxStyle({
 // Capa MVT 2
 let mapa_andalucia_fondo_negro = new M.layer.MapboxStyle({
   url: 'https://ws205.juntadeandalucia.es/tileserver/data/mapa_andalucia/{z}/{x}/{y}.pbf',
-  style: 'https://factorylab02.ieca.junta-andalucia.es/tileserver/styles/mapa_andalucia_gray_scale_fondo_negro/style.json',
+  style: 'https://ws205.juntadeandalucia.es/tileserver/styles/mapa_andalucia_gray_scale_fondo_negro/style.json',
   name: 'Mapa de Andalucia fondo negro',
   sourceName: 'mapa_andalucia',
   projection: 'EPSG:3857',
 });
 // Capa MVT 3
 let osm_andalucia_color = new M.layer.MapboxStyle({
-  url: 'https://factorylab02.ieca.junta-andalucia.es/tileserver/data/mapa_andalucia_osm/{z}/{x}/{y}.pbf',
-  style: 'https://factorylab02.ieca.junta-andalucia.es/tileserver/styles/style-osm-bright/style.json',
+  url: 'https://ws205.juntadeandalucia.es/tileserver/data/mapa_andalucia_osm/{z}/{x}/{y}.pbf',
+  style: 'https://ws205.juntadeandalucia.es/tileserver/styles/style-osm-bright/style.json',
   name: 'Open Street Maps',
   sourceName: 'mapa_andalucia_osm',
   projection: 'EPSG:3857',
