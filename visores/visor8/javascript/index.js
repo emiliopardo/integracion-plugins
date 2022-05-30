@@ -3,6 +3,13 @@
 const mapjs = M.map({
   container: 'map',
   projection: 'EPSG:3857*m',
+  projection: 'EPSG:3857*m',
+  center: {
+    x: -575849.044,
+    y: 4497865.157,
+    draw: false
+  },  
+  zoom: 6,
   controls: ['layerswitcher'],
   layers: [new M.layer.OSM(),new M.layer.WMS({
     url: 'https://ideandalucia.es/wms/ortofoto2016?',
