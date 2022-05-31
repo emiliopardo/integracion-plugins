@@ -29,18 +29,18 @@ const fondo_blanco = new M.layer.WMS({
 
 fondo_blanco.setOpacity(0)
 
-const mapjs = M.map({
-  container: 'map',
-  projection: 'EPSG:3857*m',
-  center: {
-    x: -575849.044,
-    y: 4497865.157,
-    draw: false
-  },
-  zoom: 6,
-  controls: ['panzoombar','mouse','layerswitcher'],
-  layers: [osm,ortofoto2016_color,ortofoto2016_pancromatica,fondo_blanco],
-});
+// const mapjs = M.map({
+  // container: 'map',
+  // projection: 'EPSG:3857*m',
+  // center: {
+    // x: -575849.044,
+    // y: 4497865.157,
+    // draw: false
+  // },
+  // zoom: 6,
+  // controls: ['panzoombar','mouse','layerswitcher'],
+  // layers: [osm,ortofoto2016_color,ortofoto2016_pancromatica,fondo_blanco],
+// });
 // Capa MVT 1
 let mapa_andalucia_color = new M.layer.MapboxStyle({
   url: 'https://ws205.juntadeandalucia.es/tileserver/data/mapa_andalucia/{z}/{x}/{y}.pbf',
@@ -66,4 +66,17 @@ let osm_andalucia_color = new M.layer.MapboxStyle({
   projection: 'EPSG:3857',
 });
 
-mapjs.addLayers([mapa_andalucia_color, osm_andalucia_color, mapa_andalucia_fondo_negro]);     
+// mapjs.addLayers([mapa_andalucia_color, osm_andalucia_color, mapa_andalucia_fondo_negro]);  
+
+const mapjs = M.map({
+  container: 'map',
+  projection: 'EPSG:3857*m',
+  center: {
+    x: -575849.044,
+    y: 4497865.157,
+    draw: false
+  },
+  zoom: 6,
+  controls: ['panzoombar','mouse','layerswitcher'],
+  layers: [mapa_andalucia_color, osm_andalucia_color, mapa_andalucia_fondo_negro],
+});
