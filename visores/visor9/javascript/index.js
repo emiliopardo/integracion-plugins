@@ -14,12 +14,12 @@ let mvt2 = new M.layer.MVT({
 });
 
 
-mvt2.on(M.evt.LOAD, function() {
-  //console.log("MVT Cargada");
-  let olmvt = mvt.getImpl().getOLLayer();
-  // mvt.getImpl().getOLLayer() instanceof ol.layer.VectorTile
-  olms.applyStyle(olmvt, andalucia_color_style, 'mapa_andalucia')
-});
+// mvt2.on(M.evt.LOAD, function() {
+//   //console.log("MVT Cargada");
+//   let olmvt = mvt.getImpl().getOLLayer();
+//   // mvt.getImpl().getOLLayer() instanceof ol.layer.VectorTile
+//   olms.applyStyle(olmvt, andalucia_color_style, 'mapa_andalucia')
+// });
 
 
 mvt.on(M.evt.LOAD, function() {
