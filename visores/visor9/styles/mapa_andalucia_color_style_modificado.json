@@ -3794,28 +3794,28 @@ let andalucia_color_style_modificado ={
         //         "symbol-spacing": 40
         //     }
         // },
-        {
-            "id": "Conduccion - Oleoducto",
-            "type": "symbol",
-            "source": "mapa_andalucia",
-            "source-layer": "Conduccion",
-            "minzoom": 13,
-            "maxzoom": 17,
-            "filter": [
-                "all",
-                [
-                    "==",
-                    "Tipo",
-                    "OLE"
-                ]
-            ],
-            "layout": {
-                "symbol-placement": "line",
-                "icon-image": "oleoducto",
-                "icon-size": 0.16,
-                "symbol-spacing": 40
-            }
-        },
+        // {
+        //     "id": "Conduccion - Oleoducto",
+        //     "type": "symbol",
+        //     "source": "mapa_andalucia",
+        //     "source-layer": "Conduccion",
+        //     "minzoom": 13,
+        //     "maxzoom": 17,
+        //     "filter": [
+        //         "all",
+        //         [
+        //             "==",
+        //             "Tipo",
+        //             "OLE"
+        //         ]
+        //     ],
+        //     "layout": {
+        //         "symbol-placement": "line",
+        //         "icon-image": "oleoducto",
+        //         "icon-size": 0.16,
+        //         "symbol-spacing": 40
+        //     }
+        // },
         {
             "id": "AnotacionesCurvasMaestras",
             "type": "symbol",
