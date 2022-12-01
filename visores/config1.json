@@ -5,7 +5,6 @@
         "coordinateformat": "EPSG:4326",
         "controls": [
             "mouse",
-            "layerswitcher",
             "overviewmap",
             "location",
             "panzoombar",
