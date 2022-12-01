@@ -24,7 +24,7 @@
                 "name": "00_Mapa_Andalucia",
                 "legend": "Mapa Topográfico de Andalucía",
                 "transparent": false,
-                "tiled": false,
+                "tiled": true,
                 "urlLegend": "https://raw.githubusercontent.com/emiliopardo/integracion-plugins/master/visores/leyendas/mapa_andalucia.png"
             },
             {
@@ -42,8 +42,18 @@
                 "transparent": false,
                 "tiled": true,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
+            },
+            {
+                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/grid/wms?",
+                "name": "gridp_250",
+                "legend": "Distribución Espacial de la Población en Andalucía",
+                "transparent": true,
+                "tiled": true,
+                "urlLegend": null
             }
+
         ],
         "initialzoom": 5
     }
 }
+
