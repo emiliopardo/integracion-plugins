@@ -36,7 +36,7 @@
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
             },
             {
-                "url": "http://www.ideandalucia.es/wms/ortofoto2016?",
+                "url": "https://www.ideandalucia.es/wms/ortofoto2016?",
                 "name": "ortofotografia_2016_rgb",
                 "legend": "Ortofotografía Color 0,5 metros/pixel (Año 2016)",
                 "transparent": false,
@@ -44,7 +44,7 @@
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/grid/wms?",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/grid/wms?",
                 "name": "gridp_250",
                 "legend": "Distribución Espacial de la Población en Andalucía",
                 "transparent": true,
