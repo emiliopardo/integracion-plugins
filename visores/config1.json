@@ -49,7 +49,7 @@
                 "legend": "Distribución Espacial de la Población en Andalucía",
                 "transparent": true,
                 "tiled": true,
-                "urlLegend": null
+                "urlLegend": ""
             }
         ],
         "initialzoom": 5
