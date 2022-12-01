@@ -1,0 +1,139 @@
+{
+    "title": "Titulo de prueba",
+    "subtitle": "Subtitulo de prueba",
+    "labeldata": [
+        "name",
+        "location",
+        "province",
+        "address",
+        "web"
+    ],
+    "pointproperties": [
+        {
+            "nameGroup": "Museo",
+            "pointStyle": {
+                "radius": 10,
+                "fill": {
+                    "color": "red",
+                    "opacity": 1
+                },
+                "stroke": {
+                    "color": "white",
+                    "width": 3
+                },
+                "label": {
+                    "text": "Prueba de label",
+                    "font": "10px Comic Sans MS",
+                    "color": "#0000EE",
+                    "rotate": false,
+                    "scale": 1,
+                    "offset": [
+                        0,
+                        10
+                    ],
+                    "stroke": {
+                        "color": "#0000EE",
+                        "width": 1
+                    },
+                    "rotation": 0,
+                    "align": "M.style.align.LEFT",
+                    "baseline": "M.style.baseline.TOP"
+                }
+            }
+        },
+        {
+            "nameGroup": "Escuela",
+            "pointStyle": {
+                "iconImage": {
+                    "src": "http://mapea4-sigc.juntadeandalucia.es/assets/img/m-pin-24-sel.svg"
+                },
+                "label": {
+                    "text": "Texto",
+                    "font": "10px Comic Sans MS",
+                    "color": "#ff0ff0",
+                    "rotate": false,
+                    "scale": 1,
+                    "offset": [
+                        0,
+                        10
+                    ],
+                    "stroke": {
+                        "color": "#0000EE",
+                        "width": 1
+                    },
+                    "rotation": 0,
+                    "align": "M.style.align.LEFT",
+                    "baseline": "M.style.baseline.TOP"
+                }
+            }
+        }
+    ],
+    "configuration": {
+        "coordinateformat": "EPSG:4326",
+        "controls": [
+            "mouse",
+            "layerswitcher",
+            "overviewmap",
+            "location",
+            "panzoombar",
+            "scale"
+        ],
+        "initialcenter": {
+            "coordinates": [
+                235489.1388,
+                4140224.70057
+            ],
+            "drawcenter": false,
+            "label": null
+        },
+        "initiallayers": [
+            {
+                "url": "https://www.ideandalucia.es/services/andalucia/wms?",
+                "name": "00_Mapa_Andalucia",
+                "legend": "Mapa Topográfico de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "urlLegend": "https://raw.githubusercontent.com/emiliopardo/integracion-plugins/master/visores/leyendas/mapa_andalucia.png"
+            },
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
+                "name": "CDAU_base",
+                "legend": "Base Cartográfica Callejero Digital de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
+            },
+            {
+                "url": "http://www.ideandalucia.es/wms/ortofoto2016?",
+                "name": "ortofotografia_2016_rgb",
+                "legend": "Ortofotografía Color 0,5 metros/pixel (Año 2016)",
+                "transparent": false,
+                "tiled": true,
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
+            }
+        ],
+        "initialzoom": 13,
+        "legend": [
+            {
+                "text": "Unidad AAIICC",
+                "color": "#0000ff",
+                "icon": null
+            },
+            {
+                "text": "Biblioteca",
+                "color": "#00ff00",
+                "icon": null
+            },
+            {
+                "text": "Museo",
+                "color": "#ff0000",
+                "icon": null
+            },
+            {
+                "text": "Enclave",
+                "color": "#ffff00",
+                "icon": null
+            }
+        ]
+    }
+}
