@@ -1,6 +1,6 @@
 {
-    "title": "Titulo de prueba",
-    "subtitle": "Subtitulo de prueba",
+    "title": "Probando Mapea Web Component",
+    "subtitle": "Prueba para cargar layers wms",
     "configuration": {
         "coordinateformat": "EPSG:4326",
         "controls": [
@@ -24,7 +24,7 @@
                 "name": "00_Mapa_Andalucia",
                 "legend": "Mapa Topográfico de Andalucía",
                 "transparent": false,
-                "tiled": true,
+                "tiled": false,
                 "urlLegend": "https://raw.githubusercontent.com/emiliopardo/integracion-plugins/master/visores/leyendas/mapa_andalucia.png"
             },
             {
