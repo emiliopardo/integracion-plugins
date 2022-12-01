@@ -1,6 +1,6 @@
 {
-    "title": "Probando Mapea Web Component",
-    "subtitle": "Prueba para cargar layers wms",
+    "title": "Probando Mapea v6.3.0 Web Component",
+    "subtitle": "Cargar layers wms",
     "configuration": {
         "coordinateformat": "EPSG:4326",
         "controls": [
