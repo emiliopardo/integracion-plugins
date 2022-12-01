@@ -9,6 +9,7 @@
             "location",
             "panzoombar",
             "scale",
+            "layerswitcher",
             "ScaleLine"
         ],
         "initialcenter": {
