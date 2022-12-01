@@ -112,28 +112,6 @@
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
             }
         ],
-        "initialzoom": 13,
-        "legend": [
-            {
-                "text": "Unidad AAIICC",
-                "color": "#0000ff",
-                "icon": null
-            },
-            {
-                "text": "Biblioteca",
-                "color": "#00ff00",
-                "icon": null
-            },
-            {
-                "text": "Museo",
-                "color": "#ff0000",
-                "icon": null
-            },
-            {
-                "text": "Enclave",
-                "color": "#ffff00",
-                "icon": null
-            }
-        ]
+        "initialzoom": 5
     }
 }
