@@ -49,7 +49,7 @@
         ],
         "overlaylayers": [
             {
-                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTMIENTO'&",
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
                 "name": "v_vial",
                 "legend": "Vias",
                 "transparent": true,
