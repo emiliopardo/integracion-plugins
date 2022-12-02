@@ -1,6 +1,6 @@
 {
     "title": "Probando Mapea v6.3.0 Web Component",
-    "subtitle": "Cargar layers wms",
+    "subtitle": "Se Cargan Cargan Base layers y Overlay Layers de tipo WMS y plugins SimpleLegend y BaseLayerSelector",
     "configuration": {
         "coordinateformat": "EPSG:4326",
         "controls": [
@@ -48,6 +48,24 @@
             }
         ],
         "overlaylayers": [
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTMIENTO'&",
+                "name": "v_vial",
+                "legend": "Vias",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Vial",
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
+            },
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
+                "name": "v_portalpk",
+                "legend": "Portales",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Portal",
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
+            },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/grid/wms?",
                 "name": "gridp_250",
