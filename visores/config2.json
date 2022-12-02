@@ -1,6 +1,6 @@
 {
     "title": "Probando Mapea v6.3.0 Web Component",
-    "subtitle": "Se Cargan Cargan Base layers y Overlay Layers de tipo WMS y plugins SimpleLegend y BaseLayerSelector",
+    "subtitle": "Se cargan capas Base layers y Overlay Layers de tipo WMS y plugins SimpleLegend y BaseLayerSelector",
     "configuration": {
         "coordinateformat": "EPSG:4326",
         "controls": [
