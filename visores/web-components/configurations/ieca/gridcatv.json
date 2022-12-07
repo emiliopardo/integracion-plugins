@@ -81,7 +81,7 @@
                 "tiled": true,
                 "style": "gridcatv:stl_viviendas_nviv",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcatv:stl_viviendas_nviv"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcatv_250"
             }
         ],
         "initialzoom": 5
