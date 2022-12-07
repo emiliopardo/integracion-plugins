@@ -79,9 +79,9 @@
                 "legend": "Industrial (250mx250m)",
                 "transparent": true,
                 "tiled": true,
-                "style": "stl_c02_industrial",
+                "style": "gridcattp:stl_c02_industrial",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c02_industrial"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=gridcattp:stl_c02_industria"
             }
         ],
         "initialzoom": 5
