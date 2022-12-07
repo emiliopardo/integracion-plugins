@@ -81,7 +81,7 @@
                 "tiled": true,
                 "style": "gridcattp:stl_c02_industrial",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image/png&width=20&height=20&layer=gridcattp_250&style=stl_c02_industrial"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c02_industrial"
             }
         ],
         "initialzoom": 5
