@@ -75,11 +75,11 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
-                "name": "epla_2021_transporte",
-                "legend": "Empresas Públicas Locales",
+                "name": "epla_2022_transporte",
+                "legend": "Sector Transporte y Almacenamiento",
                 "transparent": true,
                 "tiled": true,
-                "style": "default",
+                "style": "epla:epla17_transporte",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=30&HEIGHT=30&LAYER=epla_2021_transporte"
             }
