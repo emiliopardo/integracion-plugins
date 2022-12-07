@@ -88,7 +88,7 @@
                 "name": "mp_gidr_etiqueta",
                 "legend": "Etiquetas identificador Malla de Población Reducida",
                 "transparent": true,
-                "tiled": true,
+                "tiled": false,
                 "style": "grid_reducido:grid_reducido_etiquetas_grid",
                 "showLegend": false,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/grid_reducido/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mp_gidr_etiqueta"
