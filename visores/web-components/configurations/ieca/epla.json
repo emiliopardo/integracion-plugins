@@ -1,5 +1,5 @@
 {
-    "title": "Inventario de sedes y equipamientos",
+    "title": "Empresas Públicas Locales",
     "subtitle": "Se cargan capas Base layers y Overlay Layers de tipo WMS y plugins SimpleLegend y BaseLayerSelector",
     "configuration": {
         "coordinateformat": "EPSG:4326",
@@ -74,14 +74,14 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "http://www.ideandalucia.es:80/services/ise/wms?",
-                "name": "WMS",
-                "legend": "Inventario de sedes y equipamientos",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
+                "name": "epla_2021_transporte",
+                "legend": "Empresas Públicas Locales",
                 "transparent": true,
                 "tiled": true,
-                "style": "",
+                "style": "default",
                 "showLegend": true,
-                "urlLegend": ""
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=30&HEIGHT=30&LAYER=epla_2021_transporte"
             }
         ],
         "initialzoom": 5
