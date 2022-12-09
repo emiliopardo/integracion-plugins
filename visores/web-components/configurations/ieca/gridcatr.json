@@ -31,7 +31,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": null,
-                "urlLegend": "https://raw.githubusercontent.com/emiliopardo/integracion-plugins/master/visores/leyendas/mapa_andalucia.png"
+                "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
             },
             {
                 "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
