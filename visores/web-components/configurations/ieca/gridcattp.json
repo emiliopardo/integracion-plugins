@@ -1,5 +1,5 @@
 {
-    "title": "Tipologías constructivas",
+    "title": "Caracterización y distribución del espacio construido en Andalucía. Tipologías constructivas",
     "subtitle": "Se cargan capas Base layers y Overlay Layers de tipo WMS y plugins SimpleLegend y BaseLayerSelector",
     "configuration": {
         "coordinateformat": "EPSG:4326",
