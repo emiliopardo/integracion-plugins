@@ -1,5 +1,5 @@
 {
-    "title": "Distribución Espacial de la Población en Andalucía",
+    "title": "Distribución Espacial de la Población en Andalucía.  Población de Andalucía (total, sexo, nacionalidad, edad)",
     "subtitle": "Se cargan capas Base layers y Overlay Layers de tipo WMS y plugins SimpleLegend y BaseLayerSelector",
     "configuration": {
         "coordinateformat": "EPSG:4326",
