@@ -139,7 +139,7 @@
                 "legend": "Sector transporte y almacenamiento",
                 "transparent": true,
                 "tiled": true,
-                "style": "direst:direst_transportes",
+                "style": "direst:direst_transporte",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_transportes_2020"
             }           
