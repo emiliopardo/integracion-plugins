@@ -1,0 +1,89 @@
+{
+    "title": "Estadísticas Longitudinales de Biografías Reproductivas en Andalucía, 2002-2019. Indicadores de fecundidad",
+    "subtitle": "Se cargan capas Base layers y Overlay Layers de tipo WMS y plugins SimpleLegend y BaseLayerSelector",
+    "configuration": {
+        "coordinateformat": "EPSG:4326",
+        "controls": [
+            "mouse",
+            "overviewmap",
+            "location",
+            "panzoombar",
+            "scale",
+            "ScaleLine"
+        ],
+        "maxExtent": [
+            100448.6484375,
+            3987969.25,
+            619114.1875,
+            4274088.0
+        ],
+        "initialcenter": {
+            "coordinates": [
+                235489.1388,
+                4140224.70057
+            ]
+        },
+        "baselayers": [
+            {
+                "url": "https://www.ideandalucia.es/services/andalucia/wms?",
+                "name": "00_Mapa_Andalucia",
+                "legend": "Mapa Topográfico de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "style": null,
+                "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
+            },
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
+                "name": "CDAU_base",
+                "legend": "Base Cartográfica Callejero Digital de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "style": null,
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
+            },
+            {
+                "url": "https://www.ideandalucia.es/wms/ortofoto2016?",
+                "name": "ortofotografia_2016_rgb",
+                "legend": "Ortofotografía Color 0,5 metros/pixel (Año 2016)",
+                "transparent": false,
+                "tiled": true,
+                "style": "default",
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
+            }
+        ],
+        "overlaylayers": [
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
+                "name": "v_vial",
+                "legend": "Vias",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Vial",
+                "showLegend": false,
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
+            },
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
+                "name": "v_portalpk",
+                "legend": "Portales",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Portal",
+                "showLegend": false,
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
+            },
+            {
+                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "name": "fecundidad:Mujeres250_EM",
+                "legend": "Edad media a la maternidad de la población femenina (250mx250m)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_M250EM",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad%3AMujeres250_EM"
+            }
+        ],
+        "initialzoom": 5
+    }
+}
