@@ -1,0 +1,57 @@
+{
+  "configuration": {
+    "controls": [
+      "mouse",
+      "panzoombar",
+      "scale",
+      "ScaleLine"
+    ],
+    "maxExtent": [
+      100448.6484375,
+      3987969.25,
+      619114.1875,
+      4284088.0
+    ],
+    "initialcenter": {
+      "coordinates": [
+        235489.1388,
+        4140224.70057
+      ]
+    },
+    "baselayer": {
+      "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
+      "name": "CDAU_base",
+      "legend": "Base Cartográfica Callejero Digital de Andalucía",
+      "transparent": false,
+      "tiled": true,
+      "style": null
+    },
+    "overlaylayers": [
+      {
+        "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
+        "name": "v_vial",
+        "legend": "Vias",
+        "transparent": true,
+        "tiled": false,
+        "style": "cdau:CDAU_Vial"
+      },
+      {
+        "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
+        "name": "v_portalpk",
+        "legend": "Portales",
+        "transparent": true,
+        "tiled": false,
+        "style": "cdau:CDAU_Portal"
+      },
+      {
+        "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/wms?",
+        "name": "gridpob_250",
+        "legend": "Número de habitantes (250mx250m)",
+        "transparent": true,
+        "tiled": true,
+        "style": "gridpob:stl_poblacion_total"
+      }
+    ],
+    "initialzoom": 5
+  }
+}
