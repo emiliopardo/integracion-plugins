@@ -32,7 +32,7 @@
         "name": "v_vial",
         "legend": "Vias",
         "transparent": true,
-        "tiled": true,
+        "tiled": false,
         "style": "cdau:CDAU_Vial"
       },
       {
@@ -40,7 +40,7 @@
         "name": "v_portalpk",
         "legend": "Portales",
         "transparent": true,
-        "tiled": true,
+        "tiled": false,
         "style": "cdau:CDAU_Portal"
       },
       {
