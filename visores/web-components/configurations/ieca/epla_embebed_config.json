@@ -2,7 +2,6 @@
   "configuration": {
     "controls": [
       "mouse",
-      "overviewmap",
       "panzoombar",
       "scale",
       "ScaleLine"
