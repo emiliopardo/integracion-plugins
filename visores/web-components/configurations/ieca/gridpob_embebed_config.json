@@ -24,7 +24,8 @@
       "legend": "Base Cartográfica Callejero Digital de Andalucía",
       "transparent": false,
       "tiled": true,
-      "style": null
+      "style": null,
+      "opacity": 0.7
     },
     "overlaylayers": [
       {
@@ -33,7 +34,8 @@
         "legend": "Vias",
         "transparent": true,
         "tiled": false,
-        "style": "cdau:CDAU_Vial"
+        "style": "cdau:CDAU_Vial",
+        "opacity": 1
       },
       {
         "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
@@ -41,7 +43,8 @@
         "legend": "Portales",
         "transparent": true,
         "tiled": false,
-        "style": "cdau:CDAU_Portal"
+        "style": "cdau:CDAU_Portal",
+        "opacity": 1
       },
       {
         "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/wms?",
@@ -49,7 +52,8 @@
         "legend": "Número de habitantes (250mx250m)",
         "transparent": true,
         "tiled": true,
-        "style": "gridpob:stl_poblacion_total"
+        "style": "gridpob:stl_poblacion_total",
+        "opacity": 0.7
       }
     ],
     "initialzoom": 5

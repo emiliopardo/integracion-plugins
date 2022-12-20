@@ -24,7 +24,8 @@
       "legend": "Base Cartográfica Callejero Digital de Andalucía",
       "transparent": false,
       "tiled": true,
-      "style": null
+      "style": null,
+      "opacity": 0.7
     },
     "overlaylayers": [
       {
@@ -33,7 +34,8 @@
         "legend": "Vias",
         "transparent": true,
         "tiled": false,
-        "style": "cdau:CDAU_Vial"
+        "style": "cdau:CDAU_Vial",
+        "opacity": 1
       },
       {
         "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
@@ -41,7 +43,8 @@
         "legend": "Portales",
         "transparent": true,
         "tiled": false,
-        "style": "cdau:CDAU_Portal"
+        "style": "cdau:CDAU_Portal",
+        "opacity": 1
       },
       {
         "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
@@ -49,7 +52,8 @@
         "legend": "Sector Transporte y Almacenamiento",
         "transparent": true,
         "tiled": true,
-        "style": "epla:epla17_transporte"
+        "style": "epla:epla17_transporte",
+        "opacity": 1
       },
       {
         "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
@@ -57,7 +61,8 @@
         "legend": "Sector Servicios",
         "transparent": true,
         "tiled": true,
-        "style": "epla:epla17_servicios"
+        "style": "epla:epla17_servicios",
+        "opacity": 1
       },
       {
         "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
@@ -65,7 +70,8 @@
         "legend": "Sector Industria",
         "transparent": true,
         "tiled": true,
-        "style": "epla:epla17_industria"
+        "style": "epla:epla17_industria",
+        "opacity": 1
       },
       {
         "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
@@ -73,7 +79,8 @@
         "legend": "Sector Hostelería",
         "transparent": true,
         "tiled": true,
-        "style": "epla:epla17_hosteleria"
+        "style": "epla:epla17_hosteleria",
+        "opacity": 1
       },
       {
         "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
@@ -81,7 +88,8 @@
         "legend": "Sector Energía",
         "transparent": true,
         "tiled": true,
-        "style": "epla:epla17_energia"
+        "style": "epla:epla17_energia",
+        "opacity": 1
       },
       {
         "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
@@ -89,7 +97,8 @@
         "legend": "Sector Construcción",
         "transparent": true,
         "tiled": true,
-        "style": "epla:epla17_construccion"
+        "style": "epla:epla17_construccion",
+        "opacity": 1
       },
       {
         "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
@@ -97,7 +106,8 @@
         "legend": "Sector Comercio",
         "transparent": true,
         "tiled": true,
-        "style": "epla:epla17_comercio"
+        "style": "epla:epla17_comercio",
+        "opacity": 1
       },
       {
         "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
