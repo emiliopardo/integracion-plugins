@@ -10,8 +10,8 @@ mapBase = {
       "maxZoom": 13
     }
   },
-  "sprite": "https://vts.larioja.org/sprite/sprite",
-  "glyphs": "https://vts.larioja.org/font/{fontstack}/{range}.pbf",
+  "sprite": "https://www.ign.es/web/resources/mapa-base-xyz/sprites/sprite",
+  "glyphs": "https://www.ign.es/web/resources/mapa-base-xyz/fonts/pbf/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "fondo",
