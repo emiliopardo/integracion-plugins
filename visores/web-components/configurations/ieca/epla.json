@@ -1,8 +1,8 @@
 {
     "title": "Empresas Públicas Locales",
-    "subtitle": "Se cargan capas Base layers y Overlay Layers de tipo WMS y plugins SimpleLegend y BaseLayerSelector",
+    "logo": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/portal/images/images/andaluciasemueveconeuropa.png",
+    "logo_alt": "Andalucía se mueve con Europa",
     "configuration": {
-        "coordinateformat": "EPSG:4326",
         "controls": [
             "mouse",
             "overviewmap",
