@@ -1,8 +1,6 @@
 {
     "title": "Geolocalización de Establecimientos de 50 o más Asalariados (Directorio de Empresas y Establecimientos)",
-    "subtitle": "Se cargan capas Base layers y Overlay Layers de tipo WMS y plugins SimpleLegend y BaseLayerSelector",
     "configuration": {
-        "coordinateformat": "EPSG:4326",
         "controls": [
             "mouse",
             "overviewmap",
