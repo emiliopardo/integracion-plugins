@@ -9,7 +9,8 @@
             "location",
             "panzoombar",
             "scale",
-            "ScaleLine"
+            "ScaleLine",
+            "layerSwitcher"
         ],
         "maxExtent": [
             100401.00,
