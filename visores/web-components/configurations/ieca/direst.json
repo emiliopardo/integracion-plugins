@@ -1,5 +1,7 @@
 {
     "title": "Directorio de empresas y establecimientos con actividad económica en Andalucía",
+    "logo": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/portal/images/images/andaluciasemueveconeuropa.png",
+    "logo_alt": "Andalucía se mueve con Europa",
     "configuration": {
         "controls": [
             "mouse",
