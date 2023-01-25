@@ -25,6 +25,16 @@
         },
         "baselayers": [
             {
+                "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
+                "name": "CDAU_base",
+                "legend": "Base Cartográfica Callejero Digital de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "style": null,
+                "opacity": 0.7,
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
+            },
+            {
                 "url": "https://www.ideandalucia.es/services/andalucia/wms?",
                 "name": "00_Mapa_Andalucia",
                 "legend": "Mapa Topográfico de Andalucía",
@@ -32,15 +42,6 @@
                 "tiled": true,
                 "style": null,
                 "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
-            },
-            {
-                "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
-                "name": "CDAU_base",
-                "legend": "Base Cartográfica Callejero Digital de Andalucía",
-                "transparent": false,
-                "tiled": true,
-                "style": null,
-                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
             },
             {
                 "url": "https://www.ideandalucia.es/wms/ortofoto2016?",
