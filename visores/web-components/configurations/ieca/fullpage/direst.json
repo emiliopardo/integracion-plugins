@@ -49,6 +49,16 @@
         ],
         "overlaylayers": [
             {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "name": "direst:direst_comercio_2020,direst:direst_construccion_2020,direst:direst_energia_2020,direst:direst_hosteleria_2020,direst:direst_industria_2020,direst:direst_servicios_2020,direst:direst_transporte_2020",
+                "legend": "Todos los Sectores",
+                "transparent": true,
+                "tiled": true,
+                "style": null,
+                "showLegend": true,
+                "urlLegend": null
+            },
+            {
                 "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
                 "name": "v_vial",
                 "legend": "Vias",
