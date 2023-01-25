@@ -70,16 +70,6 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
-                "name": "epla_2022_transporte,epla_2022_servicios,epla_2022_industria,epla_2022_hosteleria,epla_2022_energia,epla_2022_construccion,epla_2022_comercio,epla_2022_agricultura",
-                "legend": "Todos los Sectores",
-                "transparent": true,
-                "tiled": true,
-                "style": null,
-                "showLegend": true,
-                "urlLegend": null
-            },
-            {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
                 "name": "epla_2022_transporte",
                 "legend": "Sector Transporte y Almacenamiento",
                 "transparent": true,
