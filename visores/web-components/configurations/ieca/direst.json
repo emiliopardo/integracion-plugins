@@ -17,12 +17,6 @@
             621273.00,
             4274088.0
         ],
-        "initialcenter": {
-            "coordinates": [
-                235489.13,
-                4140224.70
-            ]
-        },
         "baselayers": [
             {
                 "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
