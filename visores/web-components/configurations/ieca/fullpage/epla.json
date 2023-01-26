@@ -20,6 +20,7 @@
         "baselayers": [
             {
                 "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
+                "id": "CDAU_base",
                 "name": "CDAU_base",
                 "legend": "Base Cartográfica Callejero Digital de Andalucía",
                 "transparent": false,
@@ -30,6 +31,7 @@
             },
             {
                 "url": "https://www.ideandalucia.es/services/andalucia/wms?",
+                "id": "00_Mapa_Andalucia",
                 "name": "00_Mapa_Andalucia",
                 "legend": "Mapa Topográfico de Andalucía",
                 "transparent": false,
@@ -39,6 +41,7 @@
             },
             {
                 "url": "https://www.ideandalucia.es/wms/ortofoto2016?",
+                "id": "ortofotografia_2016_rgb",
                 "name": "ortofotografia_2016_rgb",
                 "legend": "Ortofotografía Color 0,5 metros/pixel (Año 2016)",
                 "transparent": false,
@@ -50,6 +53,7 @@
         "overlaylayers": [
             {
                 "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
+                "id": "v_vial",
                 "name": "v_vial",
                 "legend": "Vias",
                 "transparent": true,
@@ -60,6 +64,7 @@
             },
             {
                 "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
+                "id": "v_portalpk",
                 "name": "v_portalpk",
                 "legend": "Portales",
                 "transparent": true,
