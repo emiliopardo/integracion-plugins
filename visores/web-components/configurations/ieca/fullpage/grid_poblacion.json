@@ -317,7 +317,7 @@
         "selectedLayerId": "gridpob_250_poblacion_total",
         "inputSelect": {
             "group": true,
-            "LayerGroups": [
+            "groups": [
                 {
                     "name": "2021",
                     "label": "2021",
