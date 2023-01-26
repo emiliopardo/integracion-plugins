@@ -162,7 +162,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_agricultura"
             }
         ],
-        "selectedLayerId": "epla_2022_industria",
+        "selectedLayerId": "all",
         "inputSelect": {
             "group": false,
             "layersId": [
