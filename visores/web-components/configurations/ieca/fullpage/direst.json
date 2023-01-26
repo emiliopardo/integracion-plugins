@@ -49,16 +49,6 @@
         ],
         "overlaylayers": [
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
-                "name": "Direst_2020",
-                "legend": "Todos los Sectores",
-                "transparent": true,
-                "tiled": true,
-                "style": null,
-                "showLegend": true,
-                "urlLegend": null
-            },
-            {
                 "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
                 "name": "v_vial",
                 "legend": "Vias",
@@ -80,6 +70,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "id": "direst:direst_comercio_2020",
                 "name": "direst:direst_comercio_2020",
                 "legend": "Sector comercio",
                 "transparent": true,
@@ -90,6 +81,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "id": "direst:direst_construccion_2020",
                 "name": "direst:direst_construccion_2020",
                 "legend": "Sector construcción",
                 "transparent": true,
@@ -100,6 +92,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "id": "direst:direst_energia_2020",
                 "name": "direst:direst_energia_2020",
                 "legend": "Sector energía, agua y residuos",
                 "transparent": true,
@@ -110,6 +103,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "id": "direst:direst_hosteleria_2020",
                 "name": "direst:direst_hosteleria_2020",
                 "legend": "Sector hostelería",
                 "transparent": true,
@@ -120,6 +114,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "id": "direst:direst_industria_2020",
                 "name": "direst:direst_industria_2020",
                 "legend": "Sector Industria",
                 "transparent": true,
@@ -130,6 +125,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "id": "direst:direst_servicios_2020",
                 "name": "direst:direst_servicios_2020",
                 "legend": "Sector servicios sanitarios, educativos y resto de servicios",
                 "transparent": true,
@@ -140,6 +136,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "id": "direst:direst_transporte_2020",
                 "name": "direst:direst_transporte_2020",
                 "legend": "Sector transporte y almacenamiento",
                 "transparent": true,
@@ -149,10 +146,10 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_transporte_2020"
             }
         ],
-        "selectedLayer": "all",
+        "selectedLayerId": "all",
         "inputSelect": {
             "group": false,
-            "layers": [
+            "layersId": [
                 "direst:direst_comercio_2020",
                 "direst:direst_construccion_2020",
                 "direst:direst_energia_2020",

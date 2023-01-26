@@ -70,6 +70,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
+                "id": "epla_2022_transporte",
                 "name": "epla_2022_transporte",
                 "legend": "Sector Transporte y Almacenamiento",
                 "transparent": true,
@@ -80,6 +81,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
+                "id": "epla_2022_servicios",
                 "name": "epla_2022_servicios",
                 "legend": "Sector Servicios",
                 "transparent": true,
@@ -90,6 +92,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
+                "id": "epla_2022_industria",
                 "name": "epla_2022_industria",
                 "legend": "Sector Industria",
                 "transparent": true,
@@ -100,6 +103,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
+                "id": "epla_2022_hosteleria",
                 "name": "epla_2022_hosteleria",
                 "legend": "Sector Hostelería",
                 "transparent": true,
@@ -110,6 +114,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
+                "id": "epla_2022_energia",
                 "name": "epla_2022_energia",
                 "legend": "Sector Energía",
                 "transparent": true,
@@ -120,6 +125,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
+                "id": "epla_2022_construccion",
                 "name": "epla_2022_construccion",
                 "legend": "Sector Construcción",
                 "transparent": true,
@@ -130,6 +136,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
+                "id": "epla_2022_comercio",
                 "name": "epla_2022_comercio",
                 "legend": "Sector Comercio",
                 "transparent": true,
@@ -140,6 +147,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/wms?",
+                "id": "epla_2022_agricultura",
                 "name": "epla_2022_agricultura",
                 "legend": "Sector Agricultura",
                 "transparent": true,
@@ -149,10 +157,10 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_agricultura"
             }
         ],
-        "selectedLayer": "all",
+        "selectedLayerId": "all",
         "inputSelect": {
             "group": false,
-            "layers": [
+            "layersId": [
                 "epla_2022_agricultura",
                 "epla_2022_comercio",
                 "epla_2022_construccion",
