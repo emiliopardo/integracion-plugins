@@ -74,6 +74,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
@@ -84,6 +85,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
@@ -94,6 +96,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
@@ -104,6 +107,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
@@ -114,6 +118,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
@@ -124,6 +129,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
@@ -134,6 +140,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
@@ -144,6 +151,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
@@ -154,6 +162,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
@@ -164,6 +173,7 @@
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
                 "tiled": true,
+                "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
