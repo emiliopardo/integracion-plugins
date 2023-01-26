@@ -70,6 +70,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/wms?",
+                "id": "gridpob_250_poblacion_total",
                 "name": "gridpob_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -81,6 +82,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/wms?",
+                "id": "gridpob20_250_poblacion_total",
                 "name": "gridpob20_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -92,6 +94,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/wms?",
+                "id": "gridpob19_250_poblacion_total",
                 "name": "gridpob19_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -103,6 +106,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/wms?",
+                "id": "gridpob18_250_poblacion_total",
                 "name": "gridpob18_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -114,6 +118,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/wms?",
+                "id": "gridpob17_250_poblacion_total",
                 "name": "gridpob17_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -125,6 +130,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/wms?",
+                "id": "gridpob16_250_poblacion_total",
                 "name": "gridpob16_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -136,6 +142,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/wms?",
+                "id": "gridpob15_250_poblacion_total",
                 "name": "gridpob15_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -147,6 +154,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/wms?",
+                "id": "gridpob14_250_poblacion_total",
                 "name": "gridpob14_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -158,6 +166,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/wms?",
+                "id": "gridpob13_250_poblacion_total",
                 "name": "gridpob13_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -169,6 +178,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/wms?",
+                "id": "gridpob02_250_poblacion_total",
                 "name": "gridpob02_250",
                 "legend": "Número de habitantes (250mx250m)",
                 "transparent": true,
@@ -180,6 +190,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/wms?",
+                "id": "gridpob_250_poblacion_1664",
                 "name": "gridpob_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -191,6 +202,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/wms?",
+                "id": "gridpob20_250_poblacion_1664",
                 "name": "gridpob20_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -202,6 +214,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/wms?",
+                "id": "gridpob19_250_poblacion_1664",
                 "name": "gridpob19_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -213,6 +226,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/wms?",
+                "id": "gridpob18_250_poblacion_1664",
                 "name": "gridpob18_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -224,6 +238,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/wms?",
+                "id": "gridpob17_250_poblacion_1664",
                 "name": "gridpob17_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -235,6 +250,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/wms?",
+                "id": "gridpob16_250_poblacion_1664",
                 "name": "gridpob16_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -246,6 +262,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/wms?",
+                "id": "gridpob15_250_poblacion_1664",
                 "name": "gridpob15_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -257,6 +274,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/wms?",
+                "id": "gridpob14_250_poblacion_1664",
                 "name": "gridpob14_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -268,6 +286,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/wms?",
+                "id": "gridpob13_250_poblacion_1664",
                 "name": "gridpob13_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -279,6 +298,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/wms?",
+                "id": "gridpob02_250_poblacion_1664",
                 "name": "gridpob02_250",
                 "legend": "Número de habitantes entre 16 y 65 años",
                 "transparent": true,
@@ -289,20 +309,30 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob02_250"
             }
         ],
-        "selectedLayer": "gridpob_250",
+        "selectedLayerId": "gridpob_250",
         "inputSelect": {
             "group": false,
-            "layers": [
-                "gridpob_250",
-                "gridpob20_250",
-                "gridpob19_250",
-                "gridpob18_250",
-                "gridpob17_250",
-                "gridpob16_250",
-                "gridpob15_250",
-                "gridpob14_250",
-                "gridpob13_250",
-                "gridpob02_250"
+            "layersId": [
+                "gridpob_250_poblacion_total",
+                "gridpob20_250_poblacion_total",
+                "gridpob19_250_poblacion_total",
+                "gridpob18_250_poblacion_total",
+                "gridpob17_250_poblacion_total",
+                "gridpob16_250_poblacion_total",
+                "gridpob15_250_poblacion_total",
+                "gridpob14_250_poblacion_total",
+                "gridpob13_250_poblacion_total",
+                "gridpob02_250_poblacion_total",
+                "gridpob_250_poblacion_1664",
+                "gridpob20_250_poblacion_1664",
+                "gridpob19_250_poblacion_1664",
+                "gridpob18_250_poblacion_1664",
+                "gridpob17_250_poblacion_1664",
+                "gridpob16_250_poblacion_1664",
+                "gridpob15_250_poblacion_1664",
+                "gridpob14_250_poblacion_1664",
+                "gridpob13_250_poblacion_1664",
+                "gridpob02_250_poblacion_1664"
             ]
         }
     }
