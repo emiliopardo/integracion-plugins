@@ -149,7 +149,18 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_transporte_2020"
             }
         ],
-        "selectedLayer": "all"
-        
+        "selectedLayer": "all",
+        "inputSelect": {
+            "layers": [
+                "direst:direst_comercio_2020",
+                "direst:direst_construccion_2020",
+                "direst:direst_energia_2020",
+                "direst:direst_hosteleria_2020",
+                "direst:direst_hosteleria_2020",
+                "direst:direst_industria_2020",
+                "direst:direst_servicios_2020",
+                "direst:direst_transporte_2020"
+            ]
+        }
     }
 }
