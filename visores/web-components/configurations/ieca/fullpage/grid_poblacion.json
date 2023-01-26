@@ -177,6 +177,116 @@
                 "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/wms?",
+                "name": "gridpob_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/wms?",
+                "name": "gridpob20_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/wms?",
+                "name": "gridpob19_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/wms?",
+                "name": "gridpob18_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/wms?",
+                "name": "gridpob17_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/wms?",
+                "name": "gridpob16_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/wms?",
+                "name": "gridpob15_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/wms?",
+                "name": "gridpob14_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/wms?",
+                "name": "gridpob13_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/wms?",
+                "name": "gridpob02_250",
+                "legend": "Número de habitantes entre 16 y 65 años",
+                "transparent": true,
+                "tiled": true,
+                "opacity": 0.7,
+                "style": "gridpob:stl_poblacion_edad1664",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
             }
         ],
         "selectedLayer": "gridpob_250",
