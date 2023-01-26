@@ -309,7 +309,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob02_250"
             }
         ],
-        "selectedLayerId": "gridpob_250",
+        "selectedLayerId": "gridpob_250_poblacion_total",
         "inputSelect": {
             "group": false,
             "layersId": [
