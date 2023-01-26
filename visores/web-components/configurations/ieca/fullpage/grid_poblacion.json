@@ -187,7 +187,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob_250"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/wms?",
@@ -198,7 +198,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob20_250"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/wms?",
@@ -209,7 +209,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob19_250"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/wms?",
@@ -220,7 +220,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob18_250"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/wms?",
@@ -231,7 +231,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob17_250"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/wms?",
@@ -242,7 +242,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob16_250"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/wms?",
@@ -253,7 +253,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob15_250"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/wms?",
@@ -264,7 +264,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob14_250"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/wms?",
@@ -275,7 +275,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob13_250"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/wms?",
@@ -286,7 +286,7 @@
                 "opacity": 0.7,
                 "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob02_250"
             }
         ],
         "selectedLayer": "gridpob_250",
