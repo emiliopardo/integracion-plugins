@@ -206,7 +206,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH6"
             }
         ],
-        "selectedLayerId": "fecundidad:RFES1kmM1",
+        "selectedLayerId": null,
         "group": true,
         "layerGroups": [
             {
