@@ -1,0 +1,170 @@
+{
+    "title": "Clasificación del grado de urbanización",
+    "logo": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/portal/images/images/andaluciasemueveconeuropa.png",
+    "logo_alt": "Andalucía se mueve con Europa",
+    "configuration": {
+        "controls": [
+            "mouse",
+            "overviewmap",
+            "location",
+            "panzoombar",
+            "scale",
+            "ScaleLine"
+        ],
+        "maxExtent": [
+            100401.00,
+            3987100.00,
+            621273.00,
+            4288700.00
+        ],
+        "baselayers": [
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
+                "id": "CDAU_base",
+                "name": "CDAU_base",
+                "legend": "Base Cartográfica Callejero Digital de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "style": null,
+                "opacity": 0.5,
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
+            },
+            {
+                "url": "https://www.ideandalucia.es/services/andalucia/wms?",
+                "id": "00_Mapa_Andalucia",
+                "name": "00_Mapa_Andalucia",
+                "legend": "Mapa Topográfico de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "style": null,
+                "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
+            },
+            {
+                "url": "https://www.ideandalucia.es/wms/ortofoto2016?",
+                "id": "ortofotografia_2016_rgb",
+                "name": "ortofotografia_2016_rgb",
+                "legend": "Ortofotografía Color 0,5 metros/pixel (Año 2016)",
+                "transparent": false,
+                "tiled": true,
+                "style": "default",
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
+            }
+        ],
+        "overlaylayers": [
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
+                "id": "v_vial",
+                "name": "v_vial",
+                "legend": "Vias",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Vial",
+                "showLegend": false,
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
+            },
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
+                "id": "v_portalpk",
+                "name": "v_portalpk",
+                "legend": "Portales",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Portal",
+                "showLegend": false,
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
+            },
+            {
+                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "id": "degurba02_1k_stl_degurbagrid02_1k",
+                "name": "degurba02_1k",
+                "legend": "2002. Grado de urbanización - Nivel1 (1kmx1km)",
+                "transparent": true,
+                "tiled": true,
+                "style": "degurbagrid:stl_degurbagrid02_1k",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba02_1k&style=degurbagrid:stl_degurbagrid02_1k"
+            },
+            {
+                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "id": "degurba02_250_stl_degurbagrid02_250m",
+                "name": "degurba02_250",
+                "legend": "2002. Grado de urbanización - Nivel1 (250mx250m)",
+                "transparent": true,
+                "tiled": true,
+                "style": "degurbagrid:stl_degurbagrid02_250m",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba02_250&style=degurbagrid:stl_degurbagrid02_250m"
+            },
+            {
+                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "id": "degurba1k_stl_degurbagrid1k",
+                "name": "degurba1k",
+                "legend": "2020 Grado de urbanización - Nivel1 (1kmx1km)",
+                "transparent": true,
+                "tiled": true,
+                "style": "degurbagrid:stl_degurbagrid1k",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba1k&style=degurbagrid:stl_degurbagrid1k"
+            },
+            {
+                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "id": "degurba1k_stl_degurban2grid1k",
+                "name": "degurba1k",
+                "legend": "2020 Grado de urbanización - Nivel2 (1kmx1km)",
+                "transparent": true,
+                "tiled": true,
+                "style": "degurbagrid:stl_degurban2grid1k",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba1k&style=degurbagrid:stl_degurban2grid1k"
+            },
+            {
+                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "id": "degurba250_stl_degurbagrid250m",
+                "name": "degurba250",
+                "legend": "2020. Grado de urbanización – Nivel1 (250mx250m)",
+                "transparent": true,
+                "tiled": true,
+                "style": "degurbagrid:stl_degurbagrid250m",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba250&style=degurbagrid:stl_degurbagrid250m"
+            },
+            {
+                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "id": "degurba250_stl_degurban2grid250m",
+                "name": "degurba250",
+                "legend": "2020. Grado de urbanización – Nivel2 (250mx250m)",
+                "transparent": true,
+                "tiled": true,
+                "style": "degurbagrid:stl_degurban2grid250m",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba250&style=degurbagrid:stl_degurban2grid250m"
+            }
+        ],
+        "selectedLayerId": null,
+        "group": true,
+        "layerGroups": [
+            {
+                "optgroup": "Año 2002",
+                "layersId": [
+                    "degurba02_250_stl_degurbagrid02_250m",
+                    "degurba02_250_stl_degurbagrid02_250m"
+                ]
+            },
+            {
+                "optgroup": "Año 2020",
+                "layersId": [
+                    "degurba1k_stl_degurbagrid1k",
+                    "degurba1k_stl_degurban2grid1k",
+                    "degurba250_stl_degurbagrid250m",
+                    "degurbagrid:stl_degurban2grid250m"
+                ]
+            }
+        ]
+    }
+}
