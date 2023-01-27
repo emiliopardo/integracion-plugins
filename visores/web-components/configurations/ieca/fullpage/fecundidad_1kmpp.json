@@ -81,6 +81,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM1"
             },
@@ -92,6 +93,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM2"
             },
@@ -103,6 +105,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM3"
             },
@@ -114,6 +117,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM4"
             },
@@ -125,6 +129,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM5"
             },
@@ -136,6 +141,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM6"
             },
@@ -147,6 +153,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH1"
             },
@@ -158,6 +165,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH2"
             },
@@ -169,6 +177,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH3"
             },
@@ -180,6 +189,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH4"
             },
@@ -191,6 +201,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH5"
             },
@@ -202,6 +213,7 @@
                 "transparent": true,
                 "tiled": true,
                 "style": "fecundidad:fecundidad_est_long",
+                "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH6"
             }
