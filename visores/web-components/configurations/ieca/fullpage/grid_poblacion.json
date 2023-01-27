@@ -316,7 +316,7 @@
         ],
         "selectedLayerId": "gridpob_250_poblacion_total",
         "group": true,
-        "layerGroup": [
+        "layerGroups": [
             {
                 "optgroup": "2021",
                 "layersId": [

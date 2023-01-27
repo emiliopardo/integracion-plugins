@@ -208,7 +208,7 @@
         ],
         "selectedLayerId": "fecundidad:RFES1kmM1",
         "group": true,
-        "layerGroup": [
+        "layerGroups": [
             {
                 "optgroup": "Intensidad de la fecundidad Mujeres",
                 "layersId": [
