@@ -164,7 +164,7 @@
         ],
         "selectedLayerId": "all",
         "inputSelect": {
-            "group": false,
+            "optgroup": false,
             "layersId": [
                 "epla_2022_agricultura",
                 "epla_2022_comercio",
