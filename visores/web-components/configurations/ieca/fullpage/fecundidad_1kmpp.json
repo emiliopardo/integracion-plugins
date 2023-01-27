@@ -207,32 +207,30 @@
             }
         ],
         "selectedLayerId": "fecundidad:RFES1kmM1",
-        "inputSelect": {
-            "optgroup": true,
-            "layerGroup": [
-                {
-                    "optgroup": "Intensidad de la fecundidad Mujeres",
-                    "layersId": [
-                        "fecundidad:RFES1kmM1",
-                        "fecundidad:RFES1kmM2",
-                        "fecundidad:RFES1kmM3",
-                        "fecundidad:RFES1kmM4",
-                        "fecundidad:RFES1kmM5",
-                        "fecundidad:RFES1kmM6"
-                    ]
-                },
-                {
-                    "optgroup": "Intensidad de la fecundidad Hombres",
-                    "layersId": [
-                        "fecundidad:RFES1kmH1",
-                        "fecundidad:RFES1kmH2",
-                        "fecundidad:RFES1kmH3",
-                        "fecundidad:RFES1kmH4",
-                        "fecundidad:RFES1kmH5",
-                        "fecundidad:RFES1kmH6"
-                    ]
-                }
-            ]
-        }
+        "group": true,
+        "layerGroup": [
+            {
+                "optgroup": "Intensidad de la fecundidad Mujeres",
+                "layersId": [
+                    "fecundidad:RFES1kmM1",
+                    "fecundidad:RFES1kmM2",
+                    "fecundidad:RFES1kmM3",
+                    "fecundidad:RFES1kmM4",
+                    "fecundidad:RFES1kmM5",
+                    "fecundidad:RFES1kmM6"
+                ]
+            },
+            {
+                "optgroup": "Intensidad de la fecundidad Hombres",
+                "layersId": [
+                    "fecundidad:RFES1kmH1",
+                    "fecundidad:RFES1kmH2",
+                    "fecundidad:RFES1kmH3",
+                    "fecundidad:RFES1kmH4",
+                    "fecundidad:RFES1kmH5",
+                    "fecundidad:RFES1kmH6"
+                ]
+            }
+        ]
     }
 }

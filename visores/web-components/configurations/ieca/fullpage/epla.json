@@ -163,18 +163,6 @@
             }
         ],
         "selectedLayerId": "all",
-        "inputSelect": {
-            "optgroup": false,
-            "layersId": [
-                "epla_2022_agricultura",
-                "epla_2022_comercio",
-                "epla_2022_construccion",
-                "epla_2022_energia",
-                "epla_2022_hosteleria",
-                "epla_2022_industria",
-                "epla_2022_servicios",
-                "epla_2022_transporte"
-            ]
-        }
+        "group": false   
     }
 }

@@ -152,18 +152,6 @@
             }
         ],
         "selectedLayerId": "all",
-        "inputSelect": {
-            "optgroup": false,
-            "layersId": [
-                "direst:direst_comercio_2020",
-                "direst:direst_construccion_2020",
-                "direst:direst_energia_2020",
-                "direst:direst_hosteleria_2020",
-                "direst:direst_hosteleria_2020",
-                "direst:direst_industria_2020",
-                "direst:direst_servicios_2020",
-                "direst:direst_transporte_2020"
-            ]
-        }
+        "group": false
     }
 }

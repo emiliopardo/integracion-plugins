@@ -315,80 +315,78 @@
             }
         ],
         "selectedLayerId": "gridpob_250_poblacion_total",
-        "inputSelect": {
-            "optgroup": true,
-            "layerGroup": [
-                {
-                    "optgroup": "2021",
-                    "layersId": [
-                        "gridpob_250_poblacion_total",
-                        "gridpob_250_poblacion_1664"
-                    ]
-                },
-                {
-                    "optgroup": "2020",
-                    "layersId": [
-                        "gridpob20_250_poblacion_total",
-                        "gridpob20_250_poblacion_1664"
-                    ]
-                },
-                {
-                    "optgroup": "2019",
-                    "layersId": [
-                        "gridpob19_250_poblacion_total",
-                        "gridpob19_250_poblacion_1664"
-                    ]
-                },
-                {
-                    "optgroup": "2018",
-                    "layersId": [
-                        "gridpob18_250_poblacion_total",
-                        "gridpob18_250_poblacion_1664"
-                    ]
-                },
-                {
-                    "optgroup": "2017",
-                    "layersId": [
-                        "gridpob17_250_poblacion_total",
-                        "gridpob17_250_poblacion_1664"
-                    ]
-                },
-                {
-                    "optgroup": "2016",
-                    "layersId": [
-                        "gridpob16_250_poblacion_total",
-                        "gridpob16_250_poblacion_1664"
-                    ]
-                },
-                {
-                    "optgroup": "2015",
-                    "layersId": [
-                        "gridpob15_250_poblacion_total",
-                        "gridpob15_250_poblacion_1664"
-                    ]
-                },
-                {
-                    "optgroup": "2014",
-                    "layersId": [
-                        "gridpob14_250_poblacion_total",
-                        "gridpob14_250_poblacion_1664"
-                    ]
-                },
-                {
-                    "optgroup": "2013",
-                    "layersId": [
-                        "gridpob13_250_poblacion_total",
-                        "gridpob13_250_poblacion_1664"
-                    ]
-                },
-                {
-                    "optgroup": "2002",
-                    "layersId": [
-                        "gridpob02_250_poblacion_total",
-                        "gridpob02_250_poblacion_1664"
-                    ]
-                }
-            ]
-        }
+        "group": true,
+        "layerGroup": [
+            {
+                "optgroup": "2021",
+                "layersId": [
+                    "gridpob_250_poblacion_total",
+                    "gridpob_250_poblacion_1664"
+                ]
+            },
+            {
+                "optgroup": "2020",
+                "layersId": [
+                    "gridpob20_250_poblacion_total",
+                    "gridpob20_250_poblacion_1664"
+                ]
+            },
+            {
+                "optgroup": "2019",
+                "layersId": [
+                    "gridpob19_250_poblacion_total",
+                    "gridpob19_250_poblacion_1664"
+                ]
+            },
+            {
+                "optgroup": "2018",
+                "layersId": [
+                    "gridpob18_250_poblacion_total",
+                    "gridpob18_250_poblacion_1664"
+                ]
+            },
+            {
+                "optgroup": "2017",
+                "layersId": [
+                    "gridpob17_250_poblacion_total",
+                    "gridpob17_250_poblacion_1664"
+                ]
+            },
+            {
+                "optgroup": "2016",
+                "layersId": [
+                    "gridpob16_250_poblacion_total",
+                    "gridpob16_250_poblacion_1664"
+                ]
+            },
+            {
+                "optgroup": "2015",
+                "layersId": [
+                    "gridpob15_250_poblacion_total",
+                    "gridpob15_250_poblacion_1664"
+                ]
+            },
+            {
+                "optgroup": "2014",
+                "layersId": [
+                    "gridpob14_250_poblacion_total",
+                    "gridpob14_250_poblacion_1664"
+                ]
+            },
+            {
+                "optgroup": "2013",
+                "layersId": [
+                    "gridpob13_250_poblacion_total",
+                    "gridpob13_250_poblacion_1664"
+                ]
+            },
+            {
+                "optgroup": "2002",
+                "layersId": [
+                    "gridpob02_250_poblacion_total",
+                    "gridpob02_250_poblacion_1664"
+                ]
+            }
+        ]
     }
 }
