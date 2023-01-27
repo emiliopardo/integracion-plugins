@@ -1,0 +1,228 @@
+{
+    "title": "Intensidad de la fecundidad al primer nacido por periodo. Celdas de 1 kilómetro.<br>Andalucía se mueve con Europa Estadísticas Longitudinales de Biografías Reproductivas en Andalucía, 2002-2019",
+    "logo": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/portal/images/images/andaluciasemueveconeuropa.png",
+    "logo_alt": "Andalucía se mueve con Europa",
+    "configuration": {
+        "controls": [
+            "mouse",
+            "overviewmap",
+            "location",
+            "panzoombar",
+            "scale",
+            "ScaleLine"
+        ],
+        "maxExtent": [
+            100401.00,
+            3987100.00,
+            621273.00,
+            4288700.00
+        ],
+        "baselayers": [
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
+                "id": "CDAU_base",
+                "name": "CDAU_base",
+                "legend": "Base Cartográfica Callejero Digital de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "style": null,
+                "opacity": 0.5,
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
+            },
+            {
+                "url": "https://www.ideandalucia.es/services/andalucia/wms?",
+                "id": "00_Mapa_Andalucia",
+                "name": "00_Mapa_Andalucia",
+                "legend": "Mapa Topográfico de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "style": null,
+                "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
+            },
+            {
+                "url": "https://www.ideandalucia.es/wms/ortofoto2016?",
+                "id": "ortofotografia_2016_rgb",
+                "name": "ortofotografia_2016_rgb",
+                "legend": "Ortofotografía Color 0,5 metros/pixel (Año 2016)",
+                "transparent": false,
+                "tiled": true,
+                "style": "default",
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
+            }
+        ],
+        "overlaylayers": [
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
+                "id": "v_vial",
+                "name": "v_vial",
+                "legend": "Vias",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Vial",
+                "showLegend": false,
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
+            },
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
+                "id": "v_portalpk",
+                "name": "v_portalpk",
+                "legend": "Portales",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Portal",
+                "showLegend": false,
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmM1",
+                "name": "fecundidad:RFES1kmM1",
+                "legend": "Mujeres (Periodo 2002-2004)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM1"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmM2",
+                "name": "fecundidad:RFES1kmM2",
+                "legend": "Mujeres (Periodo 2005-2007)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM2"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmM3",
+                "name": "fecundidad:RFES1kmM3",
+                "legend": "Mujeres (Periodo 2008-2010)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM3"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmM4",
+                "name": "fecundidad:RFES1kmM4",
+                "legend": "Mujeres (Periodo 2011-2013)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM4"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmM5",
+                "name": "fecundidad:RFES1kmM5",
+                "legend": "Mujeres (Periodo 2014-2016)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM5"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmM6",
+                "name": "fecundidad:RFES1kmM6",
+                "legend": "Mujeres (Periodo 2017-2019)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM6"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmH1",
+                "name": "fecundidad:RFES1kmH1",
+                "legend": "Hombres (Periodo 2002-2004)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH1"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmH2",
+                "name": "fecundidad:RFES1kmH2",
+                "legend": "Hombres (Periodo 2005-2007)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH2"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmH3",
+                "name": "fecundidad:RFES1kmH3",
+                "legend": "Hombres (Periodo 2008-2010)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH3"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmH4",
+                "name": "fecundidad:RFES1kmH4",
+                "legend": "Hombres (Periodo 2011-2013)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH4"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmH5",
+                "name": "fecundidad:RFES1kmH5",
+                "legend": "Hombres (Periodo 2014-2016)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH5"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "id": "fecundidad:RFES1kmH6",
+                "name": "fecundidad:RFES1kmH6",
+                "legend": "Hombres (Periodo 2017-2019)",
+                "transparent": true,
+                "tiled": true,
+                "style": "fecundidad:fecundidad_est_long",
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH6"
+            }
+        ],
+        "selectedLayerId": "all",
+        "inputSelect": {
+            "group": false,
+            "layersId": [
+                "fecundidad:RFES1kmM1",
+                "fecundidad:RFES1kmM2",
+                "fecundidad:RFES1kmM3",
+                "fecundidad:RFES1kmM4",
+                "fecundidad:RFES1kmM5",
+                "fecundidad:RFES1kmM6",
+                "fecundidad:RFES1kmH1",
+                "fecundidad:RFES1kmH2",
+                "fecundidad:RFES1kmH3",
+                "fecundidad:RFES1kmH4",
+                "fecundidad:RFES1kmH5",
+                "fecundidad:RFES1kmH6"
+            ]
+        }
+    }
+}
