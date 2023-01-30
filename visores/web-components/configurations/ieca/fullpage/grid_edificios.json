@@ -554,7 +554,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=20-stl_edificios_m2ed_cul"
             }
         ],
-        "selectedLayerId": null,
+        "selectedLayerId": "gridcate20_250_01-stl_edificios_ned",
         "group": true,
         "layerGroups": [
             {
