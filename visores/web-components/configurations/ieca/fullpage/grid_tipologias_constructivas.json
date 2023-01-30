@@ -272,7 +272,7 @@
                 "legend": "Campos de golf",
                 "transparent": true,
                 "tiled": true,
-                "style": "stl_c10_singulares",
+                "style": "stl_c1034_golf",
                 "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c1034_golf"
