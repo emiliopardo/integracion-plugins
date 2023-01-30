@@ -89,7 +89,7 @@
                 "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
                 "id": "degurba02_250_stl_degurbagrid02_250m",
                 "name": "degurba02_250",
-                "legend": "2002. Grado de urbanización - Nivel2 (250mx250m)",
+                "legend": "2002. Grado de urbanización - Nivel1 (250mx250m)",
                 "transparent": true,
                 "tiled": true,
                 "style": "degurbagrid:stl_degurbagrid02_250m",
