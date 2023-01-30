@@ -111,8 +111,8 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_T_Transmisibles",
-                "name": "RMES_1Km_T_Transmisibles",
+                "id": "mor:RMES_1Km_T_Transmisibles",
+                "name": "mor:RMES_1Km_T_Transmisibles",
                 "legend": "RMES. Ambos sexos - Enfermedades transmisibles",
                 "transparent": true,
                 "tiled": true,
@@ -123,8 +123,8 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_H_Transmisibles",
-                "name": "RMES_1Km_H_Transmisibles",
+                "id": "mor:RMES_1Km_H_Transmisibles",
+                "name": "mor:RMES_1Km_H_Transmisibles",
                 "legend": "RMES. Hombres - Enfermedades transmisibles",
                 "transparent": true,
                 "tiled": true,
