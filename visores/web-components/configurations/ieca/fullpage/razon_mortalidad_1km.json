@@ -159,7 +159,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "mor:RMES_1km_H_Neoplasias",
+                "id": "mor:RMES_1Km_H_Neoplasias",
                 "name": "mor:RMES_1km_H_Neoplasias",
                 "legend": "RMES. Hombres - Neoplasias (tumores)",
                 "transparent": true,
@@ -171,7 +171,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "mor:RMES_1km_M_Neoplasias",
+                "id": "mor:RMES_1Km_M_Neoplasias",
                 "name": "mor:RMES_1km_M_Neoplasias",
                 "legend": "RMES. Mujeres - Neoplasias (tumores)",
                 "transparent": true,
@@ -269,32 +269,32 @@
                 "optgroup": "Enfermedades transmisibles",
                 "layersId": [
                     "mor:RMES_1Km_T_Transmisibles",
-                    "mor:RMES_1km_H_Transmisibles",
-                    "mor:RMES_1km_M_Transmisibles"
+                    "mor:RMES_1Km_H_Transmisibles",
+                    "mor:RMES_1Km_M_Transmisibles"
                 ]
             },
             {
                 "optgroup": "Neoplasias (tumores)",
                 "layersId": [
                     "mor:RMES_1Km_T_Neoplasias",
-                    "mor:RMES_1km_H_Neoplasias",
-                    "mor:RMES_1km_M_Neoplasias"
+                    "mor:RMES_1Km_H_Neoplasias",
+                    "mor:RMES_1Km_M_Neoplasias"
                 ]
             },
             {
                 "optgroup": "Sistema circulatorio",
                 "layersId": [
                     "mor:RMES_1Km_T_SCirculatorio",
-                    "mor:RMES_1km_H_SCirculatorio",
-                    "mor:RMES_1km_M_SCirculatorio"
+                    "mor:RMES_1Km_H_SCirculatorio",
+                    "mor:RMES_1Km_M_SCirculatorio"
                 ]
             },
             {
                 "optgroup": "Causas Externas",
                 "layersId": [
                     "mor:RMES_1Km_T_CExternas",
-                    "mor:RMES_1km_H_CExternas",
-                    "mor:RMES_1km_M_CExternas"
+                    "mor:RMES_1Km_H_CExternas",
+                    "mor:RMES_1Km_M_CExternas"
                 ]
             }
         ]
