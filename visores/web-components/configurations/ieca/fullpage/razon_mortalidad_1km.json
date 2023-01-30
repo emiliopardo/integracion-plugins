@@ -75,39 +75,39 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_T",
-                "name": "RMES_1Km_T",
+                "id": "mor:RMES_1Km_T",
+                "name": "mor:RMES_1Km_T",
                 "legend": "RMES. Ambos sexos",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_T"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_T"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_H",
-                "name": "RMES_1Km_H",
+                "id": "mor:RMES_1km_H",
+                "name": "mor:RMES_1km_H",
                 "legend": "RMES. Hombres",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_H"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1km_H"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_M",
-                "name": "RMES_1Km_M",
+                "id": "mor:RMES_1km_M",
+                "name": "mor:RMES_1km_M",
                 "legend": "RMES. Mujeres",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_M"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1km_M"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
@@ -119,7 +119,7 @@
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_T_Transmisibles"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_T_Transmisibles"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
@@ -131,127 +131,127 @@
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_H_Transmisibles"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_H_Transmisibles"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_M_Transmisibles",
-                "name": "RMES_1Km_M_Transmisibles",
+                "id": "mor:RMES_1Km_M_Transmisibles",
+                "name": "mor:RMES_1Km_M_Transmisibles",
                 "legend": "RMES. Mujeres - Enfermedades transmisibles",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_M_Transmisibles"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_M_Transmisibles"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_T_Neoplasias",
-                "name": "RMES_1Km_T_Neoplasias",
+                "id": "mor:RMES_1Km_T_Neoplasias",
+                "name": "mor:RMES_1Km_T_Neoplasias",
                 "legend": "RMES. Ambos sexos - Neoplasias (tumores)",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_T_Neoplasias"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_T_Neoplasias"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_H_Neoplasias",
-                "name": "RMES_1Km_H_Neoplasias",
+                "id": "mor:RMES_1km_H_Neoplasias",
+                "name": "mor:RMES_1km_H_Neoplasias",
                 "legend": "RMES. Hombres - Neoplasias (tumores)",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_H_Neoplasias"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1km_H_Neoplasias"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_M_Neoplasias",
-                "name": "RMES_1Km_M_Neoplasias",
+                "id": "mor:RMES_1km_M_Neoplasias",
+                "name": "mor:RMES_1km_M_Neoplasias",
                 "legend": "RMES. Mujeres - Neoplasias (tumores)",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_M_Neoplasias"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1km_M_Neoplasias"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_T_SCirculatorio",
-                "name": "RMES_1Km_T_SCirculatorio",
+                "id": "mor:RMES_1Km_T_SCirculatorio",
+                "name": "mor:RMES_1Km_T_SCirculatorio",
                 "legend": "RMES. Ambos sexos - Sistema circulatorio",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_T_SCirculatorio"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_T_SCirculatorio"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_H_SCirculatorio",
-                "name": "RMES_1Km_H_SCirculatorio",
+                "id": "mor:RMES_1Km_H_SCirculatorio",
+                "name": "mor:RMES_1Km_H_SCirculatorio",
                 "legend": "RMES. Hombres - Sistema circulatorio",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_H_SCirculatorio"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_H_SCirculatorio"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_M_SCirculatorio",
-                "name": "RMES_1Km_M_SCirculatorio",
+                "id": "mor:RMES_1Km_M_SCirculatorio",
+                "name": "mor:RMES_1Km_M_SCirculatorio",
                 "legend": "RMES. Mujeres - Sistema circulatorio",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_M_SCirculatorio"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_M_SCirculatorio"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_T_CExternas",
-                "name": "RMES_1Km_T_CExternas",
+                "id": "mor:RMES_1Km_T_CExternas",
+                "name": "mor:RMES_1Km_T_CExternas",
                 "legend": "RMES. Ambos sexos - Causas externas",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_T_CExternas"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_T_CExternas"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_H_CExternas",
-                "name": "RMES_1Km_H_CExternas",
+                "id": "mor:RMES_1Km_H_CExternas",
+                "name": "mor:RMES_1Km_H_CExternas",
                 "legend": "RMES. Hombres - Causas externas",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_H_CExternas"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_H_CExternas"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
-                "id": "RMES_1Km_M_CExternas",
-                "name": "RMES_1Km_M_CExternas",
+                "id": "mor:RMES_1Km_M_CExternas",
+                "name": "mor:RMES_1Km_M_CExternas",
                 "legend": "RMES. Mujeres - Causas externas",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=RMES_1Km_M_CExternas"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_M_CExternas"
             }
         ],
         "selectedLayerId": null,
@@ -260,41 +260,41 @@
             {
                 "optgroup": "Genérica",
                 "layersId": [
-                    "RMES_1Km_T",
-                    "RMES_1Km_H",
-                    "RMES_1Km_M"
+                    "mor:RMES_1Km_T",
+                    "mor:RMES_1km_H",
+                    "mor:RMES_1km_M"
                 ]
             },
             {
                 "optgroup": "Enfermedades transmisibles",
                 "layersId": [
-                    "RMES_1Km_T_Transmisibles",
-                    "RMES_1Km_H_Transmisibles",
-                    "RMES_1Km_M_Transmisibles"
+                    "mor:RMES_1Km_T_Transmisibles",
+                    "mor:RMES_1km_H_Transmisibles",
+                    "mor:RMES_1km_M_Transmisibles"
                 ]
             },
             {
                 "optgroup": "Neoplasias (tumores)",
                 "layersId": [
-                    "RMES_1Km_T_Neoplasias",
-                    "RMES_1Km_H_Neoplasias",
-                    "RMES_1Km_M_Neoplasias"
+                    "mor:RMES_1Km_T_Neoplasias",
+                    "mor:RMES_1km_H_Neoplasias",
+                    "mor:RMES_1km_M_Neoplasias"
                 ]
             },
             {
                 "optgroup": "Sistema circulatorio",
                 "layersId": [
-                    "RMES_1Km_T_SCirculatorio",
-                    "RMES_1Km_H_SCirculatorio",
-                    "RMES_1Km_M_SCirculatorio"
+                    "mor:RMES_1Km_T_SCirculatorio",
+                    "mor:RMES_1km_H_SCirculatorio",
+                    "mor:RMES_1km_M_SCirculatorio"
                 ]
             },
             {
                 "optgroup": "Causas Externas",
                 "layersId": [
-                    "RMES_1Km_T_CExternas",
-                    "RMES_1Km_H_CExternas",
-                    "RMES_1Km_M_CExternas"
+                    "mor:RMES_1Km_T_CExternas",
+                    "mor:RMES_1km_H_CExternas",
+                    "mor:RMES_1km_M_CExternas"
                 ]
             }
         ]
