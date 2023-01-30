@@ -220,6 +220,7 @@
         ],
         "selectedLayerId": null,
         "group": true,
+        "nested": false,
         "layerGroups": [
             {
                 "optgroup": "Intensidad de la fecundidad Mujeres",

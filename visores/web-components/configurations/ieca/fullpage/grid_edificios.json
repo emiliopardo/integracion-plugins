@@ -556,55 +556,120 @@
         ],
         "selectedLayerId": "gridcate20_250_01-stl_edificios_ned",
         "group": true,
+        "nested": true,
         "layerGroups": [
             {
-                "optgroup": "Número de edificios",
-                "layersId": [
-                    "gridcate20_250_01-stl_edificios_ned",
-                    "gridcate20_250_02-stl_edificios_m2ed_total"
-                ]
-            },
-            {
-                "optgroup": "Categoría constructiva del edificio",
-                "layersId": [
-                    "gridcate20_250_03-stl_edificios_cced_moda"
-                ]
-            },
-            {
-                "optgroup": "Volumetría del edificio (número de plantas sobre rasante)",
-                "layersId": [
-                    "gridcate20_250_04-stl_edificios_altsred_q2",
-                    "gridcate20_250_05-stl_edificios_altsred_max"
-                ]
-            },
-            {
-                "optgroup": "Antigüedad del edificio",
-                "layersId": [
-                    "gridcate20_250_06-stl_edificios_aanted_moda"
-                ]
-            },
-            {
-                "optgroup": "Uso predominante del edificio",
-                "layersId": [
-                    "gridcate20_250_07-stl_edificios_ned_res",
-                    "gridcate20_250_08-stl_edificios_nedi_ind",
-                    "gridcate20_250_09-stl_edificios_ned_ofi",
-                    "gridcate20_250_10-stl_edificios_ned_com",
-                    "gridcate20_250_11-stl_edificios_ned_dep",
-                    "gridcate20_250_12-stl_edificios_ned_ocihos",
-                    "gridcate20_250_13-stl_edificios_ned_cul"
-                ]
-            },
-            {
-                "optgroup": "Superficie dedicada a los distintos destinos en el edificio",
-                "layersId": [
-                    "gridcate20_250_14-stl_edificios_m2ed_res",
-                    "gridcate20_250_15-stl_edificios_m2ed_ind",
-                    "gridcate20_250_16-stl_edificios_m2ed_ofi",
-                    "gridcate20_250_17-stl_edificios_m2ed_com",
-                    "gridcate20_250_18-stl_edificios_m2ed_dep",
-                    "gridcate20_250_19-stl_edificios_m2ed_ocihos",
-                    "gridcate20_250_20-stl_edificios_m2ed_cul"
+                "parent": [
+                    {
+                        "label": "2020",
+                        "layerGroup": [
+                            {
+                                "optgroup": "Número de edificios",
+                                "layersId": [
+                                    "gridcate20_250_01-stl_edificios_ned",
+                                    "gridcate20_250_02-stl_edificios_m2ed_total"
+                                ]
+                            },
+                            {
+                                "optgroup": "Categoría constructiva del edificio",
+                                "layersId": [
+                                    "gridcate20_250_03-stl_edificios_cced_moda"
+                                ]
+                            },
+                            {
+                                "optgroup": "Volumetría del edificio (número de plantas sobre rasante)",
+                                "layersId": [
+                                    "gridcate20_250_04-stl_edificios_altsred_q2",
+                                    "gridcate20_250_05-stl_edificios_altsred_max"
+                                ]
+                            },
+                            {
+                                "optgroup": "Antigüedad del edificio",
+                                "layersId": [
+                                    "gridcate20_250_06-stl_edificios_aanted_moda"
+                                ]
+                            },
+                            {
+                                "optgroup": "Uso predominante del edificio",
+                                "layersId": [
+                                    "gridcate20_250_07-stl_edificios_ned_res",
+                                    "gridcate20_250_08-stl_edificios_nedi_ind",
+                                    "gridcate20_250_09-stl_edificios_ned_ofi",
+                                    "gridcate20_250_10-stl_edificios_ned_com",
+                                    "gridcate20_250_11-stl_edificios_ned_dep",
+                                    "gridcate20_250_12-stl_edificios_ned_ocihos",
+                                    "gridcate20_250_13-stl_edificios_ned_cul"
+                                ]
+                            },
+                            {
+                                "optgroup": "Superficie dedicada a los distintos destinos en el edificio",
+                                "layersId": [
+                                    "gridcate20_250_14-stl_edificios_m2ed_res",
+                                    "gridcate20_250_15-stl_edificios_m2ed_ind",
+                                    "gridcate20_250_16-stl_edificios_m2ed_ofi",
+                                    "gridcate20_250_17-stl_edificios_m2ed_com",
+                                    "gridcate20_250_18-stl_edificios_m2ed_dep",
+                                    "gridcate20_250_19-stl_edificios_m2ed_ocihos",
+                                    "gridcate20_250_20-stl_edificios_m2ed_cul"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "2022",
+                        "layerGroup": [
+                            {
+                                "optgroup": "Número de edificios",
+                                "layersId": [
+                                    "gridcate_250_01-stl_edificios_ned",
+                                    "gridcate_250_02-stl_edificios_m2ed_total"
+                                ]
+                            },
+                            {
+                                "optgroup": "Categoría constructiva del edificio",
+                                "layersId": [
+                                    "gridcate_250_03-stl_edificios_cced_moda"
+                                ]
+                            },
+                            {
+                                "optgroup": "Volumetría del edificio (número de plantas sobre rasante)",
+                                "layersId": [
+                                    "gridcate_250_04-stl_edificios_altsred_q2",
+                                    "gridcate_250_05-stl_edificios_altsred_max"
+                                ]
+                            },
+                            {
+                                "optgroup": "Antigüedad del edificio",
+                                "layersId": [
+                                    "gridcate_250_06-stl_edificios_aanted_moda"
+                                ]
+                            },
+                            {
+                                "optgroup": "Uso predominante del edificio",
+                                "layersId": [
+                                    "gridcate_250_07-stl_edificios_ned_res",
+                                    "gridcate_250_08-stl_edificios_nedi_ind",
+                                    "gridcate_250_09-stl_edificios_ned_ofi",
+                                    "gridcate_250_10-stl_edificios_ned_com",
+                                    "gridcate_250_11-stl_edificios_ned_dep",
+                                    "gridcate_250_12-stl_edificios_ned_ocihos",
+                                    "gridcate_250_13-stl_edificios_ned_cul"
+                                ]
+                            },
+                            {
+                                "optgroup": "Superficie dedicada a los distintos destinos en el edificio",
+                                "layersId": [
+                                    "gridcate_250_14-stl_edificios_m2ed_res",
+                                    "gridcate_250_15-stl_edificios_m2ed_ind",
+                                    "gridcate_250_16-stl_edificios_m2ed_ofi",
+                                    "gridcate_250_17-stl_edificios_m2ed_com",
+                                    "gridcate_250_18-stl_edificios_m2ed_dep",
+                                    "gridcate_250_19-stl_edificios_m2ed_ocihos",
+                                    "gridcate_250_20-stl_edificios_m2ed_cul"
+                                ]
+                            }
+                        ]
+                    }
                 ]
             }
         ]

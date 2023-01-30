@@ -163,6 +163,7 @@
             }
         ],
         "selectedLayerId": "all",
-        "group": false   
+        "group": false,
+        "nested": false   
     }
 }

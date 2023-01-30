@@ -148,6 +148,7 @@
         ],
         "selectedLayerId": null,
         "group": true,
+        "nested": false,
         "layerGroups": [
             {
                 "optgroup": "Año 2002",

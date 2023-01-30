@@ -279,6 +279,7 @@
             }
         ],
         "selectedLayerId": null,
-        "group": false
+        "group": false,
+        "nested": false
     }
 }

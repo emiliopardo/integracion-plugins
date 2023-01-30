@@ -184,6 +184,7 @@
         ],
         "selectedLayerId": null,
         "group": true,
+        "nested": false,
         "layerGroups": [
             {
                 "optgroup": "Genérica",
