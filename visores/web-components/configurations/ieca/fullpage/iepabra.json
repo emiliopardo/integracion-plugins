@@ -231,7 +231,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_actividad_i13",
+                "id": "iepabra2021_actividad_i14",
                 "name": "iepabra2021",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -483,7 +483,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_actividad_i13",
+                "id": "iepabra2020_actividad_i14",
                 "name": "iepabra2020",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -735,7 +735,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_actividad_i13",
+                "id": "iepabra2019_actividad_i14",
                 "name": "iepabra2019",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -987,7 +987,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_actividad_i13",
+                "id": "iepabra2018_actividad_i14",
                 "name": "iepabra2018",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -1239,7 +1239,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_actividad_i13",
+                "id": "iepabra2017_actividad_i14",
                 "name": "iepabra2017",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -1592,52 +1592,6 @@
         "layerGroups": [
             {
                 "label": "2021",
-                "layerGroup": [
-                    {
-                        "optgroup": "Demografía",
-                        "layersId": [
-                            "iepabra2021_demografia_i15",
-                            "iepabra2021_demografia_i2",
-                            "iepabra2021_demografia_i17",
-                            "iepabra2021_demografia_i16",
-                            "iepabra2021_demografia_i1",
-                            "iepabra2021_demografia_i4",
-                            "iepabra2021_demografia_i3",
-                            "iepabra2021_demografia_i22"
-                        ]
-                    },
-                    {
-                        "optgroup": "Pensiones Contributivas",
-                        "layersId": [
-                            "iepabra2021_pensiones_i7",
-                            "iepabra2021_pensiones_i8",
-                            "iepabra2021_pensiones_i9",
-                            "iepabra2021_pensiones_i20"
-                        ]
-                    },
-                    {
-                        "optgroup": "Actividad",
-                        "layersId": [
-                            "iepabra2021_actividad_i10",
-                            "iepabra2021_actividad_i11",
-                            "iepabra2021_actividad_i12",
-                            "iepabra2021_actividad_i13",
-                            "iepabra2021_actividad_i14"
-                        ]
-                    },
-                    {
-                        "optgroup": "Hogares",
-                        "layersId": [
-                            "iepabra2021_hogares_i5",
-                            "iepabra2021_hogares_i6",
-                            "iepabra2021_hogares_i18",
-                            "iepabra2021_hogares_i19"
-                        ]
-                    }
-                ]
-            },
-            {
-                "label": "2020",
                 "layerGroup": [
                     {
                         "optgroup": "Demografía",
