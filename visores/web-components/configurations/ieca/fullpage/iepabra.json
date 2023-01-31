@@ -176,10 +176,10 @@
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i9",
+                "style": "pensiones_i9",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i9"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=pensiones_i9"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -428,10 +428,10 @@
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i9",
+                "style": "pensiones_i9",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i9"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=pensiones_i9"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -680,10 +680,10 @@
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i9",
+                "style": "pensiones_i9",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i9"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=pensiones_i9"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -932,10 +932,10 @@
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i9",
+                "style": "pensiones_i9",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i9"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=pensiones_i9"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1184,10 +1184,10 @@
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i9",
+                "style": "pensiones_i9",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i9"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=pensiones_i9"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1436,10 +1436,10 @@
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i9",
+                "style": "pensiones_i9",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i9"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=pensiones_i9"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
