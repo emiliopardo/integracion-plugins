@@ -128,10 +128,10 @@
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i5",
+                "style": "hogares_i5",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i5"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=hogares_i5"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -140,10 +140,10 @@
                 "legend": "Índice de soledad",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i6",
+                "style": "hogares_i6",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i6"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=hogares_i6"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -152,10 +152,10 @@
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i7",
+                "style": "pensiones_i7",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i7"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=pensiones_i7"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -164,10 +164,10 @@
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i8",
+                "style": "pensiones_i8",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i8"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=pensiones_i8"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -188,10 +188,10 @@
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i10",
+                "style": "actividad_i10",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i10"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=actividad_i10"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -200,10 +200,10 @@
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i11",
+                "style": "actividad_i11",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i11"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=actividad_i11"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -212,10 +212,10 @@
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i12",
+                "style": "actividad_i12",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i12"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=actividad_i12"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -224,10 +224,10 @@
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i13",
+                "style": "actividad_i13",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i13"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=actividad_i13"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -236,10 +236,10 @@
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i14",
+                "style": "actividad_i14",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i14"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=actividad_i14"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -284,10 +284,10 @@
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i18",
+                "style": "hogares_i18",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i18"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=hogares_i18"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -296,10 +296,10 @@
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i19",
+                "style": "hogares_i19",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i19"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=hogares_i19"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -308,10 +308,10 @@
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i20",
+                "style": "pensiones_i20",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i20"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=pensiones_i20"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -380,10 +380,10 @@
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i5",
+                "style": "hogares_i5",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i5"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=hogares_i5"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -392,10 +392,10 @@
                 "legend": "Índice de soledad",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i6",
+                "style": "hogares_i6",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i6"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=hogares_i6"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -404,10 +404,10 @@
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i7",
+                "style": "pensiones_i7",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i7"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=pensiones_i7"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -416,10 +416,10 @@
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i8",
+                "style": "pensiones_i8",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i8"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=pensiones_i8"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -440,10 +440,10 @@
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i10",
+                "style": "actividad_i10",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i10"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=actividad_i10"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -452,10 +452,10 @@
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i11",
+                "style": "actividad_i11",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i11"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=actividad_i11"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -464,10 +464,10 @@
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i12",
+                "style": "actividad_i12",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i12"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=actividad_i12"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -476,10 +476,10 @@
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i13",
+                "style": "actividad_i13",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i13"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=actividad_i13"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -488,10 +488,10 @@
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i14",
+                "style": "actividad_i14",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i14"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=actividad_i14"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -536,10 +536,10 @@
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i18",
+                "style": "hogares_i18",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i18"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=hogares_i18"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -548,10 +548,10 @@
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i19",
+                "style": "hogares_i19",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i19"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=hogares_i19"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -560,10 +560,10 @@
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i20",
+                "style": "pensiones_i20",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=demografia_i20"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2020&style=pensiones_i20"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -632,10 +632,10 @@
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i5",
+                "style": "hogares_i5",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i5"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=hogares_i5"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -644,10 +644,10 @@
                 "legend": "Índice de soledad",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i6",
+                "style": "hogares_i6",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i6"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=hogares_i6"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -656,10 +656,10 @@
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i7",
+                "style": "pensiones_i7",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i7"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=pensiones_i7"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -668,10 +668,10 @@
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i8",
+                "style": "pensiones_i8",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i8"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=pensiones_i8"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -692,10 +692,10 @@
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i10",
+                "style": "actividad_i10",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i10"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=actividad_i10"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -704,10 +704,10 @@
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i11",
+                "style": "actividad_i11",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i11"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=actividad_i11"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -716,10 +716,10 @@
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i12",
+                "style": "actividad_i12",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i12"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=actividad_i12"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -728,10 +728,10 @@
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i13",
+                "style": "actividad_i13",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i13"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=actividad_i13"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -740,10 +740,10 @@
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i14",
+                "style": "actividad_i14",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i14"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=actividad_i14"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -788,10 +788,10 @@
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i18",
+                "style": "hogares_i18",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i18"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=hogares_i18"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -800,10 +800,10 @@
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i19",
+                "style": "hogares_i19",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i19"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=hogares_i19"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -812,10 +812,10 @@
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i20",
+                "style": "pensiones_i20",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=demografia_i20"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2019&style=pensiones_i20"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -884,10 +884,10 @@
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i5",
+                "style": "hogares_i5",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i5"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=hogares_i5"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -896,10 +896,10 @@
                 "legend": "Índice de soledad",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i6",
+                "style": "hogares_i6",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i6"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=hogares_i6"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -908,10 +908,10 @@
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i7",
+                "style": "pensiones_i7",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i7"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=pensiones_i7"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -920,10 +920,10 @@
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i8",
+                "style": "pensiones_i8",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i8"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=pensiones_i8"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -944,10 +944,10 @@
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i10",
+                "style": "actividad_i10",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i10"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=actividad_i10"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -956,10 +956,10 @@
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i11",
+                "style": "actividad_i11",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i11"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=actividad_i11"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -968,10 +968,10 @@
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i12",
+                "style": "actividad_i12",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i12"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=actividad_i12"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -980,10 +980,10 @@
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i13",
+                "style": "actividad_i13",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i13"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=actividad_i13"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -992,10 +992,10 @@
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i14",
+                "style": "actividad_i14",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i14"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=actividad_i14"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1040,10 +1040,10 @@
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i18",
+                "style": "hogares_i18",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i18"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=hogares_i18"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1052,10 +1052,10 @@
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i19",
+                "style": "hogares_i19",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i19"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=hogares_i19"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1064,10 +1064,10 @@
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i20",
+                "style": "pensiones_i20",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=demografia_i20"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2018&style=pensiones_i20"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1136,10 +1136,10 @@
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i5",
+                "style": "hogares_i5",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i5"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=hogares_i5"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1148,10 +1148,10 @@
                 "legend": "Índice de soledad",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i6",
+                "style": "hogares_i6",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i6"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=hogares_i6"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1160,10 +1160,10 @@
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i7",
+                "style": "pensiones_i7",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i7"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=pensiones_i7"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1172,10 +1172,10 @@
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i8",
+                "style": "pensiones_i8",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i8"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=pensiones_i8"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1196,10 +1196,10 @@
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i10",
+                "style": "actividad_i10",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i10"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=actividad_i10"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1208,10 +1208,10 @@
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i11",
+                "style": "actividad_i11",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i11"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=actividad_i11"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1220,10 +1220,10 @@
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i12",
+                "style": "actividad_i12",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i12"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=actividad_i12"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1232,10 +1232,10 @@
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i13",
+                "style": "actividad_i13",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i13"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=actividad_i13"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1244,10 +1244,10 @@
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i14",
+                "style": "actividad_i14",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i14"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=actividad_i14"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1292,10 +1292,10 @@
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i18",
+                "style": "hogares_i18",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i18"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=hogares_i18"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1304,10 +1304,10 @@
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i19",
+                "style": "hogares_i19",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i19"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=hogares_i19"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1316,10 +1316,10 @@
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i20",
+                "style": "pensiones_i20",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=demografia_i20"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2017&style=pensiones_i20"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1388,10 +1388,10 @@
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i5",
+                "style": "hogares_i5",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i5"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=hogares_i5"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1400,10 +1400,10 @@
                 "legend": "Índice de soledad",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i6",
+                "style": "hogares_i6",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i6"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=hogares_i6"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1412,10 +1412,10 @@
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i7",
+                "style": "pensiones_i7",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i7"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=pensiones_i7"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1424,10 +1424,10 @@
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i8",
+                "style": "pensiones_i8",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i8"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=pensiones_i8"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1448,10 +1448,10 @@
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i10",
+                "style": "actividad_i10",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i10"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=actividad_i10"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1460,10 +1460,10 @@
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i11",
+                "style": "actividad_i11",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i11"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=actividad_i11"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1472,10 +1472,10 @@
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i12",
+                "style": "actividad_i12",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i12"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=actividad_i12"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1484,22 +1484,22 @@
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i13",
+                "style": "actividad_i13",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i13"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=actividad_i13"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_actividad_i13",
+                "id": "iepabra2016_actividad_i14",
                 "name": "iepabra2016",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i14",
+                "style": "actividad_i14",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i14"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=actividad_i14"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1544,10 +1544,10 @@
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i18",
+                "style": "hogares_i18",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i18"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=hogares_i18"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1556,10 +1556,10 @@
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i19",
+                "style": "hogares_i19",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i19"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=hogares_i19"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
@@ -1568,10 +1568,10 @@
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i20",
+                "style": "pensiones_i20",
                 "opacity": 0.7,
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i20"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=pensiones_i20"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
