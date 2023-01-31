@@ -1586,7 +1586,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2016&style=demografia_i22"
             }
         ],
-        "selectedLayerId": null,
+        "selectedLayerId": "none",
         "group": true,
         "nested": true,
         "layerGroups": [
