@@ -254,7 +254,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_1Km_M_CExternas"
             }
         ],
-        "selectedLayerId": null,
+        "selectedLayerId": "none",
         "group": true,
         "nested": false,
         "layerGroups": [

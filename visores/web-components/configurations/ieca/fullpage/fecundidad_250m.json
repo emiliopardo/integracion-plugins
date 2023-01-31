@@ -146,7 +146,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres250_ISF"
             }
         ],
-        "selectedLayerId": null,
+        "selectedLayerId": "none",
         "group": false,
         "nested": false
     }

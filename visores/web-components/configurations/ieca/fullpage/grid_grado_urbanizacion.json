@@ -146,7 +146,7 @@
                 "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba250&style=degurbagrid:stl_degurban2grid250m"
             }
         ],
-        "selectedLayerId": null,
+        "selectedLayerId": "none",
         "group": true,
         "nested": false,
         "layerGroups": [

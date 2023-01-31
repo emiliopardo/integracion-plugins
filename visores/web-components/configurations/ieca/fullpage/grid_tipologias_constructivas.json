@@ -278,7 +278,7 @@
                 "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c1034_golf"
             }
         ],
-        "selectedLayerId": null,
+        "selectedLayerId": "none",
         "group": false,
         "nested": false
     }
