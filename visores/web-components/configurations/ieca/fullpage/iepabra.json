@@ -123,7 +123,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i5",
+                "id": "iepabra2021_hogares_i5",
                 "name": "iepabra2021",
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
@@ -135,7 +135,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i6",
+                "id": "iepabra2021_hogares_i6",
                 "name": "iepabra2021",
                 "legend": "Índice de soledad",
                 "transparent": true,
@@ -147,7 +147,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i7",
+                "id": "iepabra2021_pensiones_i7",
                 "name": "iepabra2021",
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
@@ -159,7 +159,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i8",
+                "id": "iepabra2021_pensiones_i8",
                 "name": "iepabra2021",
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
@@ -171,7 +171,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i9",
+                "id": "iepabra2021_pensiones_i9",
                 "name": "iepabra2021",
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
@@ -183,7 +183,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i10",
+                "id": "iepabra2021_actividad_i10",
                 "name": "iepabra2021",
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
@@ -195,7 +195,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i11",
+                "id": "iepabra2021_actividad_i11",
                 "name": "iepabra2021",
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
@@ -207,7 +207,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i12",
+                "id": "iepabra2021_actividad_i12",
                 "name": "iepabra2021",
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
@@ -219,7 +219,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i13",
+                "id": "iepabra2021_actividad_i13",
                 "name": "iepabra2021",
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
@@ -231,7 +231,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i13",
+                "id": "iepabra2021_actividad_i13",
                 "name": "iepabra2021",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -279,7 +279,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i18",
+                "id": "iepabra2021_hogares_i18",
                 "name": "iepabra2021",
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
@@ -291,7 +291,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i19",
+                "id": "iepabra2021_hogares_i19",
                 "name": "iepabra2021",
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
@@ -303,7 +303,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2021_demografia_i20",
+                "id": "iepabra2021_pensiones_i20",
                 "name": "iepabra2021",
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
@@ -375,7 +375,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i5",
+                "id": "iepabra2020_hogares_i5",
                 "name": "iepabra2020",
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
@@ -387,7 +387,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i6",
+                "id": "iepabra2020_hogares_i6",
                 "name": "iepabra2020",
                 "legend": "Índice de soledad",
                 "transparent": true,
@@ -399,7 +399,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i7",
+                "id": "iepabra2020_pensiones_i7",
                 "name": "iepabra2020",
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
@@ -411,7 +411,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i8",
+                "id": "iepabra2020_pensiones_i8",
                 "name": "iepabra2020",
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
@@ -423,7 +423,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i9",
+                "id": "iepabra2020_pensiones_i9",
                 "name": "iepabra2020",
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
@@ -435,7 +435,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i10",
+                "id": "iepabra2020_actividad_i10",
                 "name": "iepabra2020",
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
@@ -447,7 +447,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i11",
+                "id": "iepabra2020_actividad_i11",
                 "name": "iepabra2020",
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
@@ -459,7 +459,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i12",
+                "id": "iepabra2020_actividad_i12",
                 "name": "iepabra2020",
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
@@ -471,7 +471,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i13",
+                "id": "iepabra2020_actividad_i13",
                 "name": "iepabra2020",
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
@@ -483,7 +483,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i13",
+                "id": "iepabra2020_actividad_i13",
                 "name": "iepabra2020",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -531,7 +531,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i18",
+                "id": "iepabra2020_hogares_i18",
                 "name": "iepabra2020",
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
@@ -543,7 +543,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i19",
+                "id": "iepabra2020_hogares_i19",
                 "name": "iepabra2020",
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
@@ -555,7 +555,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2020_demografia_i20",
+                "id": "iepabra2020_pensiones_i20",
                 "name": "iepabra2020",
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
@@ -627,7 +627,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i5",
+                "id": "iepabra2019_hogares_i5",
                 "name": "iepabra2019",
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
@@ -639,7 +639,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i6",
+                "id": "iepabra2019_hogares_i6",
                 "name": "iepabra2019",
                 "legend": "Índice de soledad",
                 "transparent": true,
@@ -651,7 +651,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i7",
+                "id": "iepabra2019_pensiones_i7",
                 "name": "iepabra2019",
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
@@ -663,7 +663,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i8",
+                "id": "iepabra2019_pensiones_i8",
                 "name": "iepabra2019",
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
@@ -675,7 +675,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i9",
+                "id": "iepabra2019_pensiones_i9",
                 "name": "iepabra2019",
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
@@ -687,7 +687,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i10",
+                "id": "iepabra2019_actividad_i10",
                 "name": "iepabra2019",
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
@@ -699,7 +699,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i11",
+                "id": "iepabra2019_actividad_i11",
                 "name": "iepabra2019",
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
@@ -711,7 +711,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i12",
+                "id": "iepabra2019_actividad_i12",
                 "name": "iepabra2019",
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
@@ -723,7 +723,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i13",
+                "id": "iepabra2019_actividad_i13",
                 "name": "iepabra2019",
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
@@ -735,7 +735,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i13",
+                "id": "iepabra2019_actividad_i13",
                 "name": "iepabra2019",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -783,7 +783,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i18",
+                "id": "iepabra2019_hogares_i18",
                 "name": "iepabra2019",
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
@@ -795,7 +795,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i19",
+                "id": "iepabra2019_hogares_i19",
                 "name": "iepabra2019",
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
@@ -807,7 +807,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2019_demografia_i20",
+                "id": "iepabra2019_pensiones_i20",
                 "name": "iepabra2019",
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
@@ -879,7 +879,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i5",
+                "id": "iepabra2018_hogares_i5",
                 "name": "iepabra2018",
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
@@ -891,7 +891,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i6",
+                "id": "iepabra2018_hogares_i6",
                 "name": "iepabra2018",
                 "legend": "Índice de soledad",
                 "transparent": true,
@@ -903,7 +903,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i7",
+                "id": "iepabra2018_pensiones_i7",
                 "name": "iepabra2018",
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
@@ -915,7 +915,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i8",
+                "id": "iepabra2018_pensiones_i8",
                 "name": "iepabra2018",
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
@@ -927,7 +927,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i9",
+                "id": "iepabra2018_pensiones_i9",
                 "name": "iepabra2018",
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
@@ -939,7 +939,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i10",
+                "id": "iepabra2018_actividad_i10",
                 "name": "iepabra2018",
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
@@ -951,7 +951,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i11",
+                "id": "iepabra2018_actividad_i11",
                 "name": "iepabra2018",
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
@@ -963,7 +963,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i12",
+                "id": "iepabra2018_actividad_i12",
                 "name": "iepabra2018",
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
@@ -975,7 +975,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i13",
+                "id": "iepabra2018_actividad_i13",
                 "name": "iepabra2018",
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
@@ -987,7 +987,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i13",
+                "id": "iepabra2018_actividad_i13",
                 "name": "iepabra2018",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -1035,7 +1035,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i18",
+                "id": "iepabra2018_hogares_i18",
                 "name": "iepabra2018",
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
@@ -1047,7 +1047,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i19",
+                "id": "iepabra2018_hogares_i19",
                 "name": "iepabra2018",
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
@@ -1059,7 +1059,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2018_demografia_i20",
+                "id": "iepabra2018_pensiones_i20",
                 "name": "iepabra2018",
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
@@ -1131,7 +1131,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i5",
+                "id": "iepabra2017_hogares_i5",
                 "name": "iepabra2017",
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
@@ -1143,7 +1143,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i6",
+                "id": "iepabra2017_hogares_i6",
                 "name": "iepabra2017",
                 "legend": "Índice de soledad",
                 "transparent": true,
@@ -1155,7 +1155,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i7",
+                "id": "iepabra2017_pensiones_i7",
                 "name": "iepabra2017",
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
@@ -1167,7 +1167,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i8",
+                "id": "iepabra2017_pensiones_i8",
                 "name": "iepabra2017",
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
@@ -1179,7 +1179,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i9",
+                "id": "iepabra2017_pensiones_i9",
                 "name": "iepabra2017",
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
@@ -1191,7 +1191,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i10",
+                "id": "iepabra2017_actividad_i10",
                 "name": "iepabra2017",
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
@@ -1203,7 +1203,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i11",
+                "id": "iepabra2017_actividad_i11",
                 "name": "iepabra2017",
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
@@ -1215,7 +1215,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i12",
+                "id": "iepabra2017_actividad_i12",
                 "name": "iepabra2017",
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
@@ -1227,7 +1227,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i13",
+                "id": "iepabra2017_actividad_i13",
                 "name": "iepabra2017",
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
@@ -1239,7 +1239,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i13",
+                "id": "iepabra2017_actividad_i13",
                 "name": "iepabra2017",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -1287,7 +1287,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i18",
+                "id": "iepabra2017_hogares_i18",
                 "name": "iepabra2017",
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
@@ -1299,7 +1299,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i19",
+                "id": "iepabra2017_hogares_i19",
                 "name": "iepabra2017",
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
@@ -1311,7 +1311,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2017_demografia_i20",
+                "id": "iepabra2017_pensiones_i20",
                 "name": "iepabra2017",
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
@@ -1383,7 +1383,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i5",
+                "id": "iepabra2016_hogares_i5",
                 "name": "iepabra2016",
                 "legend": "Porcentaje de población en hogares unipersonales",
                 "transparent": true,
@@ -1395,7 +1395,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i6",
+                "id": "iepabra2016_hogares_i6",
                 "name": "iepabra2016",
                 "legend": "Índice de soledad",
                 "transparent": true,
@@ -1407,7 +1407,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i7",
+                "id": "iepabra2016_pensiones_i7",
                 "name": "iepabra2016",
                 "legend": "Porcentaje de pensionistas de jubilacion con pensión inferior al 60% del importe mediano de las pensiones de jubilación",
                 "transparent": true,
@@ -1419,7 +1419,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i8",
+                "id": "iepabra2016_pensiones_i8",
                 "name": "iepabra2016",
                 "legend": "Índice de cobertura de las pensiones contributivas en los mayores",
                 "transparent": true,
@@ -1431,7 +1431,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i9",
+                "id": "iepabra2016_pensiones_i9",
                 "name": "iepabra2016",
                 "legend": "Ratio de afiliados a la Seguridad Social por pensionista",
                 "transparent": true,
@@ -1443,7 +1443,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i10",
+                "id": "iepabra2016_actividad_i10",
                 "name": "iepabra2016",
                 "legend": "Tasa de actividad registrada",
                 "transparent": true,
@@ -1455,7 +1455,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i11",
+                "id": "iepabra2016_actividad_i11",
                 "name": "iepabra2016",
                 "legend": "Tasa de empleo registrado",
                 "transparent": true,
@@ -1467,7 +1467,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i12",
+                "id": "iepabra2016_actividad_i12",
                 "name": "iepabra2016",
                 "legend": "Tasa de desempleo registrado",
                 "transparent": true,
@@ -1479,7 +1479,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i13",
+                "id": "iepabra2016_actividad_i13",
                 "name": "iepabra2016",
                 "legend": "Tasa de desempleo registrado de larga duración",
                 "transparent": true,
@@ -1491,7 +1491,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i13",
+                "id": "iepabra2016_actividad_i13",
                 "name": "iepabra2016",
                 "legend": "Porcentaje de parados registrados de larga duración",
                 "transparent": true,
@@ -1539,7 +1539,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i18",
+                "id": "iepabra2016_hogares_i18",
                 "name": "iepabra2016",
                 "legend": "Porcentaje de hogares unipersonales",
                 "transparent": true,
@@ -1551,7 +1551,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i19",
+                "id": "iepabra2016_hogares_i19",
                 "name": "iepabra2016",
                 "legend": "Tamaño medio del hogar",
                 "transparent": true,
@@ -1563,7 +1563,7 @@
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
-                "id": "iepabra2016_demografia_i20",
+                "id": "iepabra2016_pensiones_i20",
                 "name": "iepabra2016",
                 "legend": "Mediana del importe bruto de las pensiones contributivas",
                 "transparent": true,
@@ -1609,29 +1609,29 @@
                     {
                         "optgroup": "Pensiones Contributivas",
                         "layersId": [
-                            "iepabra2021_demografia_i7",
-                            "iepabra2021_demografia_i8",
-                            "iepabra2021_demografia_i9",
-                            "iepabra2021_demografia_i20"
+                            "iepabra2021_pensiones_i7",
+                            "iepabra2021_pensiones_i8",
+                            "iepabra2021_pensiones_i9",
+                            "iepabra2021_pensiones_i20"
                         ]
                     },
                     {
                         "optgroup": "Actividad",
                         "layersId": [
-                            "iepabra2021_demografia_i10",
-                            "iepabra2021_demografia_i11",
-                            "iepabra2021_demografia_i12",
-                            "iepabra2021_demografia_i13",
-                            "iepabra2021_demografia_i14"
+                            "iepabra2021_actividad_i10",
+                            "iepabra2021_actividad_i11",
+                            "iepabra2021_actividad_i12",
+                            "iepabra2021_actividad_i13",
+                            "iepabra2021_actividad_i14"
                         ]
                     },
                     {
                         "optgroup": "Hogares",
                         "layersId": [
-                            "iepabra2021_demografia_i5",
-                            "iepabra2021_demografia_i6",
-                            "iepabra2021_demografia_i18",
-                            "iepabra2021_demografia_i19"
+                            "iepabra2021_hogares_i5",
+                            "iepabra2021_hogares_i6",
+                            "iepabra2021_hogares_i18",
+                            "iepabra2021_hogares_i19"
                         ]
                     }
                 ]
@@ -1655,29 +1655,29 @@
                     {
                         "optgroup": "Pensiones Contributivas",
                         "layersId": [
-                            "iepabra2021_demografia_i7",
-                            "iepabra2021_demografia_i8",
-                            "iepabra2021_demografia_i9",
-                            "iepabra2021_demografia_i20"
+                            "iepabra2021_pensiones_i7",
+                            "iepabra2021_pensiones_i8",
+                            "iepabra2021_pensiones_i9",
+                            "iepabra2021_pensiones_i20"
                         ]
                     },
                     {
                         "optgroup": "Actividad",
                         "layersId": [
-                            "iepabra2021_demografia_i10",
-                            "iepabra2021_demografia_i11",
-                            "iepabra2021_demografia_i12",
-                            "iepabra2021_demografia_i13",
-                            "iepabra2021_demografia_i14"
+                            "iepabra2021_actividad_i10",
+                            "iepabra2021_actividad_i11",
+                            "iepabra2021_actividad_i12",
+                            "iepabra2021_actividad_i13",
+                            "iepabra2021_actividad_i14"
                         ]
                     },
                     {
                         "optgroup": "Hogares",
                         "layersId": [
-                            "iepabra2021_demografia_i5",
-                            "iepabra2021_demografia_i6",
-                            "iepabra2021_demografia_i18",
-                            "iepabra2021_demografia_i19"
+                            "iepabra2021_hogares_i5",
+                            "iepabra2021_hogares_i6",
+                            "iepabra2021_hogares_i18",
+                            "iepabra2021_hogares_i19"
                         ]
                     }
                 ]
@@ -1701,29 +1701,29 @@
                     {
                         "optgroup": "Pensiones Contributivas",
                         "layersId": [
-                            "iepabra2020_demografia_i7",
-                            "iepabra2020_demografia_i8",
-                            "iepabra2020_demografia_i9",
-                            "iepabra2020_demografia_i20"
+                            "iepabra2020_pensiones_i7",
+                            "iepabra2020_pensiones_i8",
+                            "iepabra2020_pensiones_i9",
+                            "iepabra2020_pensiones_i20"
                         ]
                     },
                     {
                         "optgroup": "Actividad",
                         "layersId": [
-                            "iepabra2020_demografia_i10",
-                            "iepabra2020_demografia_i11",
-                            "iepabra2020_demografia_i12",
-                            "iepabra2020_demografia_i13",
-                            "iepabra2020_demografia_i14"
+                            "iepabra2020_actividad_i10",
+                            "iepabra2020_actividad_i11",
+                            "iepabra2020_actividad_i12",
+                            "iepabra2020_actividad_i13",
+                            "iepabra2020_actividad_i14"
                         ]
                     },
                     {
                         "optgroup": "Hogares",
                         "layersId": [
-                            "iepabra2020_demografia_i5",
-                            "iepabra2020_demografia_i6",
-                            "iepabra2020_demografia_i18",
-                            "iepabra2020_demografia_i19"
+                            "iepabra2020_hogares_i5",
+                            "iepabra2020_hogares_i6",
+                            "iepabra2020_hogares_i18",
+                            "iepabra2020_hogares_i19"
                         ]
                     }
                 ]
@@ -1747,29 +1747,29 @@
                     {
                         "optgroup": "Pensiones Contributivas",
                         "layersId": [
-                            "iepabra2019_demografia_i7",
-                            "iepabra2019_demografia_i8",
-                            "iepabra2019_demografia_i9",
-                            "iepabra2019_demografia_i20"
+                            "iepabra2019_pensiones_i7",
+                            "iepabra2019_pensiones_i8",
+                            "iepabra2019_pensiones_i9",
+                            "iepabra2019_pensiones_i20"
                         ]
                     },
                     {
                         "optgroup": "Actividad",
                         "layersId": [
-                            "iepabra2019_demografia_i10",
-                            "iepabra2019_demografia_i11",
-                            "iepabra2019_demografia_i12",
-                            "iepabra2019_demografia_i13",
-                            "iepabra2019_demografia_i14"
+                            "iepabra2019_actividad_i10",
+                            "iepabra2019_actividad_i11",
+                            "iepabra2019_actividad_i12",
+                            "iepabra2019_actividad_i13",
+                            "iepabra2019_actividad_i14"
                         ]
                     },
                     {
                         "optgroup": "Hogares",
                         "layersId": [
-                            "iepabra2019_demografia_i5",
-                            "iepabra2019_demografia_i6",
-                            "iepabra2019_demografia_i18",
-                            "iepabra2019_demografia_i19"
+                            "iepabra2019_hogares_i5",
+                            "iepabra2019_hogares_i6",
+                            "iepabra2019_hogares_i18",
+                            "iepabra2019_hogares_i19"
                         ]
                     }
                 ]
@@ -1793,29 +1793,29 @@
                     {
                         "optgroup": "Pensiones Contributivas",
                         "layersId": [
-                            "iepabra2018_demografia_i7",
-                            "iepabra2018_demografia_i8",
-                            "iepabra2018_demografia_i9",
-                            "iepabra2018_demografia_i20"
+                            "iepabra2018_pensiones_i7",
+                            "iepabra2018_pensiones_i8",
+                            "iepabra2018_pensiones_i9",
+                            "iepabra2018_pensiones_i20"
                         ]
                     },
                     {
                         "optgroup": "Actividad",
                         "layersId": [
-                            "iepabra2018_demografia_i10",
-                            "iepabra2018_demografia_i11",
-                            "iepabra2018_demografia_i12",
-                            "iepabra2018_demografia_i13",
-                            "iepabra2018_demografia_i14"
+                            "iepabra2018_actividad_i10",
+                            "iepabra2018_actividad_i11",
+                            "iepabra2018_actividad_i12",
+                            "iepabra2018_actividad_i13",
+                            "iepabra2018_actividad_i14"
                         ]
                     },
                     {
                         "optgroup": "Hogares",
                         "layersId": [
-                            "iepabra2018_demografia_i5",
-                            "iepabra2018_demografia_i6",
-                            "iepabra2018_demografia_i18",
-                            "iepabra2018_demografia_i19"
+                            "iepabra2018_hogares_i5",
+                            "iepabra2018_hogares_i6",
+                            "iepabra2018_hogares_i18",
+                            "iepabra2018_hogares_i19"
                         ]
                     }
                 ]
@@ -1839,29 +1839,29 @@
                     {
                         "optgroup": "Pensiones Contributivas",
                         "layersId": [
-                            "iepabra2017_demografia_i7",
-                            "iepabra2017_demografia_i8",
-                            "iepabra2017_demografia_i9",
-                            "iepabra2017_demografia_i20"
+                            "iepabra2017_pensiones_i7",
+                            "iepabra2017_pensiones_i8",
+                            "iepabra2017_pensiones_i9",
+                            "iepabra2017_pensiones_i20"
                         ]
                     },
                     {
                         "optgroup": "Actividad",
                         "layersId": [
-                            "iepabra2017_demografia_i10",
-                            "iepabra2017_demografia_i11",
-                            "iepabra2017_demografia_i12",
-                            "iepabra2017_demografia_i13",
-                            "iepabra2017_demografia_i14"
+                            "iepabra2017_actividad_i10",
+                            "iepabra2017_actividad_i11",
+                            "iepabra2017_actividad_i12",
+                            "iepabra2017_actividad_i13",
+                            "iepabra2017_actividad_i14"
                         ]
                     },
                     {
                         "optgroup": "Hogares",
                         "layersId": [
-                            "iepabra2017_demografia_i5",
-                            "iepabra2017_demografia_i6",
-                            "iepabra2017_demografia_i18",
-                            "iepabra2017_demografia_i19"
+                            "iepabra2017_hogares_i5",
+                            "iepabra2017_hogares_i6",
+                            "iepabra2017_hogares_i18",
+                            "iepabra2017_hogares_i19"
                         ]
                     }
                 ]
@@ -1885,29 +1885,29 @@
                     {
                         "optgroup": "Pensiones Contributivas",
                         "layersId": [
-                            "iepabra2016_demografia_i7",
-                            "iepabra2016_demografia_i8",
-                            "iepabra2016_demografia_i9",
-                            "iepabra2016_demografia_i20"
+                            "iepabra2016_pensiones_i7",
+                            "iepabra2016_pensiones_i8",
+                            "iepabra2016_pensiones_i9",
+                            "iepabra2016_pensiones_i20"
                         ]
                     },
                     {
                         "optgroup": "Actividad",
                         "layersId": [
-                            "iepabra2016_demografia_i10",
-                            "iepabra2016_demografia_i11",
-                            "iepabra2016_demografia_i12",
-                            "iepabra2016_demografia_i13",
-                            "iepabra2016_demografia_i14"
+                            "iepabra2016_actividad_i10",
+                            "iepabra2016_actividad_i11",
+                            "iepabra2016_actividad_i12",
+                            "iepabra2016_actividad_i13",
+                            "iepabra2016_actividad_i14"
                         ]
                     },
                     {
                         "optgroup": "Hogares",
                         "layersId": [
-                            "iepabra2016_demografia_i5",
-                            "iepabra2016_demografia_i6",
-                            "iepabra2016_demografia_i18",
-                            "iepabra2016_demografia_i19"
+                            "iepabra2016_hogares_i5",
+                            "iepabra2016_hogares_i6",
+                            "iepabra2016_hogares_i18",
+                            "iepabra2016_hogares_i19"
                         ]
                     }
                 ]
