@@ -80,7 +80,7 @@
                 "legend": "Nombres Municipios",
                 "transparent": true,
                 "tiled": true,
-                "style": "Nombres Municipios",
+                "style": "",
                 "showLegend": false,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?service=WMS&version=1.1.1&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=etiquetas_lineas_limite"
             },
