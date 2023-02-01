@@ -1,45 +1,45 @@
 {
-    "label": "2021",
+    "label": "2020",
     "layerGroup": [
         {
             "optgroup": "Población",
             "layersId": [
-                "pob_total_abs_2021",
-                "pob_sex_2021",
-                "nacionalidad_2021",
-                "pob_lnac_2021",
-                "edad_2021",
-                "pob_tr_2021"
+                "pob_total_abs_2020",
+                "pob_sex_2020",
+                "nacionalidad_2020",
+                "pob_lnac_2020",
+                "edad_2020",
+                "pob_tr_2020"
             ]
         },
         {
             "optgroup": "Afiliación a la seguridad social",
             "layersId": [
-                "segsoc_total_abs_2021",
-                "segsoc_sex_2021",
-                "segsoc_rellab_2021"
+                "segsoc_total_abs_2020",
+                "segsoc_sex_2020",
+                "segsoc_rellab_2020"
             ]
         },
         {
             "optgroup": "Pensiones contributivas de la seguridad social",
             "layersId": [
-                "penc_total_abs_2021",
-                "penc_sex_2021",
-                "penc_tip_2021",
-                "penc_tipjub_mi_2021",
-                "penc_tipviu_mi_2021",
-                "penc_tipjyv_mi_2021",
-                "penc_tipinc_mi_2021",
-                "penc_tipotr_mi_2021"
+                "penc_total_abs_2020",
+                "penc_sex_2020",
+                "penc_tip_2020",
+                "penc_tipjub_mi_2020",
+                "penc_tipviu_mi_2020",
+                "penc_tipjyv_mi_2020",
+                "penc_tipinc_mi_2020",
+                "penc_tipotr_mi_2020"
             ]
         },
         {
             "optgroup": "Demandantes de empleo",
             "layersId": [
-                "demp_total_abs_2021",
-                "demp_sex_2021",
-                "demp_pr_2021",
-                "demp_pr_sex_2021"
+                "demp_total_abs_2020",
+                "demp_sex_2020",
+                "demp_pr_2020",
+                "demp_pr_sex_2020"
             ]
         }
     ]
