@@ -1,19 +1,15 @@
 {
-    "label": "2013",
+    "label": "2002",
     "layerGroup": [
         {
             "optgroup": "Población",
             "layersId": [
-                "pob_total_abs_2013",
-                "nacionalidad_2013",
-                "edad_2013"
-            ]
-        },
-        {
-            "optgroup": "Afiliación a la seguridad social",
-            "layersId": [
-                "segsoc_total_abs_2013",
-                "segsoc_rellab_2013"
+                "pob_total_abs_2002",
+                "pob_sex_2002",
+                "nacionalidad_2002",
+                "pob_lnac_2002",
+                "edad_2002",
+                "pob_tr_2002"
             ]
         }
     ]

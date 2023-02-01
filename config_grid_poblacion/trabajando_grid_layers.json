@@ -1,7 +1,7 @@
 {
     "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
-    "id": "pob_total_abs_2013",
-    "name": "pob_total_abs_2013",
+    "id": "pob_total_abs_2002",
+    "name": "pob_total_abs_2002",
     "legend": "Población total",
     "transparent": true,
     "tiled": true,
@@ -12,8 +12,20 @@
 },
 {
     "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
-    "id": "nacionalidad_2013",
-    "name": "nacionalidad_2013",
+    "id": "pob_sex_2002",
+    "name": "pob_sex_2002",
+    "legend": "Población por sexo",
+    "transparent": true,
+    "tiled": true,
+    "style": "",
+    "opacity": 0.7,
+    "showLegend": true,
+    "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
+},
+{
+    "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+    "id": "nacionalidad_2002",
+    "name": "nacionalidad_2002",
     "legend": "Población por nacionalidad",
     "transparent": true,
     "tiled": true,
@@ -24,8 +36,20 @@
 },
 {
     "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
-    "id": "edad_2013",
-    "name": "edad_2013",
+    "id": "pob_lnac_2002",
+    "name": "pob_lnac_2002",
+    "legend": "Población por lugar de nacimiento en relación al lugar de residencia",
+    "transparent": true,
+    "tiled": true,
+    "style": "",
+    "opacity": 0.7,
+    "showLegend": true,
+    "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_lnac.png"
+},
+{
+    "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+    "id": "edad_2002",
+    "name": "edad_2002",
     "legend": "Población por grupos de edad",
     "transparent": true,
     "tiled": true,
@@ -36,26 +60,13 @@
 },
 {
     "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
-    "id": "segsoc_total_abs_2013",
-    "name": "segsoc_total_abs_2013",
-    "legend": "Afiliación total a la Seguridad Social",
+    "id": "pob_tr_2002",
+    "name": "pob_tr_2002",
+    "legend": "Población por tiempo de residencia",
     "transparent": true,
     "tiled": true,
     "style": "",
     "opacity": 0.7,
     "showLegend": true,
-    "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
-},
-{
-    "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
-    "id": "segsoc_rellab_2013",
-    "name": "segsoc_rellab_2013",
-    "legend": "Afiliación a la Seguridad Social según relación laboral",
-    "transparent": true,
-    "tiled": true,
-    "style": "",
-    "opacity": 0.7,
-    "showLegend": true,
-    "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
+    "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_tr.png"
 }
-
