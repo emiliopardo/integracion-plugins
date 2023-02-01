@@ -28,6 +28,7 @@
                 "tiled": true,
                 "style": null,
                 "opacity": 0.5,
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
             },
             {
@@ -38,6 +39,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": null,
+                "queryable": false,
                 "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
             },
             {
@@ -48,6 +50,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": "default",
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
             }
         ],
@@ -61,6 +64,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Vial",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
             },
             {
@@ -72,6 +76,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Portal",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
@@ -83,6 +88,7 @@
                 "tiled": true,
                 "style": "direst:direst_comercio",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_comercio_2020"
             },
             {
@@ -94,6 +100,7 @@
                 "tiled": true,
                 "style": "direst:direst_construccion",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_construccion_2020"
             },
             {
@@ -105,6 +112,7 @@
                 "tiled": true,
                 "style": "direst:direst_energia",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_energia_2020"
             },
             {
@@ -116,6 +124,7 @@
                 "tiled": true,
                 "style": "direst:direst_hosteleria",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_hosteleria_2020"
             },
             {
@@ -127,6 +136,7 @@
                 "tiled": true,
                 "style": "direst:direst_industria",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_industria_2020"
             },
             {
@@ -138,6 +148,7 @@
                 "tiled": true,
                 "style": "direst:direst_servicios",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_servicios_2020"
             },
             {
@@ -149,6 +160,7 @@
                 "tiled": true,
                 "style": "direst:direst_transporte",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_transporte_2020"
             }
         ],

@@ -28,6 +28,7 @@
                 "tiled": true,
                 "style": null,
                 "opacity": 0.5,
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
             },
             {
@@ -38,6 +39,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": null,
+                "queryable": false,
                 "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
             },
             {
@@ -48,6 +50,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": "default",
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
             }
         ],
@@ -61,6 +64,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Vial",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
             },
             {
@@ -72,6 +76,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Portal",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
@@ -84,6 +89,7 @@
                 "style": "fecundidad:fecundidad_est_long",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES250M"
             },
             {
@@ -96,6 +102,7 @@
                 "style": "fecundidad:fecundidad_est_long",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES250H"
             },
             {
@@ -108,6 +115,7 @@
                 "style": "fecundidad:fecundidad_M250EM",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres250_EM"
             },
             {
@@ -120,6 +128,7 @@
                 "style": "fecundidad:fecundidad_H250EM",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres250_EM"
             },
             {
@@ -132,6 +141,7 @@
                 "style": "fecundidad:fecundidad_M250ISF",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres250_ISF"
             },
             {
@@ -144,6 +154,7 @@
                 "style": "fecundidad:fecundidad_H250ISF",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres250_ISF"
             }
         ],

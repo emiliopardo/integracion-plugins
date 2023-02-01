@@ -28,6 +28,7 @@
                 "tiled": true,
                 "style": null,
                 "opacity": 0.5,
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
             },
             {
@@ -38,6 +39,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": null,
+                "queryable": false,
                 "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
             },
             {
@@ -48,6 +50,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": "default",
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
             }
         ],
@@ -61,6 +64,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Vial",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
             },
             {
@@ -72,6 +76,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Portal",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
@@ -84,6 +89,7 @@
                 "style": "01-stl_edificios_ned",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=01-stl_edificios_ned"
             },
             {
@@ -96,6 +102,7 @@
                 "style": "02-stl_edificios_m2ed_total",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=02-stl_edificios_m2ed_total"
             },
             {
@@ -108,6 +115,7 @@
                 "style": "03-stl_edificios_cced_moda",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=03-stl_edificios_cced_moda"
             },
             {
@@ -120,6 +128,7 @@
                 "style": "04-stl_edificios_altsred_q2",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=04-stl_edificios_altsred_q2"
             },
             {
@@ -132,6 +141,7 @@
                 "style": "05-stl_edificios_altsred_max",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=05-stl_edificios_altsred_max"
             },
             {
@@ -144,6 +154,7 @@
                 "style": "06-stl_edificios_aanted_moda",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=06-stl_edificios_aanted_moda"
             },
             {
@@ -156,6 +167,7 @@
                 "style": "07-stl_edificios_ned_res",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=07-stl_edificios_ned_res"
             },
             {
@@ -168,6 +180,7 @@
                 "style": "08-stl_edificios_nedi_ind",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=08-stl_edificios_nedi_ind"
             },
             {
@@ -180,6 +193,7 @@
                 "style": "09-stl_edificios_ned_ofi",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=09-stl_edificios_ned_ofi"
             },
             {
@@ -192,6 +206,7 @@
                 "style": "10-stl_edificios_ned_com",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=10-stl_edificios_ned_com"
             },
             {
@@ -204,6 +219,7 @@
                 "style": "11-stl_edificios_ned_dep",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=11-stl_edificios_ned_dep"
             },
             {
@@ -216,6 +232,7 @@
                 "style": "12-stl_edificios_ned_ocihos",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=12-stl_edificios_ned_ocihos"
             },
             {
@@ -228,6 +245,7 @@
                 "style": "13-stl_edificios_ned_cul",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=13-stl_edificios_ned_cul"
             },
             {
@@ -240,6 +258,7 @@
                 "style": "14-stl_edificios_m2ed_res",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=14-stl_edificios_m2ed_res"
             },
             {
@@ -252,6 +271,7 @@
                 "style": "15-stl_edificios_m2ed_ind",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=15-stl_edificios_m2ed_ind"
             },
             {
@@ -264,6 +284,7 @@
                 "style": "16-stl_edificios_m2ed_ofi",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=16-stl_edificios_m2ed_ofi"
             },
             {
@@ -276,6 +297,7 @@
                 "style": "17-stl_edificios_m2ed_com",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=17-stl_edificios_m2ed_com"
             },
             {
@@ -288,6 +310,7 @@
                 "style": "18-stl_edificios_m2ed_dep",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=18-stl_edificios_m2ed_dep"
             },
             {
@@ -300,6 +323,7 @@
                 "style": "19-stl_edificios_m2ed_ocihos",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=19-stl_edificios_m2ed_ocihos"
             },
             {
@@ -312,6 +336,7 @@
                 "style": "20-stl_edificios_m2ed_cul",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=20-stl_edificios_m2ed_cul"
             },
             {
@@ -324,6 +349,7 @@
                 "style": "01-stl_edificios_ned",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=01-stl_edificios_ned"
             },
             {
@@ -336,6 +362,7 @@
                 "style": "02-stl_edificios_m2ed_total",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=02-stl_edificios_m2ed_total"
             },
             {
@@ -348,6 +375,7 @@
                 "style": "03-stl_edificios_cced_moda",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=03-stl_edificios_cced_moda"
             },
             {
@@ -360,6 +388,7 @@
                 "style": "04-stl_edificios_altsred_q2",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=04-stl_edificios_altsred_q2"
             },
             {
@@ -372,6 +401,7 @@
                 "style": "05-stl_edificios_altsred_max",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=05-stl_edificios_altsred_max"
             },
             {
@@ -384,6 +414,7 @@
                 "style": "06-stl_edificios_aanted_moda",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=06-stl_edificios_aanted_moda"
             },
             {
@@ -396,6 +427,7 @@
                 "style": "07-stl_edificios_ned_res",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=07-stl_edificios_ned_res"
             },
             {
@@ -408,6 +440,7 @@
                 "style": "08-stl_edificios_nedi_ind",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=08-stl_edificios_nedi_ind"
             },
             {
@@ -420,6 +453,7 @@
                 "style": "09-stl_edificios_ned_ofi",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=09-stl_edificios_ned_ofi"
             },
             {
@@ -432,6 +466,7 @@
                 "style": "10-stl_edificios_ned_com",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=10-stl_edificios_ned_com"
             },
             {
@@ -444,6 +479,7 @@
                 "style": "11-stl_edificios_ned_dep",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=11-stl_edificios_ned_dep"
             },
             {
@@ -456,6 +492,7 @@
                 "style": "12-stl_edificios_ned_ocihos",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=12-stl_edificios_ned_ocihos"
             },
             {
@@ -468,6 +505,7 @@
                 "style": "13-stl_edificios_ned_cul",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=13-stl_edificios_ned_cul"
             },
             {
@@ -480,6 +518,7 @@
                 "style": "14-stl_edificios_m2ed_res",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=14-stl_edificios_m2ed_res"
             },
             {
@@ -492,6 +531,7 @@
                 "style": "15-stl_edificios_m2ed_ind",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=15-stl_edificios_m2ed_ind"
             },
             {
@@ -504,6 +544,7 @@
                 "style": "16-stl_edificios_m2ed_ofi",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=16-stl_edificios_m2ed_ofi"
             },
             {
@@ -516,6 +557,7 @@
                 "style": "17-stl_edificios_m2ed_com",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=17-stl_edificios_m2ed_com"
             },
             {
@@ -528,6 +570,7 @@
                 "style": "18-stl_edificios_m2ed_dep",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=18-stl_edificios_m2ed_dep"
             },
             {
@@ -540,6 +583,7 @@
                 "style": "19-stl_edificios_m2ed_ocihos",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=19-stl_edificios_m2ed_ocihos"
             },
             {
@@ -552,6 +596,7 @@
                 "style": "20-stl_edificios_m2ed_cul",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate20_250&style=20-stl_edificios_m2ed_cul"
             }
         ],
@@ -613,7 +658,8 @@
                         ]
                     }
                 ]
-            },{
+            },
+            {
                 "label": "2020",
                 "layerGroup": [
                     {

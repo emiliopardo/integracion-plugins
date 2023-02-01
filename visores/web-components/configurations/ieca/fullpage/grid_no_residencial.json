@@ -28,6 +28,7 @@
                 "tiled": true,
                 "style": null,
                 "opacity": 0.5,
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
             },
             {
@@ -38,6 +39,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": null,
+                "queryable": false,
                 "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
             },
             {
@@ -48,6 +50,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": "default",
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
             }
         ],
@@ -61,6 +64,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Vial",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
             },
             {
@@ -72,8 +76,10 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Portal",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
-            },{
+            },
+            {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_n_rec",
                 "name": "gridcatr_250",
@@ -83,6 +89,7 @@
                 "style": "stl_recintos_n_rec",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_n_rec"
             },
             {
@@ -95,6 +102,7 @@
                 "style": "stl_recintos_m2rec_tot",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2rec_tot"
             },
             {
@@ -107,6 +115,7 @@
                 "style": "stl_recintos_m2rec_q2",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2rec_q2"
             },
             {
@@ -119,6 +128,7 @@
                 "style": "stl_recintos_aant_q2",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_aant_q2"
             },
             {
@@ -131,6 +141,7 @@
                 "style": "stl_recintos_nrec_ind",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_ind"
             },
             {
@@ -143,6 +154,7 @@
                 "style": "stl_recintos_nrec_ofi",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_ofi"
             },
             {
@@ -155,6 +167,7 @@
                 "style": "stl_recintos_nrec_com",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_com"
             },
             {
@@ -167,6 +180,7 @@
                 "style": "stl_recintos_nrec_dep",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_dep"
             },
             {
@@ -179,6 +193,7 @@
                 "style": "stl_recintos_nrec_aloj",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_aloj"
             },
             {
@@ -191,6 +206,7 @@
                 "style": "stl_recintos_nrec_host",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_host"
             },
             {
@@ -203,6 +219,7 @@
                 "style": "stl_recintos_nrec_cul",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_cul"
             },
             {
@@ -215,6 +232,7 @@
                 "style": "stl_recintos_m2_ind",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_ind"
             },
             {
@@ -227,6 +245,7 @@
                 "style": "stl_recintos_m2_ofi",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_ofi"
             },
             {
@@ -239,6 +258,7 @@
                 "style": "stl_recintos_m2_com",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_com"
             },
             {
@@ -251,6 +271,7 @@
                 "style": "stl_recintos_m2_dep",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_dep"
             },
             {
@@ -263,6 +284,7 @@
                 "style": "stl_recintos_m2_aloj",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_aloj"
             },
             {
@@ -275,6 +297,7 @@
                 "style": "stl_recintos_m2_host",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_host"
             },
             {
@@ -287,8 +310,10 @@
                 "style": "stl_recintos_m2_cul",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_cul"
-            },{
+            },
+            {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_n_rec",
                 "name": "gridcatr20_250",
@@ -298,6 +323,7 @@
                 "style": "stl_recintos_n_rec",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_n_rec"
             },
             {
@@ -310,6 +336,7 @@
                 "style": "stl_recintos_m2rec_tot",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2rec_tot"
             },
             {
@@ -322,6 +349,7 @@
                 "style": "stl_recintos_m2rec_q2",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2rec_q2"
             },
             {
@@ -334,6 +362,7 @@
                 "style": "stl_recintos_aant_q2",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_aant_q2"
             },
             {
@@ -346,6 +375,7 @@
                 "style": "stl_recintos_nrec_ind",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_ind"
             },
             {
@@ -358,6 +388,7 @@
                 "style": "stl_recintos_nrec_ofi",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_ofi"
             },
             {
@@ -370,6 +401,7 @@
                 "style": "stl_recintos_nrec_com",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_com"
             },
             {
@@ -382,6 +414,7 @@
                 "style": "stl_recintos_nrec_dep",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_dep"
             },
             {
@@ -394,6 +427,7 @@
                 "style": "stl_recintos_nrec_aloj",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_aloj"
             },
             {
@@ -406,6 +440,7 @@
                 "style": "stl_recintos_nrec_host",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_host"
             },
             {
@@ -418,6 +453,7 @@
                 "style": "stl_recintos_nrec_cul",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_cul"
             },
             {
@@ -430,6 +466,7 @@
                 "style": "stl_recintos_m2_ind",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_ind"
             },
             {
@@ -442,6 +479,7 @@
                 "style": "stl_recintos_m2_ofi",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_ofi"
             },
             {
@@ -454,6 +492,7 @@
                 "style": "stl_recintos_m2_com",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_com"
             },
             {
@@ -466,6 +505,7 @@
                 "style": "stl_recintos_m2_dep",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_dep"
             },
             {
@@ -478,6 +518,7 @@
                 "style": "stl_recintos_m2_aloj",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_aloj"
             },
             {
@@ -490,6 +531,7 @@
                 "style": "stl_recintos_m2_host",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_host"
             },
             {
@@ -502,6 +544,7 @@
                 "style": "stl_recintos_m2_cul",
                 "opacity": 0.7,
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_cul"
             }
         ],

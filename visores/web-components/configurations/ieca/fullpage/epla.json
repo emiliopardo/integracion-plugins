@@ -28,6 +28,7 @@
                 "tiled": true,
                 "style": null,
                 "opacity": 0.5,
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
             },
             {
@@ -38,6 +39,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": null,
+                "queryable": false,
                 "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
             },
             {
@@ -48,6 +50,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": "default",
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
             }
         ],
@@ -61,6 +64,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Vial",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
             },
             {
@@ -72,6 +76,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Portal",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
@@ -83,6 +88,7 @@
                 "tiled": true,
                 "style": "epla:epla17_transporte",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_transporte"
             },
             {
@@ -94,6 +100,7 @@
                 "tiled": true,
                 "style": "epla:epla17_servicios",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_servicios"
             },
             {
@@ -105,6 +112,7 @@
                 "tiled": true,
                 "style": "epla:epla17_industria",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_industria"
             },
             {
@@ -116,6 +124,7 @@
                 "tiled": true,
                 "style": "epla:epla17_hosteleria",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_hosteleria"
             },
             {
@@ -127,6 +136,7 @@
                 "tiled": true,
                 "style": "epla:epla17_energia",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_energia"
             },
             {
@@ -138,6 +148,7 @@
                 "tiled": true,
                 "style": "epla:epla17_construccion",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_construccion"
             },
             {
@@ -149,6 +160,7 @@
                 "tiled": true,
                 "style": "epla:epla17_comercio",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_comercio"
             },
             {
@@ -160,11 +172,12 @@
                 "tiled": true,
                 "style": "epla:epla17_agricultura",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/epla/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=epla_2022_agricultura"
             }
         ],
         "selectedLayerId": "all",
         "group": false,
-        "nested": false   
+        "nested": false
     }
 }

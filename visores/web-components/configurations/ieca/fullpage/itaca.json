@@ -28,6 +28,7 @@
                 "tiled": true,
                 "style": null,
                 "opacity": 0.5,
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
             },
             {
@@ -38,6 +39,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": null,
+                "queryable": false,
                 "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
             },
             {
@@ -48,6 +50,7 @@
                 "transparent": false,
                 "tiled": true,
                 "style": "default",
+                "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
             }
         ],
@@ -61,6 +64,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Vial",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
             },
             {
@@ -72,6 +76,7 @@
                 "tiled": true,
                 "style": "cdau:CDAU_Portal",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
@@ -83,6 +88,7 @@
                 "tiled": true,
                 "style": "itaca:sld_contornos_ITACA",
                 "showLegend": true,
+                "queryable": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=contornos_itaca"
             },
             {
@@ -94,6 +100,7 @@
                 "tiled": true,
                 "style": "itaca:stl_contorno_terminos_ITACA",
                 "showLegend": false,
+                "queryable": false,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=da02_term_munic"
             },
             {
@@ -105,9 +112,9 @@
                 "tiled": false,
                 "style": "itaca:sld_Etiquetas_ITACA_categorizado",
                 "showLegend": true,
+                "queryable": false,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=etiquetas_itaca"
             }
-            
         ],
         "selectedLayerId": "all",
         "group": false,
