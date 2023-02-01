@@ -1,45 +1,45 @@
 {
-    "label": "2018",
+    "label": "2017",
     "layerGroup": [
         {
             "optgroup": "Población",
             "layersId": [
-                "pob_total_abs_2018",
-                "pob_sex_2018",
-                "nacionalidad_2018",
-                "pob_lnac_2018",
-                "edad_2018",
-                "pob_tr_2018"
+                "pob_total_abs_2017",
+                "pob_sex_2017",
+                "nacionalidad_2017",
+                "pob_lnac_2017",
+                "edad_2017",
+                "pob_tr_2017"
             ]
         },
         {
             "optgroup": "Afiliación a la seguridad social",
             "layersId": [
-                "segsoc_total_abs_2018",
-                "segsoc_sex_2018",
-                "segsoc_rellab_2018"
+                "segsoc_total_abs_2017",
+                "segsoc_sex_2017",
+                "segsoc_rellab_2017"
             ]
         },
         {
             "optgroup": "Pensiones contributivas de la seguridad social",
             "layersId": [
-                "penc_total_abs_2018",
-                "penc_sex_2018",
-                "penc_tip_2018",
-                "penc_tipjub_mi_2018",
-                "penc_tipviu_mi_2018",
-                "penc_tipjyv_mi_2018",
-                "penc_tipinc_mi_2018",
-                "penc_tipotr_mi_2018"
+                "penc_total_abs_2017",
+                "penc_sex_2017",
+                "penc_tip_2017",
+                "penc_tipjub_mi_2017",
+                "penc_tipviu_mi_2017",
+                "penc_tipjyv_mi_2017",
+                "penc_tipinc_mi_2017",
+                "penc_tipotr_mi_2017"
             ]
         },
         {
             "optgroup": "Demandantes de empleo",
             "layersId": [
-                "demp_total_abs_2018",
-                "demp_sex_2018",
-                "demp_pr_2018",
-                "demp_pr_sex_2018"
+                "demp_total_abs_2017",
+                "demp_sex_2017",
+                "demp_pr_2017",
+                "demp_pr_sex_2017"
             ]
         }
     ]

@@ -1128,6 +1128,271 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr_sex.png"
+            },{
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "pob_total_abs_2017",
+                "name": "pob_total_abs_2017",
+                "legend": "Población total",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "pob_sex_2017",
+                "name": "pob_sex_2017",
+                "legend": "Población por sexo",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "nacionalidad_2017",
+                "name": "nacionalidad_2017",
+                "legend": "Población por nacionalidad",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "pob_lnac_2017",
+                "name": "pob_lnac_2017",
+                "legend": "Población por lugar de nacimiento en relación al lugar de residencia",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_lnac.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "edad_2017",
+                "name": "edad_2017",
+                "legend": "Población por grupos de edad",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "pob_tr_2017",
+                "name": "pob_tr_2017",
+                "legend": "Población por tiempo de residencia",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_tr.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "segsoc_total_abs_2017",
+                "name": "segsoc_total_abs_2017",
+                "legend": "Afiliación total a la Seguridad Social",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "segsoc_sex_2017",
+                "name": "segsoc_sex_2017",
+                "legend": "Afiliación a la Seguridad Social por sexo",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_sex.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "segsoc_rellab_2017",
+                "name": "segsoc_rellab_2017",
+                "legend": "Afiliación a la Seguridad Social según relación laboral",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "",
+                "name": "",
+                "legend": "",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_total_abs_2017",
+                "name": "penc_total_abs_2017",
+                "legend": "Perceptores de pensiones contributivas",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_total_abs.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_sex_2017",
+                "name": "penc_sex_2017",
+                "legend": "Perceptores de pensiones contributivas por sexo",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_sex.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tip_2017",
+                "name": "penc_tip_2017",
+                "legend": "Perceptores de pensiones contributivas por tipo",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tip.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipjub_mi_2017",
+                "name": "penc_tipjub_mi_2017",
+                "legend": "Ingresos por pensiones de jubilación",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjub_mi.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipviu_mi_2017",
+                "name": "penc_tipviu_mi_2017",
+                "legend": "Ingresos por pensiones de viudedad",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipviu_mi.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipjyv_mi_2017",
+                "name": "penc_tipjyv_mi_2017",
+                "legend": "Ingresos por pensiones de jubilación y viudedad",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjyv_mi.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipinc_mi_2017",
+                "name": "penc_tipinc_mi_2017",
+                "legend": "Ingresos por pensiones de incapacidad",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipinc_mi.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipotr_mi_2017",
+                "name": "penc_tipotr_mi_2017",
+                "legend": "Ingresos por otro tipo de pensiones",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipotr_mi.png"
+            }
+            
+            ,
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "demp_total_abs_2017",
+                "name": "demp_total_abs_2017",
+                "legend": "Demandantes de empleo total",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_total_abs.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "demp_sex_2017",
+                "name": "demp_sex_2017",
+                "legend": "Demandantes de empleo por sexo",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_sex.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "demp_pr_2017",
+                "name": "demp_pr_2017",
+                "legend": "Paro registrado",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "demp_pr_sex_2017",
+                "name": "demp_pr_sex_2017",
+                "legend": "Paro registrado por sexo",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr_sex.png"
             }
         ],
         "selectedLayerId": "none",
@@ -1314,6 +1579,51 @@
                             "demp_sex_2018",
                             "demp_pr_2018",
                             "demp_pr_sex_2018"
+                        ]
+                    }
+                ]
+            },{
+                "label": "2017",
+                "layerGroup": [
+                    {
+                        "optgroup": "Población",
+                        "layersId": [
+                            "pob_total_abs_2017",
+                            "pob_sex_2017",
+                            "nacionalidad_2017",
+                            "pob_lnac_2017",
+                            "edad_2017",
+                            "pob_tr_2017"
+                        ]
+                    },
+                    {
+                        "optgroup": "Afiliación a la seguridad social",
+                        "layersId": [
+                            "segsoc_total_abs_2017",
+                            "segsoc_sex_2017",
+                            "segsoc_rellab_2017"
+                        ]
+                    },
+                    {
+                        "optgroup": "Pensiones contributivas de la seguridad social",
+                        "layersId": [
+                            "penc_total_abs_2017",
+                            "penc_sex_2017",
+                            "penc_tip_2017",
+                            "penc_tipjub_mi_2017",
+                            "penc_tipviu_mi_2017",
+                            "penc_tipjyv_mi_2017",
+                            "penc_tipinc_mi_2017",
+                            "penc_tipotr_mi_2017"
+                        ]
+                    },
+                    {
+                        "optgroup": "Demandantes de empleo",
+                        "layersId": [
+                            "demp_total_abs_2017",
+                            "demp_sex_2017",
+                            "demp_pr_2017",
+                            "demp_pr_sex_2017"
                         ]
                     }
                 ]
