@@ -74,317 +74,318 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/wms?",
-                "id": "gridpob_250_poblacion_total",
-                "name": "gridpob_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "pob_total_abs_2021",
+                "name": "pob_total_abs_2021",
+                "legend": "Población total",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/wms?",
-                "id": "gridpob20_250_poblacion_total",
-                "name": "gridpob20_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "pob_sex_2021",
+                "name": "pob_sex_2021",
+                "legend": "Población por sexo",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/wms?",
-                "id": "gridpob19_250_poblacion_total",
-                "name": "gridpob19_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "nacionalidad_2021",
+                "name": "nacionalidad_2021",
+                "legend": "Población por nacionalidad",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/wms?",
-                "id": "gridpob18_250_poblacion_total",
-                "name": "gridpob18_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "pob_lnac_2021",
+                "name": "pob_lnac_2021",
+                "legend": "Población por lugar de nacimiento en relación al lugar de residencia",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_lnac.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/wms?",
-                "id": "gridpob17_250_poblacion_total",
-                "name": "gridpob17_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "edad_2021",
+                "name": "edad_2021",
+                "legend": "Población por grupos de edad",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/wms?",
-                "id": "gridpob16_250_poblacion_total",
-                "name": "gridpob16_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "pob_tr_2021",
+                "name": "pob_tr_2021",
+                "legend": "Población por tiempo de residencia",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_tr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/wms?",
-                "id": "gridpob15_250_poblacion_total",
-                "name": "gridpob15_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "segsoc_total_abs_2021",
+                "name": "segsoc_total_abs_2021",
+                "legend": "Afiliación total a la Seguridad Social",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/wms?",
-                "id": "gridpob14_250_poblacion_total",
-                "name": "gridpob14_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "segsoc_sex_2021",
+                "name": "segsoc_sex_2021",
+                "legend": "Afiliación a la Seguridad Social por sexo",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/wms?",
-                "id": "gridpob13_250_poblacion_total",
-                "name": "gridpob13_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "segsoc_rellab_2021",
+                "name": "segsoc_rellab_2021",
+                "legend": "Afiliación a la Seguridad Social según relación laboral",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/wms?",
-                "id": "gridpob02_250_poblacion_total",
-                "name": "gridpob02_250",
-                "legend": "Número de habitantes (250mx250m)",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "",
+                "name": "",
+                "legend": "",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_total",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/wms?",
-                "id": "gridpob_250_poblacion_1664",
-                "name": "gridpob_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_total_abs_2021",
+                "name": "penc_total_abs_2021",
+                "legend": "Perceptores de pensiones contributivas",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/wms?",
-                "id": "gridpob20_250_poblacion_1664",
-                "name": "gridpob20_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_sex_2021",
+                "name": "penc_sex_2021",
+                "legend": "Perceptores de pensiones contributivas por sexo",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2020/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob20_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/wms?",
-                "id": "gridpob19_250_poblacion_1664",
-                "name": "gridpob19_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tip_2021",
+                "name": "penc_tip_2021",
+                "legend": "Perceptores de pensiones contributivas por tipo",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2019/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob19_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tip.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/wms?",
-                "id": "gridpob18_250_poblacion_1664",
-                "name": "gridpob18_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipjub_mi_2021",
+                "name": "penc_tipjub_mi_2021",
+                "legend": "Ingresos por pensiones de jubilación",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2018/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob18_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjub_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/wms?",
-                "id": "gridpob17_250_poblacion_1664",
-                "name": "gridpob17_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipviu_mi_2021",
+                "name": "penc_tipviu_mi_2021",
+                "legend": "Ingresos por pensiones de viudedad",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2017/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob17_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipviu_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/wms?",
-                "id": "gridpob16_250_poblacion_1664",
-                "name": "gridpob16_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipjyv_mi_2021",
+                "name": "penc_tipjyv_mi_2021",
+                "legend": "Ingresos por pensiones de jubilación y viudedad",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2016/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob16_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjyv_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/wms?",
-                "id": "gridpob15_250_poblacion_1664",
-                "name": "gridpob15_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipinc_mi_2021",
+                "name": "penc_tipinc_mi_2021",
+                "legend": "Ingresos por pensiones de incapacidad",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2015/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob15_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipinc_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/wms?",
-                "id": "gridpob14_250_poblacion_1664",
-                "name": "gridpob14_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "penc_tipotr_mi_2021",
+                "name": "penc_tipotr_mi_2021",
+                "legend": "Ingresos por otro tipo de pensiones",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2014/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob14_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipotr_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/wms?",
-                "id": "gridpob13_250_poblacion_1664",
-                "name": "gridpob13_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "demp_total_abs_2021",
+                "name": "demp_total_abs_2021",
+                "legend": "Demandantes de empleo total",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2013/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob13_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/wms?",
-                "id": "gridpob02_250_poblacion_1664",
-                "name": "gridpob02_250",
-                "legend": "Número de habitantes entre 16 y 65 años",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "demp_sex_2021",
+                "name": "demp_sex_2021",
+                "legend": "Demandantes de empleo por sexo",
                 "transparent": true,
                 "tiled": true,
+                "style": "",
                 "opacity": 0.7,
-                "style": "gridpob:stl_poblacion_edad1664",
                 "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridpob2002/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&style=stl_poblacion_edad1664&layer=gridpob02_250"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_sex.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "demp_pr_2021",
+                "name": "demp_pr_2021",
+                "legend": "Paro registrado",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr.png"
+            },
+            {
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "id": "demp_pr_sex_2021",
+                "name": "demp_pr_sex_2021",
+                "legend": "Paro registrado por sexo",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "opacity": 0.7,
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr_sex.png"
             }
         ],
-        "selectedLayerId": "gridpob_250_poblacion_total",
+        "selectedLayerId": "none",
         "group": true,
+        "nested": true,
         "layerGroups": [
             {
-                "optgroup": "2021",
-                "layersId": [
-                    "gridpob_250_poblacion_total",
-                    "gridpob_250_poblacion_1664"
-                ]
-            },
-            {
-                "optgroup": "2020",
-                "layersId": [
-                    "gridpob20_250_poblacion_total",
-                    "gridpob20_250_poblacion_1664"
-                ]
-            },
-            {
-                "optgroup": "2019",
-                "layersId": [
-                    "gridpob19_250_poblacion_total",
-                    "gridpob19_250_poblacion_1664"
-                ]
-            },
-            {
-                "optgroup": "2018",
-                "layersId": [
-                    "gridpob18_250_poblacion_total",
-                    "gridpob18_250_poblacion_1664"
-                ]
-            },
-            {
-                "optgroup": "2017",
-                "layersId": [
-                    "gridpob17_250_poblacion_total",
-                    "gridpob17_250_poblacion_1664"
-                ]
-            },
-            {
-                "optgroup": "2016",
-                "layersId": [
-                    "gridpob16_250_poblacion_total",
-                    "gridpob16_250_poblacion_1664"
-                ]
-            },
-            {
-                "optgroup": "2015",
-                "layersId": [
-                    "gridpob15_250_poblacion_total",
-                    "gridpob15_250_poblacion_1664"
-                ]
-            },
-            {
-                "optgroup": "2014",
-                "layersId": [
-                    "gridpob14_250_poblacion_total",
-                    "gridpob14_250_poblacion_1664"
-                ]
-            },
-            {
-                "optgroup": "2013",
-                "layersId": [
-                    "gridpob13_250_poblacion_total",
-                    "gridpob13_250_poblacion_1664"
-                ]
-            },
-            {
-                "optgroup": "2002",
-                "layersId": [
-                    "gridpob02_250_poblacion_total",
-                    "gridpob02_250_poblacion_1664"
+                "label": "2021",
+                "layerGroup": [
+                    {
+                        "optgroup": "Población",
+                        "layersId": [
+                            "pob_total_abs_2021",
+                            "pob_sex_2021",
+                            "nacionalidad_2021",
+                            "pob_lnac_2021",
+                            "edad_2021",
+                            "pob_tr_2021"
+                        ]
+                    },
+                    {
+                        "optgroup": "Afiliación a la seguridad social",
+                        "layersId": [
+                            "segsoc_total_abs_2021",
+                            "segsoc_sex_2021",
+                            "segsoc_rellab_2021"
+                        ]
+                    },
+                    {
+                        "optgroup": "Pensiones contributivas de la seguridad social",
+                        "layersId": [
+                            "penc_total_abs_2021",
+                            "penc_sex_2021",
+                            "penc_tip_2021",
+                            "penc_tipjub_mi_2021",
+                            "penc_tipviu_mi_2021",
+                            "penc_tipjyv_mi_2021",
+                            "penc_tipinc_mi_2021",
+                            "penc_tipotr_mi_2021"
+                        ]
+                    },
+                    {
+                        "optgroup": "Demandantes de empleo",
+                        "layersId": [
+                            "demp_total_abs_2021",
+                            "demp_sex_2021",
+                            "demp_pr_2021",
+                            "demp_pr_sex_2021"
+                        ]
+                    }
                 ]
             }
         ]

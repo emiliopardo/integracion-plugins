@@ -1,0 +1,54 @@
+{
+  "serie": "2013",
+  "grupos": [
+    [
+      [
+        {
+          "grupo": "POBLACIÓN"
+        },
+        {
+          "variable": "Población total",
+          "layer": "pob_total_abs_2013",
+          "tipo": "abs",
+          "field":["municipio","pob_tot"],
+          "aliasField":["Municipio","Población total de la celda"]
+        },
+        {
+          "variable": "Población por nacionalidad",
+          "layer": "nacionalidad_2013",
+          "tipo": "dens",
+          "field":["municipio","pob_tot","ams","esp","mag","ue15","otr"],
+          "aliasField":["Municipio","Población total de la celda","América del Sur","España","Magreb","Unión Europea (UE-15)","Otras nacionalidades"]
+        },
+        {
+          "variable": "Población por grupos de edad",
+          "layer": "edad_2013",
+          "tipo": "dens",
+          "field":["municipio","pob_tot","edad0015","edad1664","edad65_"],
+          "aliasField":["Municipio","Población total de la celda","Menos de 16 años","De 16 a 64 años","65 y más años"]
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "grupo": "AFILIACIÓN A LA SEGURIDAD SOCIAL"
+        },
+        {
+          "variable": "Afiliación total a la Seguridad Social",
+          "layer": "segsoc_total_abs_2013",
+          "tipo": "abs",
+          "field":["municipio","pob_tot","afil_ss"],
+          "aliasField":["Municipio","Población total de la celda","Población afiliada de la celda"]
+        },
+        {
+          "variable": "Afiliación a la Seguridad Social según relación laboral",
+          "layer": "segsoc_rellab_2013",
+          "tipo": "dens",
+          "field":["municipio","pob_tot","afil_ss","afil_ss_a","afil_ss_p"],
+          "aliasField":["Municipio","Población total de la celda","Población afiliada de la celda","Por cuenta ajena","Por cuenta propia"]
+        }
+      ]
+    ]
+  ]
+}

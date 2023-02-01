@@ -1,0 +1,47 @@
+{
+  "serie": "2002",
+  "grupos": [
+    [
+      [
+        {
+          "grupo": "POBLACIÓN"
+        },
+        {
+          "variable": "Población total",
+          "layer": "pob_total_abs_2002",
+          "tipo": "abs",
+          "field":["municipio","pob_tot"],
+          "aliasField":["Municipio","Población total de la celda"]
+        },
+        {
+          "variable": "Población por sexo",
+          "layer": "pob_sex_2002",
+          "tipo": "fem",
+          "field":["municipio","pob_m","pob_h"],
+          "aliasField":["Municipio","Mujeres","Hombres"]
+        },
+        {
+          "variable": "Población por nacionalidad",
+          "layer": "nacionalidad_2002",
+          "tipo": "dens",
+          "field":["municipio","pob_tot","ams","esp","mag","ue15","otr"],
+          "aliasField":["Municipio","Población total de la celda","América del Sur","España","Magreb","Unión Europea (UE-15)","Otras nacionalidades"]
+        },
+        {
+          "variable": "Población por lugar de nacimiento en relación al lugar de residencia",
+          "layer": "pob_lnac_2002",
+          "tipo": "dens",
+          "field":["municipio","pob_tot","muni","mund","provd","ccaad","paisd"],
+          "aliasField":["Municipio","Población total de la celda","Mismo municipio","Distinto municipio y misma provincia","Distinta provincia dentro de Andalucía","Resto de España","Extranjero"]
+        },
+        {
+          "variable": "Población por grupos de edad",
+          "layer": "edad_2002",
+          "tipo": "dens",
+          "field":["municipio","pob_tot","edad0015","edad1664","edad65_"],
+          "aliasField":["Municipio","Población total de la celda","Menos de 16 años","De 16 a 64 años","65 y más años"]
+        }
+      ]
+    ]
+  ]
+}
