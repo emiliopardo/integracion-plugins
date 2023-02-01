@@ -74,15 +74,15 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
-                "id": "etiquetas_lineas_limite",
-                "name": "etiquetas_lineas_limite",
-                "legend": "Nombres Municipios",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?",
+                "id": "poligonos_LLMM",
+                "name": "poligonos_LLMM",
+                "legend": "Poligonos municipales",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
-                "showLegend": false,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?service=WMS&version=1.1.1&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=etiquetas_lineas_limite"
+                "showLegend": true,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?service=WMS&version=1.1.1&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=poligonos_LLMM"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?",
@@ -105,18 +105,18 @@
                 "style": "",
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?service=WMS&version=1.1.1&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mojones_LLMM"
-            },
-            {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?",
-                "id": "poligonos_LLMM",
-                "name": "poligonos_LLMM",
-                "legend": "Poligonos municipales",
+            },{
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
+                "id": "etiquetas_lineas_limite",
+                "name": "etiquetas_lineas_limite",
+                "legend": "Nombres Municipios",
                 "transparent": true,
                 "tiled": true,
                 "style": "",
-                "showLegend": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?service=WMS&version=1.1.1&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=poligonos_LLMM"
+                "showLegend": false,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?service=WMS&version=1.1.1&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=etiquetas_lineas_limite"
             }
+            
         ],
         "selectedLayerId": "all",
         "group": false,
