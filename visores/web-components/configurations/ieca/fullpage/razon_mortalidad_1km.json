@@ -9,7 +9,8 @@
             "location",
             "panzoombar",
             "scale",
-            "ScaleLine"
+            "ScaleLine",
+            "GetFeatureInfo"
         ],
         "maxExtent": [
             100401.00,
