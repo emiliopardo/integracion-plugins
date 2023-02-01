@@ -104,7 +104,7 @@
                 "transparent": true,
                 "tiled": false,
                 "style": "itaca:sld_Etiquetas_ITACA_categorizado",
-                "showLegend": false,
+                "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=etiquetas_itaca"
             }
             
