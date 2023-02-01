@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2021",
                 "name": "nacionalidad_2021",
                 "legend": "Población por nacionalidad",
