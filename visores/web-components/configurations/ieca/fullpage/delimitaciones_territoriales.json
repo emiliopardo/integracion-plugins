@@ -106,7 +106,7 @@
                 "showLegend": true,
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?service=WMS&version=1.1.1&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=mojones_LLMM"
             },{
-                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
+                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/wms/lineaslimite?",
                 "id": "etiquetas_lineas_limite",
                 "name": "etiquetas_lineas_limite",
                 "legend": "Nombres Municipios",
