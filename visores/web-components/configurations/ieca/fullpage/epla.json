@@ -9,7 +9,9 @@
             "ScaleLine",
             "GetFeatureInfo"
         ],
-        "plugins": [],
+        "plugins": [
+            "geosearch"
+        ],
         "maxExtent": [
             100401.00,
             3987100.00,
