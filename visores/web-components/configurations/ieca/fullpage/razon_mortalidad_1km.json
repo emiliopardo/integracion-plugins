@@ -9,6 +9,7 @@
             "ScaleLine",
             "GetFeatureInfo"
         ],
+        "plugins": [],
         "maxExtent": [
             100401.00,
             3987100.00,
