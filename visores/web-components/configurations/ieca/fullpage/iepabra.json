@@ -1,7 +1,4 @@
 {
-    "title": "Estadísticas de población de Andalucía basadas en registros administrativos<br>Indicadores estadísticos de población de Andalucía por secciones censales",
-    "logo": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/portal/images/images/andaluciasemueveconeuropa.png",
-    "logo_alt": "Andalucía se mueve con Europa",
     "configuration": {
         "controls": [
             "mouse",

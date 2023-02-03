@@ -1,7 +1,4 @@
 {
-    "title": "Directorio de empresas y establecimientos con actividad económica en Andalucía<br>Geolocalización de los establecimientos de 50 o más asalariados a 01/01/2020",
-    "logo": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/portal/images/images/andaluciasemueveconeuropa.png",
-    "logo_alt": "Andalucía se mueve con Europa",
     "configuration": {
         "controls": [
             "mouse",

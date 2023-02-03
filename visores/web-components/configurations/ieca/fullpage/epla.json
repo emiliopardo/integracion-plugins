@@ -1,7 +1,4 @@
 {
-    "title": "Estadística de Empresas Públicas Locales en Andalucía<br>Geolocalización de las empresas a 31/05/2022",
-    "logo": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/portal/images/images/andaluciasemueveconeuropa.png",
-    "logo_alt": "Andalucía se mueve con Europa",
     "configuration": {
         "controls": [
             "mouse",

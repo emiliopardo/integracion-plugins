@@ -1,7 +1,4 @@
 {
-    "title": "Razón de Mortalidad Estandarizada Suavizada (RMES) por causa. Celdas de 1 kilómetro<br>Estadísticas Longitudinales de Supervivencia y Longevidad en Andalucía, 2002-2016",
-    "logo": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/portal/images/images/andaluciasemueveconeuropa.png",
-    "logo_alt": "Andalucía se mueve con Europa",
     "configuration": {
         "controls": [
             "mouse",

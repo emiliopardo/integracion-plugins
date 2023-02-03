@@ -1,7 +1,4 @@
 {
-    "title": "Distribución Espacial de la Población en Andalucía",
-    "logo": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/portal/images/images/andaluciasemueveconeuropa.png",
-    "logo_alt": "Andalucía se mueve con Europa",
     "configuration": {
         "controls": [
             "mouse",
