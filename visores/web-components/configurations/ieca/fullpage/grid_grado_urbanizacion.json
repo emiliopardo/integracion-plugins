@@ -163,19 +163,19 @@
         "nested": false,
         "layerGroups": [
             {
-                "optgroup": "Año 2002",
-                "layersId": [
-                    "degurba02_1k_stl_degurbagrid02_1k",
-                    "degurba02_250_stl_degurbagrid02_250m"
-                ]
-            },
-            {
                 "optgroup": "Año 2020",
                 "layersId": [
                     "degurba1k_stl_degurbagrid1k",
                     "degurba1k_stl_degurban2grid1k",
                     "degurba250_stl_degurbagrid250m",
                     "degurba250_stl_degurban2grid250m"
+                ]
+            },
+            {
+                "optgroup": "Año 2002",
+                "layersId": [
+                    "degurba02_1k_stl_degurbagrid02_1k",
+                    "degurba02_250_stl_degurbagrid02_250m"
                 ]
             }
         ]
