@@ -65,7 +65,7 @@
                 "tiled": true,
                 "style": "default",
                 "queryable": false,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/WMC/leyendas/mdt_2016.png"
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/WMC/leyendas/mdt_2016.png"
             }
         ],
         "overlaylayers": [
