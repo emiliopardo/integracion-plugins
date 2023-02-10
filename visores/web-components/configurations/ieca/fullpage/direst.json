@@ -34,7 +34,7 @@
             {
                 "url": "https://www.ideandalucia.es/services/andalucia/wms?",
                 "id": "00_Mapa_Andalucia",
-                "name": "00_Mapa_Andalucia",
+                "name": "01_Cartografia_Andalucia,01_Textos_Andalucia",
                 "legend": "Mapa Topográfico de Andalucía",
                 "transparent": false,
                 "tiled": true,
@@ -52,9 +52,32 @@
                 "style": "default",
                 "queryable": false,
                 "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
+            },
+            {
+                "url": "https://www.ideandalucia.es/wms/mdt_2016?",
+                "id": "Modelo Digital del Terreno 2016",
+                "name": "sombreado_orografico_2016",
+                "legend": "Modelo Digital del Terreno 2016",
+                "transparent": false,
+                "tiled": true,
+                "style": "default",
+                "queryable": false,
+                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/WMC/leyendas/mdt_2016.png"
             }
         ],
         "overlaylayers": [
+            {
+                "url": "https://www.ideandalucia.es/services/andalucia/wms?",
+                "id": "Contexto",
+                "name": "andalucia:sombreado_mdt_final_rgb_LZW,andalucia:sombreado_batimetria_final_rgb_LZW,andalucia:mdt_final_rgb_LZW,andalucia:batimetria_final_rgb_LZW,andalucia:btn100_0101s_uni_admin_paises,andalucia:btn100_0101s_uni_admin_comunidades_autonomas",
+                "legend": "Cartografia Contexto",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "showLegend": false,
+                "queryable": false,
+                "urlLegend": ""
+            },
             {
                 "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
                 "id": "v_vial",
