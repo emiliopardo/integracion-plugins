@@ -11,7 +11,7 @@
         ],
         "plugins": [
             {
-                "name": "searchstreetgeosearch",
+                "name": "searchstreet",
                 "config": "defautl"
             }
         ],
