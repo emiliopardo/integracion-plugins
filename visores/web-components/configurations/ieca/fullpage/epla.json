@@ -11,8 +11,8 @@
         ],
         "plugins": [
             {
-                "name": "searchstreet",
-                "config": "defautl"
+                "name": "searchstreetgeosearch",
+                "config": "default"
             }
         ],
         "maxExtent": [
