@@ -11,8 +11,8 @@
         ],
         "plugins": [
             {
-                "name": "geosearch",
-                "config": "{\"core\": \"ise\",\"url\": \"https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geobusquedas\",\"handler\": \"/search\"}"
+                "name": "searchstreetgeosearch",
+                "config": "defautl"
             }
         ],
         "maxExtent": [
