@@ -10,7 +10,10 @@
             "GetFeatureInfo"
         ],
         "plugins": [
-            "searchstreet"
+            {
+                "name": "searchstreetgeosearch",
+                "config": "default"
+            }
         ],
         "maxExtent": [
             100401.00,
