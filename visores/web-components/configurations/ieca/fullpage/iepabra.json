@@ -288,17 +288,17 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=actividad_i14"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/iepabra/wms?",
                 "id": "iepabra2021_demografia_i15",
-                "name": "iepabra2021",
+                "name": "iepabra2021_",
                 "legend": "Edad media de la población",
                 "transparent": true,
                 "tiled": true,
-                "style": "demografia_i15",
+                "style": "",
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021&style=demografia_i15"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/iepabra/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=iepabra2021_"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/iepabra/wms?",
