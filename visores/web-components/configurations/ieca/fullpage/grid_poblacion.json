@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2021",
                 "name": "pob_total_abs_2021",
                 "legend": "Población total",
@@ -119,7 +119,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_sex_2021",
                 "name": "pob_sex_2021",
                 "legend": "Población por sexo",
@@ -145,7 +145,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_lnac_2021",
                 "name": "pob_lnac_2021",
                 "legend": "Población por lugar de nacimiento en relación al lugar de residencia",
@@ -158,7 +158,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_lnac.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2021",
                 "name": "edad_2021",
                 "legend": "Población por grupos de edad",
@@ -171,7 +171,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_tr_2021",
                 "name": "pob_tr_2021",
                 "legend": "Población por tiempo de residencia",
@@ -184,7 +184,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_tr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_total_abs_2021",
                 "name": "segsoc_total_abs_2021",
                 "legend": "Afiliación total a la Seguridad Social",
@@ -197,7 +197,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_sex_2021",
                 "name": "segsoc_sex_2021",
                 "legend": "Afiliación a la Seguridad Social por sexo",
@@ -210,7 +210,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_rellab_2021",
                 "name": "segsoc_rellab_2021",
                 "legend": "Afiliación a la Seguridad Social según relación laboral",
@@ -223,7 +223,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_total_abs_2021",
                 "name": "penc_total_abs_2021",
                 "legend": "Perceptores de pensiones contributivas",
@@ -236,7 +236,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_sex_2021",
                 "name": "penc_sex_2021",
                 "legend": "Perceptores de pensiones contributivas por sexo",
@@ -249,7 +249,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tip_2021",
                 "name": "penc_tip_2021",
                 "legend": "Perceptores de pensiones contributivas por tipo",
@@ -262,7 +262,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tip.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjub_mi_2021",
                 "name": "penc_tipjub_mi_2021",
                 "legend": "Ingresos por pensiones de jubilación",
@@ -275,7 +275,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjub_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipviu_mi_2021",
                 "name": "penc_tipviu_mi_2021",
                 "legend": "Ingresos por pensiones de viudedad",
@@ -288,7 +288,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipviu_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjyv_mi_2021",
                 "name": "penc_tipjyv_mi_2021",
                 "legend": "Ingresos por pensiones de jubilación y viudedad",
@@ -301,7 +301,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjyv_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipinc_mi_2021",
                 "name": "penc_tipinc_mi_2021",
                 "legend": "Ingresos por pensiones de incapacidad",
@@ -314,7 +314,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipinc_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipotr_mi_2021",
                 "name": "penc_tipotr_mi_2021",
                 "legend": "Ingresos por otro tipo de pensiones",
@@ -327,7 +327,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipotr_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_total_abs_2021",
                 "name": "demp_total_abs_2021",
                 "legend": "Demandantes de empleo total",
@@ -340,7 +340,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_sex_2021",
                 "name": "demp_sex_2021",
                 "legend": "Demandantes de empleo por sexo",
@@ -353,7 +353,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_2021",
                 "name": "demp_pr_2021",
                 "legend": "Paro registrado",
@@ -366,7 +366,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_sex_2021",
                 "name": "demp_pr_sex_2021",
                 "legend": "Paro registrado por sexo",
@@ -379,7 +379,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2020",
                 "name": "pob_total_abs_2020",
                 "legend": "Población total",
@@ -392,7 +392,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_sex_2020",
                 "name": "pob_sex_2020",
                 "legend": "Población por sexo",
@@ -405,7 +405,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2020",
                 "name": "nacionalidad_2020",
                 "legend": "Población por nacionalidad",
@@ -418,7 +418,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_lnac_2020",
                 "name": "pob_lnac_2020",
                 "legend": "Población por lugar de nacimiento en relación al lugar de residencia",
@@ -431,7 +431,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_lnac.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2020",
                 "name": "edad_2020",
                 "legend": "Población por grupos de edad",
@@ -444,7 +444,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_tr_2020",
                 "name": "pob_tr_2020",
                 "legend": "Población por tiempo de residencia",
@@ -457,7 +457,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_tr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_total_abs_2020",
                 "name": "segsoc_total_abs_2020",
                 "legend": "Afiliación total a la Seguridad Social",
@@ -470,7 +470,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_sex_2020",
                 "name": "segsoc_sex_2020",
                 "legend": "Afiliación a la Seguridad Social por sexo",
@@ -483,7 +483,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_rellab_2020",
                 "name": "segsoc_rellab_2020",
                 "legend": "Afiliación a la Seguridad Social según relación laboral",
@@ -496,7 +496,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_total_abs_2020",
                 "name": "penc_total_abs_2020",
                 "legend": "Perceptores de pensiones contributivas",
@@ -509,7 +509,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_sex_2020",
                 "name": "penc_sex_2020",
                 "legend": "Perceptores de pensiones contributivas por sexo",
@@ -522,7 +522,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tip_2020",
                 "name": "penc_tip_2020",
                 "legend": "Perceptores de pensiones contributivas por tipo",
@@ -535,7 +535,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tip.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjub_mi_2020",
                 "name": "penc_tipjub_mi_2020",
                 "legend": "Ingresos por pensiones de jubilación",
@@ -548,7 +548,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjub_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipviu_mi_2020",
                 "name": "penc_tipviu_mi_2020",
                 "legend": "Ingresos por pensiones de viudedad",
@@ -561,7 +561,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipviu_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjyv_mi_2020",
                 "name": "penc_tipjyv_mi_2020",
                 "legend": "Ingresos por pensiones de jubilación y viudedad",
@@ -574,7 +574,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjyv_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipinc_mi_2020",
                 "name": "penc_tipinc_mi_2020",
                 "legend": "Ingresos por pensiones de incapacidad",
@@ -587,7 +587,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipinc_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipotr_mi_2020",
                 "name": "penc_tipotr_mi_2020",
                 "legend": "Ingresos por otro tipo de pensiones",
@@ -600,7 +600,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipotr_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_total_abs_2020",
                 "name": "demp_total_abs_2020",
                 "legend": "Demandantes de empleo total",
@@ -613,7 +613,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_sex_2020",
                 "name": "demp_sex_2020",
                 "legend": "Demandantes de empleo por sexo",
@@ -626,7 +626,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_2020",
                 "name": "demp_pr_2020",
                 "legend": "Paro registrado",
@@ -639,7 +639,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_sex_2020",
                 "name": "demp_pr_sex_2020",
                 "legend": "Paro registrado por sexo",
@@ -652,7 +652,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2019",
                 "name": "pob_total_abs_2019",
                 "legend": "Población total",
@@ -665,7 +665,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_sex_2019",
                 "name": "pob_sex_2019",
                 "legend": "Población por sexo",
@@ -678,7 +678,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2019",
                 "name": "nacionalidad_2019",
                 "legend": "Población por nacionalidad",
@@ -691,7 +691,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_lnac_2019",
                 "name": "pob_lnac_2019",
                 "legend": "Población por lugar de nacimiento en relación al lugar de residencia",
@@ -704,7 +704,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_lnac.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2019",
                 "name": "edad_2019",
                 "legend": "Población por grupos de edad",
@@ -717,7 +717,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_tr_2019",
                 "name": "pob_tr_2019",
                 "legend": "Población por tiempo de residencia",
@@ -730,7 +730,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_tr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_total_abs_2019",
                 "name": "segsoc_total_abs_2019",
                 "legend": "Afiliación total a la Seguridad Social",
@@ -743,7 +743,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_sex_2019",
                 "name": "segsoc_sex_2019",
                 "legend": "Afiliación a la Seguridad Social por sexo",
@@ -756,7 +756,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_rellab_2019",
                 "name": "segsoc_rellab_2019",
                 "legend": "Afiliación a la Seguridad Social según relación laboral",
@@ -769,7 +769,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_total_abs_2019",
                 "name": "penc_total_abs_2019",
                 "legend": "Perceptores de pensiones contributivas",
@@ -782,7 +782,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_sex_2019",
                 "name": "penc_sex_2019",
                 "legend": "Perceptores de pensiones contributivas por sexo",
@@ -795,7 +795,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tip_2019",
                 "name": "penc_tip_2019",
                 "legend": "Perceptores de pensiones contributivas por tipo",
@@ -808,7 +808,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tip.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjub_mi_2019",
                 "name": "penc_tipjub_mi_2019",
                 "legend": "Ingresos por pensiones de jubilación",
@@ -821,7 +821,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjub_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipviu_mi_2019",
                 "name": "penc_tipviu_mi_2019",
                 "legend": "Ingresos por pensiones de viudedad",
@@ -834,7 +834,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipviu_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjyv_mi_2019",
                 "name": "penc_tipjyv_mi_2019",
                 "legend": "Ingresos por pensiones de jubilación y viudedad",
@@ -847,7 +847,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjyv_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipinc_mi_2019",
                 "name": "penc_tipinc_mi_2019",
                 "legend": "Ingresos por pensiones de incapacidad",
@@ -860,7 +860,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipinc_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipotr_mi_2019",
                 "name": "penc_tipotr_mi_2019",
                 "legend": "Ingresos por otro tipo de pensiones",
@@ -873,7 +873,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipotr_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_total_abs_2019",
                 "name": "demp_total_abs_2019",
                 "legend": "Demandantes de empleo total",
@@ -886,7 +886,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_sex_2019",
                 "name": "demp_sex_2019",
                 "legend": "Demandantes de empleo por sexo",
@@ -899,7 +899,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_2019",
                 "name": "demp_pr_2019",
                 "legend": "Paro registrado",
@@ -912,7 +912,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_sex_2019",
                 "name": "demp_pr_sex_2019",
                 "legend": "Paro registrado por sexo",
@@ -925,7 +925,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2018",
                 "name": "pob_total_abs_2018",
                 "legend": "Población total",
@@ -938,7 +938,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_sex_2018",
                 "name": "pob_sex_2018",
                 "legend": "Población por sexo",
@@ -951,7 +951,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2018",
                 "name": "nacionalidad_2018",
                 "legend": "Población por nacionalidad",
@@ -964,7 +964,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_lnac_2018",
                 "name": "pob_lnac_2018",
                 "legend": "Población por lugar de nacimiento en relación al lugar de residencia",
@@ -977,7 +977,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_lnac.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2018",
                 "name": "edad_2018",
                 "legend": "Población por grupos de edad",
@@ -990,7 +990,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_tr_2018",
                 "name": "pob_tr_2018",
                 "legend": "Población por tiempo de residencia",
@@ -1003,7 +1003,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_tr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_total_abs_2018",
                 "name": "segsoc_total_abs_2018",
                 "legend": "Afiliación total a la Seguridad Social",
@@ -1016,7 +1016,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_sex_2018",
                 "name": "segsoc_sex_2018",
                 "legend": "Afiliación a la Seguridad Social por sexo",
@@ -1029,7 +1029,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_rellab_2018",
                 "name": "segsoc_rellab_2018",
                 "legend": "Afiliación a la Seguridad Social según relación laboral",
@@ -1042,7 +1042,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_total_abs_2018",
                 "name": "penc_total_abs_2018",
                 "legend": "Perceptores de pensiones contributivas",
@@ -1055,7 +1055,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_sex_2018",
                 "name": "penc_sex_2018",
                 "legend": "Perceptores de pensiones contributivas por sexo",
@@ -1068,7 +1068,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tip_2018",
                 "name": "penc_tip_2018",
                 "legend": "Perceptores de pensiones contributivas por tipo",
@@ -1081,7 +1081,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tip.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjub_mi_2018",
                 "name": "penc_tipjub_mi_2018",
                 "legend": "Ingresos por pensiones de jubilación",
@@ -1094,7 +1094,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjub_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipviu_mi_2018",
                 "name": "penc_tipviu_mi_2018",
                 "legend": "Ingresos por pensiones de viudedad",
@@ -1107,7 +1107,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipviu_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjyv_mi_2018",
                 "name": "penc_tipjyv_mi_2018",
                 "legend": "Ingresos por pensiones de jubilación y viudedad",
@@ -1120,7 +1120,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjyv_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipinc_mi_2018",
                 "name": "penc_tipinc_mi_2018",
                 "legend": "Ingresos por pensiones de incapacidad",
@@ -1133,7 +1133,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipinc_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipotr_mi_2018",
                 "name": "penc_tipotr_mi_2018",
                 "legend": "Ingresos por otro tipo de pensiones",
@@ -1146,7 +1146,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipotr_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_total_abs_2018",
                 "name": "demp_total_abs_2018",
                 "legend": "Demandantes de empleo total",
@@ -1159,7 +1159,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_sex_2018",
                 "name": "demp_sex_2018",
                 "legend": "Demandantes de empleo por sexo",
@@ -1172,7 +1172,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_2018",
                 "name": "demp_pr_2018",
                 "legend": "Paro registrado",
@@ -1185,7 +1185,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_sex_2018",
                 "name": "demp_pr_sex_2018",
                 "legend": "Paro registrado por sexo",
@@ -1198,7 +1198,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2017",
                 "name": "pob_total_abs_2017",
                 "legend": "Población total",
@@ -1211,7 +1211,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_sex_2017",
                 "name": "pob_sex_2017",
                 "legend": "Población por sexo",
@@ -1224,7 +1224,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2017",
                 "name": "nacionalidad_2017",
                 "legend": "Población por nacionalidad",
@@ -1237,7 +1237,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_lnac_2017",
                 "name": "pob_lnac_2017",
                 "legend": "Población por lugar de nacimiento en relación al lugar de residencia",
@@ -1250,7 +1250,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_lnac.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2017",
                 "name": "edad_2017",
                 "legend": "Población por grupos de edad",
@@ -1263,7 +1263,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_tr_2017",
                 "name": "pob_tr_2017",
                 "legend": "Población por tiempo de residencia",
@@ -1276,7 +1276,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_tr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_total_abs_2017",
                 "name": "segsoc_total_abs_2017",
                 "legend": "Afiliación total a la Seguridad Social",
@@ -1289,7 +1289,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_sex_2017",
                 "name": "segsoc_sex_2017",
                 "legend": "Afiliación a la Seguridad Social por sexo",
@@ -1302,7 +1302,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_rellab_2017",
                 "name": "segsoc_rellab_2017",
                 "legend": "Afiliación a la Seguridad Social según relación laboral",
@@ -1315,7 +1315,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_total_abs_2017",
                 "name": "penc_total_abs_2017",
                 "legend": "Perceptores de pensiones contributivas",
@@ -1328,7 +1328,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_sex_2017",
                 "name": "penc_sex_2017",
                 "legend": "Perceptores de pensiones contributivas por sexo",
@@ -1341,7 +1341,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tip_2017",
                 "name": "penc_tip_2017",
                 "legend": "Perceptores de pensiones contributivas por tipo",
@@ -1354,7 +1354,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tip.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjub_mi_2017",
                 "name": "penc_tipjub_mi_2017",
                 "legend": "Ingresos por pensiones de jubilación",
@@ -1367,7 +1367,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjub_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipviu_mi_2017",
                 "name": "penc_tipviu_mi_2017",
                 "legend": "Ingresos por pensiones de viudedad",
@@ -1380,7 +1380,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipviu_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjyv_mi_2017",
                 "name": "penc_tipjyv_mi_2017",
                 "legend": "Ingresos por pensiones de jubilación y viudedad",
@@ -1393,7 +1393,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjyv_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipinc_mi_2017",
                 "name": "penc_tipinc_mi_2017",
                 "legend": "Ingresos por pensiones de incapacidad",
@@ -1406,7 +1406,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipinc_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipotr_mi_2017",
                 "name": "penc_tipotr_mi_2017",
                 "legend": "Ingresos por otro tipo de pensiones",
@@ -1419,7 +1419,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipotr_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_total_abs_2017",
                 "name": "demp_total_abs_2017",
                 "legend": "Demandantes de empleo total",
@@ -1432,7 +1432,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_sex_2017",
                 "name": "demp_sex_2017",
                 "legend": "Demandantes de empleo por sexo",
@@ -1445,7 +1445,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_2017",
                 "name": "demp_pr_2017",
                 "legend": "Paro registrado",
@@ -1458,7 +1458,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "demp_pr_sex_2017",
                 "name": "demp_pr_sex_2017",
                 "legend": "Paro registrado por sexo",
@@ -1471,7 +1471,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/demp_pr_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2016",
                 "name": "pob_total_abs_2016",
                 "legend": "Población total",
@@ -1484,7 +1484,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_sex_2016",
                 "name": "pob_sex_2016",
                 "legend": "Población por sexo",
@@ -1497,7 +1497,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2016",
                 "name": "nacionalidad_2016",
                 "legend": "Población por nacionalidad",
@@ -1510,7 +1510,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2016",
                 "name": "edad_2016",
                 "legend": "Población por grupos de edad",
@@ -1523,7 +1523,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_total_abs_2016",
                 "name": "segsoc_total_abs_2016",
                 "legend": "Afiliación total a la Seguridad Social",
@@ -1536,7 +1536,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_sex_2016",
                 "name": "segsoc_sex_2016",
                 "legend": "Afiliación a la Seguridad Social por sexo",
@@ -1549,7 +1549,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_rellab_2016",
                 "name": "segsoc_rellab_2016",
                 "legend": "Afiliación a la Seguridad Social según relación laboral",
@@ -1562,7 +1562,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_total_abs_2016",
                 "name": "penc_total_abs_2016",
                 "legend": "Perceptores de pensiones contributivas",
@@ -1575,7 +1575,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_sex_2016",
                 "name": "penc_sex_2016",
                 "legend": "Perceptores de pensiones contributivas por sexo",
@@ -1588,7 +1588,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tip_2016",
                 "name": "penc_tip_2016",
                 "legend": "Perceptores de pensiones contributivas por tipo",
@@ -1601,7 +1601,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tip.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjub_mi_2016",
                 "name": "penc_tipjub_mi_2016",
                 "legend": "Ingresos por pensiones de jubilación",
@@ -1614,7 +1614,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjub_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipviu_mi_2016",
                 "name": "penc_tipviu_mi_2016",
                 "legend": "Ingresos por pensiones de viudedad",
@@ -1627,7 +1627,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipviu_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjyv_mi_2016",
                 "name": "penc_tipjyv_mi_2016",
                 "legend": "Ingresos por pensiones de jubilación y viudedad",
@@ -1640,7 +1640,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjyv_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipinc_mi_2016",
                 "name": "penc_tipinc_mi_2016",
                 "legend": "Ingresos por pensiones de incapacidad",
@@ -1653,7 +1653,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipinc_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipotr_mi_2016",
                 "name": "penc_tipotr_mi_2016",
                 "legend": "Ingresos por otro tipo de pensiones",
@@ -1666,7 +1666,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipotr_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2015",
                 "name": "pob_total_abs_2015",
                 "legend": "Población total",
@@ -1679,7 +1679,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2015",
                 "name": "nacionalidad_2015",
                 "legend": "Población por nacionalidad",
@@ -1692,7 +1692,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2015",
                 "name": "edad_2015",
                 "legend": "Población por grupos de edad",
@@ -1705,7 +1705,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_total_abs_2015",
                 "name": "segsoc_total_abs_2015",
                 "legend": "Afiliación total a la Seguridad Social",
@@ -1718,7 +1718,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_rellab_2015",
                 "name": "segsoc_rellab_2015",
                 "legend": "Afiliación a la Seguridad Social según relación laboral",
@@ -1731,7 +1731,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_total_abs_2015",
                 "name": "penc_total_abs_2015",
                 "legend": "Perceptores de pensiones contributivas",
@@ -1744,7 +1744,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tip_2015",
                 "name": "penc_tip_2015",
                 "legend": "Perceptores de pensiones contributivas por tipo",
@@ -1757,7 +1757,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tip.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjub_mi_2015",
                 "name": "penc_tipjub_mi_2015",
                 "legend": "Ingresos por pensiones de jubilación",
@@ -1770,7 +1770,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjub_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipviu_mi_2015",
                 "name": "penc_tipviu_mi_2015",
                 "legend": "Ingresos por pensiones de viudedad",
@@ -1783,7 +1783,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipviu_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipjyv_mi_2015",
                 "name": "penc_tipjyv_mi_2015",
                 "legend": "Ingresos por pensiones de jubilación y viudedad",
@@ -1796,7 +1796,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipjyv_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipinc_mi_2015",
                 "name": "penc_tipinc_mi_2015",
                 "legend": "Ingresos por pensiones de incapacidad",
@@ -1809,7 +1809,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipinc_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "penc_tipotr_mi_2015",
                 "name": "penc_tipotr_mi_2015",
                 "legend": "Ingresos por otro tipo de pensiones",
@@ -1822,7 +1822,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/penc_tipotr_mi.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2014",
                 "name": "pob_total_abs_2014",
                 "legend": "Población total",
@@ -1835,7 +1835,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2014",
                 "name": "nacionalidad_2014",
                 "legend": "Población por nacionalidad",
@@ -1848,7 +1848,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2014",
                 "name": "edad_2014",
                 "legend": "Población por grupos de edad",
@@ -1861,7 +1861,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_total_abs_2014",
                 "name": "segsoc_total_abs_2014",
                 "legend": "Afiliación total a la Seguridad Social",
@@ -1874,7 +1874,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_rellab_2014",
                 "name": "segsoc_rellab_2014",
                 "legend": "Afiliación a la Seguridad Social según relación laboral",
@@ -1887,7 +1887,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2013",
                 "name": "pob_total_abs_2013",
                 "legend": "Población total",
@@ -1900,7 +1900,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2013",
                 "name": "nacionalidad_2013",
                 "legend": "Población por nacionalidad",
@@ -1913,7 +1913,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2013",
                 "name": "edad_2013",
                 "legend": "Población por grupos de edad",
@@ -1926,7 +1926,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_total_abs_2013",
                 "name": "segsoc_total_abs_2013",
                 "legend": "Afiliación total a la Seguridad Social",
@@ -1939,7 +1939,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "segsoc_rellab_2013",
                 "name": "segsoc_rellab_2013",
                 "legend": "Afiliación a la Seguridad Social según relación laboral",
@@ -1952,7 +1952,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/segsoc_rellab.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_total_abs_2002",
                 "name": "pob_total_abs_2002",
                 "legend": "Población total",
@@ -1965,7 +1965,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_total_abs.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_sex_2002",
                 "name": "pob_sex_2002",
                 "legend": "Población por sexo",
@@ -1978,7 +1978,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_sex.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "nacionalidad_2002",
                 "name": "nacionalidad_2002",
                 "legend": "Población por nacionalidad",
@@ -1991,7 +1991,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/nacionalidad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_lnac_2002",
                 "name": "pob_lnac_2002",
                 "legend": "Población por lugar de nacimiento en relación al lugar de residencia",
@@ -2004,7 +2004,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/pob_lnac.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "edad_2002",
                 "name": "edad_2002",
                 "legend": "Población por grupos de edad",
@@ -2017,7 +2017,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/VisorGrid/leyenda/edad.png"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/visorGrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/visorGrid/wms?",
                 "id": "pob_tr_2002",
                 "name": "pob_tr_2002",
                 "legend": "Población por tiempo de residencia",
