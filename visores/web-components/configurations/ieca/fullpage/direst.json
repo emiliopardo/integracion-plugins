@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/direst/wms?",
                 "id": "direst:direst_comercio_2020",
                 "name": "direst:direst_comercio_2020",
                 "legend": "Sector comercio",
@@ -118,7 +118,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_comercio_2020"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/direst/wms?",
                 "id": "direst:direst_construccion_2020",
                 "name": "direst:direst_construccion_2020",
                 "legend": "Sector construcción",
@@ -130,7 +130,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_construccion_2020"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/direst/wms?",
                 "id": "direst:direst_energia_2020",
                 "name": "direst:direst_energia_2020",
                 "legend": "Sector energía, agua y residuos",
@@ -142,7 +142,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_energia_2020"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/direst/wms?",
                 "id": "direst:direst_hosteleria_2020",
                 "name": "direst:direst_hosteleria_2020",
                 "legend": "Sector hostelería",
@@ -154,7 +154,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_hosteleria_2020"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/direst/wms?",
                 "id": "direst:direst_industria_2020",
                 "name": "direst:direst_industria_2020",
                 "legend": "Sector Industria",
@@ -166,7 +166,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_industria_2020"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/direst/wms?",
                 "id": "direst:direst_servicios_2020",
                 "name": "direst:direst_servicios_2020",
                 "legend": "Sector servicios sanitarios, educativos y resto de servicios",
@@ -178,7 +178,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=direst%3Adirest_servicios_2020"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/direst/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/direst/wms?",
                 "id": "direst:direst_transporte_2020",
                 "name": "direst:direst_transporte_2020",
                 "legend": "Sector transporte y almacenamiento",
