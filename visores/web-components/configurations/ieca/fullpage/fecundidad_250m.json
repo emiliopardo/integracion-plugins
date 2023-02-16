@@ -211,7 +211,27 @@
             }
         ],
         "selectedLayerId": "none",
-        "group": false,
-        "nested": false
+        "group": true,
+        "nested": false,
+        "layerGroups": [
+            {
+                "optgroup": "Indicadores de fecundidad",
+                "layersId": [
+                    "fecundidad:RFES250M",
+                    "fecundidad:RFES250H",
+                    "fecundidad:Mujeres250_EM",
+                    "fecundidad:Hombres250_EM",
+                    "fecundidad:Mujeres250_ISF",
+                    "fecundidad:Hombres250_ISF"
+                ]
+            },
+            {
+                "optgroup": "Información Auxiliar",
+                "layersId": [
+                    "ise:salud",
+                    "ise:estudiar"
+                ]
+            }
+        ]
     }
 }
