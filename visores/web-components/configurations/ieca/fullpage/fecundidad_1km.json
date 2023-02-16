@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:RFES1kmM0",
                 "name": "fecundidad:RFES1kmM0",
                 "legend": "Intensidad de la fecundidad al primer nacido en mujeres",
@@ -116,10 +116,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM0"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmM0"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:RFES1kmH0",
                 "name": "fecundidad:RFES1kmH0",
                 "legend": "Intensidad de la fecundidad al primer nacido en hombres",
@@ -129,10 +129,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH0"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES1kmH0"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:Mujeres_1kEM",
                 "name": "fecundidad:Mujeres_1kEM",
                 "legend": "Edad media a la maternidad",
@@ -142,10 +142,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres_1kEM"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres_1kEM"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:Hombres_1kEM",
                 "name": "fecundidad:Hombres_1kEM",
                 "legend": "Edad media a la paternidad",
@@ -155,10 +155,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres_1kEM"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres_1kEM"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:Mujeres_1kISF",
                 "name": "fecundidad:Mujeres_1kISF",
                 "legend": "Número medio de hijos por mujer",
@@ -168,10 +168,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres_1kISF"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres_1kISF"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:Hombres_1kISF",
                 "name": "fecundidad:Hombres_1kISF",
                 "legend": "Número medio de hijos por hombre",
@@ -181,7 +181,7 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres_1kISF"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres_1kISF"
             }
         ],
         "selectedLayerId": "none",

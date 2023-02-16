@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:RFES250M",
                 "name": "fecundidad:RFES250M",
                 "legend": "Intensidad de la fecundidad al primer nacido en mujeres",
@@ -116,10 +116,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES250M"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES250M"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:RFES250H",
                 "name": "fecundidad:RFES250H",
                 "legend": "Intensidad de la fecundidad al primer nacido en hombres",
@@ -129,10 +129,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES250H"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:RFES250H"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:Mujeres250_EM",
                 "name": "fecundidad:Mujeres250_EM",
                 "legend": "Edad media a la maternidad",
@@ -142,10 +142,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres250_EM"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres250_EM"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:Hombres250_EM",
                 "name": "fecundidad:Hombres250_EM",
                 "legend": "Edad media a la paternidad",
@@ -155,10 +155,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres250_EM"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres250_EM"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:Mujeres250_ISF",
                 "name": "fecundidad:Mujeres250_ISF",
                 "legend": "Número medio de hijos por mujer",
@@ -168,10 +168,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres250_ISF"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Mujeres250_ISF"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/wms?",
                 "id": "fecundidad:Hombres250_ISF",
                 "name": "fecundidad:Hombres250_ISF",
                 "legend": "Número medio de hijos por hombre",
@@ -181,7 +181,7 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres250_ISF"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/fecundidad/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=fecundidad:Hombres250_ISF"
             },
             {
                 "url": "https://www.ideandalucia.es/services/ise/wms?",
