@@ -262,7 +262,7 @@
                 "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=RMES_250_IC_SViv"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?",
+                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/dir/wms",
                 "id": "dir:su04_industria",
                 "name": "dir:su04_industria",
                 "legend": "Espacios industriales",
