@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_T",
                 "name": "mor:RMES_250_T",
                 "legend": "RMES. Ambos sexos",
@@ -116,10 +116,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_T"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_T"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_H",
                 "name": "mor:RMES_250_H",
                 "legend": "RMES. Hombres",
@@ -129,10 +129,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_H"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_H"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_M",
                 "name": "mor:RMES_250_M",
                 "legend": "RMES. Mujeres",
@@ -142,10 +142,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_M"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_M"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_T45",
                 "name": "mor:RMES_250_T45",
                 "legend": "RMES. Ambos sexos de 45 a 64 años",
@@ -155,10 +155,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_T45"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_T45"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_H45",
                 "name": "mor:RMES_250_H45",
                 "legend": "RMES. Hombres de 45 a 64 años",
@@ -168,10 +168,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_H45"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_H45"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_M45",
                 "name": "mor:RMES_250_M45",
                 "legend": "RMES. Mujeres de 45 a 64 años",
@@ -181,10 +181,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_M45"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_M45"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_T65",
                 "name": "mor:RMES_250_T65",
                 "legend": "RMES. Ambos sexos de 65 y más años",
@@ -194,10 +194,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_T65"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_T65"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_H65",
                 "name": "mor:RMES_250_H65",
                 "legend": "RMES. Hombres de 65 y más años",
@@ -207,10 +207,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_H65"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_H65"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_M65",
                 "name": "mor:RMES_250_M65",
                 "legend": "RMES. Mujeres de 65 y más años",
@@ -220,10 +220,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_M65"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=mor:RMES_250_M65"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_IC_Paro",
                 "name": "mor:RMES_250_IC_Paro",
                 "legend": "Desempleo 2001",
@@ -236,7 +236,7 @@
                 "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=RMES_250_IC_Paro"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_IC_EstSup",
                 "name": "mor:RMES_250_IC_EstSup",
                 "legend": "Población con estudios superiores 2001",
@@ -249,7 +249,7 @@
                 "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=20&HEIGHT=20&LAYER=RMES_250_IC_EstSup"
             },
             {
-                "url": "http//factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/mor/wms?",
                 "id": "mor:RMES_250_IC_SViv",
                 "name": "mor:RMES_250_IC_SViv",
                 "legend": "Población con segunda vivienda 2001",
