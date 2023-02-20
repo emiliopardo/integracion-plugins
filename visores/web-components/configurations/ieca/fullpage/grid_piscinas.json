@@ -322,7 +322,7 @@
                 "label": "2022",
                 "layerGroup": [
                     {
-                        "optgroup": "Número de pisicnas",
+                        "optgroup": "Número de piscinas",
                         "layersId": [
                             "gridcatkps_250_01_stl_kps_npisc",
                             "gridcatkps_250_02_stl_kps_m2pisc_tot",
@@ -350,7 +350,7 @@
                 "label": "2020",
                 "layerGroup": [
                     {
-                        "optgroup": "Número de pisicnas",
+                        "optgroup": "Número de piscinas",
                         "layersId": [
                             "gridcatkps20_250_01_stl_kps_npisc",
                             "gridcatkps20_250_02_stl_kps_m2pisc_tot",
