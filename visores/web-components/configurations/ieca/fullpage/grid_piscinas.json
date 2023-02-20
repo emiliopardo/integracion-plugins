@@ -1,0 +1,379 @@
+{
+    "configuration": {
+        "controls": [
+            "mouse",
+            "overviewmap",
+            "location",
+            "panzoombar",
+            "scale",
+            "ScaleLine",
+            "GetFeatureInfo"
+        ],
+        "plugins": [
+            {
+                "name": "searchstreetgeosearch",
+                "config": "default"
+            }
+        ],
+        "maxExtent": [
+            100401.00,
+            3987100.00,
+            621273.00,
+            4288700.00
+        ],
+        "baselayers": [
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/base/wms?",
+                "id": "CDAU_base",
+                "name": "CDAU_base",
+                "legend": "Base Cartográfica Callejero Digital de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "style": null,
+                "opacity": 0.5,
+                "queryable": false,
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/cdau_base.png"
+            },
+            {
+                "url": "https://www.ideandalucia.es/services/andalucia/wms?",
+                "id": "00_Mapa_Andalucia",
+                "name": "01_Cartografia_Andalucia,01_Textos_Andalucia",
+                "legend": "Mapa Topográfico de Andalucía",
+                "transparent": false,
+                "tiled": true,
+                "style": null,
+                "queryable": false,
+                "urlLegend": "https://emiliopardo.github.io/integracion-plugins/visores/leyendas/mapa_andalucia.png"
+            },
+            {
+                "url": "https://www.ideandalucia.es/wms/ortofoto2016?",
+                "id": "ortofotografia_2016_rgb",
+                "name": "ortofotografia_2016_rgb",
+                "legend": "Ortofotografía Color 0,5 metros/pixel (Año 2016)",
+                "transparent": false,
+                "tiled": true,
+                "style": "default",
+                "queryable": false,
+                "urlLegend": "https://www.ideandalucia.es/visor/leyendas/ortofoto2016_color.png"
+            },
+            {
+                "url": "https://www.ideandalucia.es/wms/mdt_2016?",
+                "id": "Modelo Digital del Terreno 2016",
+                "name": "sombreado_orografico_2016",
+                "legend": "Modelo Digital del Terreno 2016",
+                "transparent": false,
+                "tiled": true,
+                "style": "default",
+                "queryable": false,
+                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/WMC/leyendas/mdt_2016.png"
+            }
+        ],
+        "overlaylayers": [
+            {
+                "url": "https://www.ideandalucia.es/services/andalucia/wms?",
+                "id": "Contexto",
+                "name": "andalucia:sombreado_mdt_final_rgb_LZW,andalucia:sombreado_batimetria_final_rgb_LZW,andalucia:mdt_final_rgb_LZW,andalucia:batimetria_final_rgb_LZW,andalucia:btn100_0101s_uni_admin_paises,andalucia:btn100_0101s_uni_admin_comunidades_autonomas",
+                "legend": "Cartografia Contexto",
+                "transparent": true,
+                "tiled": true,
+                "style": "",
+                "showLegend": false,
+                "queryable": false,
+                "urlLegend": ""
+            },
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?CQL_FILTER=competencia='AYUNTAMIENTO'&",
+                "id": "v_vial",
+                "name": "v_vial",
+                "legend": "Vias",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Vial",
+                "showLegend": false,
+                "queryable": false,
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_vial"
+            },
+            {
+                "url": "https://www.callejerodeandalucia.es/servicios/cdau/wms?",
+                "id": "v_portalpk",
+                "name": "v_portalpk",
+                "legend": "Portales",
+                "transparent": true,
+                "tiled": true,
+                "style": "cdau:CDAU_Portal",
+                "showLegend": false,
+                "queryable": false,
+                "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?",
+                "id": "gridcatkps_250_01_stl_kps_npisc",
+                "name": "gridcatkps_250",
+                "legend": "Número total de piscinas",
+                "transparent": true,
+                "tiled": true,
+                "style": "01_stl_kps_npisc",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps_250&style=01_stl_kps_npisc"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?",
+                "id": "gridcatkps_250_02_stl_kps_m2pisc_tot",
+                "name": "gridcatkps_250",
+                "legend": "Superficie de las piscinas (Total)",
+                "transparent": true,
+                "tiled": true,
+                "style": "02_stl_kps_m2pisc_tot",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps_250&style=02_stl_kps_m2pisc_tot"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?",
+                "id": "gridcatkps_250_03_stl_kps_m2pisc_q2",
+                "name": "gridcatkps_250",
+                "legend": "Superficie de las piscinas (Mediana)",
+                "transparent": true,
+                "tiled": true,
+                "style": "03_stl_kps_m2pisc_q2",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps_250&style=03_stl_kps_m2pisc_q2"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?",
+                "id": "gridcatkps_250_04_stl_kps_acons_moda",
+                "name": "gridcatkps_250",
+                "legend": "Año de antigüedad (Moda)",
+                "transparent": true,
+                "tiled": true,
+                "style": "04_stl_kps_acons_moda",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps_250&style=04_stl_kps_acons_moda"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?",
+                "id": "gridcatkps_250_05_stl_kps_npisc_res",
+                "name": "gridcatkps_250",
+                "legend": "Número de piscinas en inmuebles con uso residencial",
+                "transparent": true,
+                "tiled": true,
+                "style": "05_stl_kps_npisc_res",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps_250&style=05_stl_kps_npisc_res"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?",
+                "id": "gridcatkps_250_06_stl_kps_npisc_dep",
+                "name": "gridcatkps_250",
+                "legend": "Número de piscinas en inmuebles con uso deportivo",
+                "transparent": true,
+                "tiled": true,
+                "style": "06_stl_kps_npisc_dep",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps_250&style=06_stl_kps_npisc_dep"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?",
+                "id": "gridcatkps_250_07_stl_kps_npisc_ocih",
+                "name": "gridcatkps_250",
+                "legend": "Número de piscinas en inmuebles con uso de ocio y hostelería",
+                "transparent": true,
+                "tiled": true,
+                "style": "07_stl_kps_npisc_ocih",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps_250&style=07_stl_kps_npisc_ocih"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?",
+                "id": "gridcatkps_250_08_stl_kps_npisc_otro",
+                "name": "gridcatkps_250",
+                "legend": "Número de piscinas en inmuebles con otros usos",
+                "transparent": true,
+                "tiled": true,
+                "style": "08_stl_kps_npisc_otro",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps_250&style=08_stl_kps_npisc_otro"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?",
+                "id": "gridcatkps20_250_01_stl_kps_npisc",
+                "name": "gridcatkps20_250",
+                "legend": "Número total de piscinas",
+                "transparent": true,
+                "tiled": true,
+                "style": "01_stl_kps_npisc",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps20_250&style=01_stl_kps_npisc"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?",
+                "id": "gridcatkps20_250_02_stl_kps_m2pisc_tot",
+                "name": "gridcatkps20_250",
+                "legend": "Superficie de las piscinas (Total)",
+                "transparent": true,
+                "tiled": true,
+                "style": "02_stl_kps_m2pisc_tot",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps20_250&style=02_stl_kps_m2pisc_tot"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?",
+                "id": "gridcatkps20_250_03_stl_kps_m2pisc_q2",
+                "name": "gridcatkps20_250",
+                "legend": "Superficie de las piscinas (Mediana)",
+                "transparent": true,
+                "tiled": true,
+                "style": "03_stl_kps_m2pisc_q2",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps20_250&style=03_stl_kps_m2pisc_q2"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?",
+                "id": "gridcatkps20_250_04_stl_kps_acons_moda",
+                "name": "gridcatkps20_250",
+                "legend": "Año de antigüedad (Moda)",
+                "transparent": true,
+                "tiled": true,
+                "style": "04_stl_kps_acons_moda",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps20_250&style=04_stl_kps_acons_moda"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?",
+                "id": "gridcatkps20_250_05_stl_kps_npisc_res",
+                "name": "gridcatkps20_250",
+                "legend": "Número de piscinas en inmuebles con uso residencial",
+                "transparent": true,
+                "tiled": true,
+                "style": "05_stl_kps_npisc_res",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps20_250&style=05_stl_kps_npisc_res"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?",
+                "id": "gridcatkps20_250_06_stl_kps_npisc_dep",
+                "name": "gridcatkps20_250",
+                "legend": "Número de piscinas en inmuebles con uso deportivo",
+                "transparent": true,
+                "tiled": true,
+                "style": "06_stl_kps_npisc_dep",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps20_250&style=06_stl_kps_npisc_dep"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?",
+                "id": "gridcatkps20_250_07_stl_kps_npisc_ocih",
+                "name": "gridcatkps20_250",
+                "legend": "Número de piscinas en inmuebles con uso de ocio y hostelería",
+                "transparent": true,
+                "tiled": true,
+                "style": "07_stl_kps_npisc_ocih",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps20_250&style=07_stl_kps_npisc_ocih"
+            },
+            {
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?",
+                "id": "gridcatkps20_250_08_stl_kps_npisc_otro",
+                "name": "gridcatkps20_250",
+                "legend": "Número de piscinas en inmuebles con otros usos",
+                "transparent": true,
+                "tiled": true,
+                "style": "08_stl_kps_npisc_otro",
+                "opacity": 0.7,
+                "showLegend": true,
+                "queryable": true,
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatkps2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatkps20_250&style=08_stl_kps_npisc_otro"
+            }
+        ],
+        "selectedLayerId": "gridcatkps_250_01_stl_kps_npisc",
+        "group": true,
+        "nested": true,
+        "layerGroups": [
+            {
+                "label": "2022",
+                "layerGroup": [
+                    {
+                        "optgroup": "Número de pisicnas",
+                        "layersId": [
+                            "gridcatkps_250_01_stl_kps_npisc",
+                            "gridcatkps_250_02_stl_kps_m2pisc_tot",
+                            "gridcatkps_250_03_stl_kps_m2pisc_q2"
+                        ]
+                    },
+                    {
+                        "optgroup": "Antigüedad de las piscinas",
+                        "layersId": [
+                            "gridcatkps_250_04_stl_kps_acons_moda"
+                        ]
+                    },
+                    {
+                        "optgroup": "Piscinas según uso del inmueble",
+                        "layersId": [
+                            "gridcatkps_250_05_stl_kps_npisc_res",
+                            "gridcatkps_250_06_stl_kps_npisc_dep",
+                            "gridcatkps_250_07_stl_kps_npisc_ocih",
+                            "gridcatkps_250_08_stl_kps_npisc_otro"
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "2020",
+                "layerGroup": [
+                    {
+                        "optgroup": "Número de pisicnas",
+                        "layersId": [
+                            "gridcatkps20_250_01_stl_kps_npisc",
+                            "gridcatkps20_250_02_stl_kps_m2pisc_tot",
+                            "gridcatkps20_250_03_stl_kps_m2pisc_q2"
+                        ]
+                    },
+                    {
+                        "optgroup": "Antigüedad de las piscinas",
+                        "layersId": [
+                            "gridcatkps20_250_04_stl_kps_acons_moda"
+                        ]
+                    },
+                    {
+                        "optgroup": "Piscinas según uso del inmueble",
+                        "layersId": [
+                            "gridcatkps20_250_05_stl_kps_npisc_res",
+                            "gridcatkps20_250_06_stl_kps_npisc_dep",
+                            "gridcatkps20_250_07_stl_kps_npisc_ocih",
+                            "gridcatkps20_250_08_stl_kps_npisc_otro"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
