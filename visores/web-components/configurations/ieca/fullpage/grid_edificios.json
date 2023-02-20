@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_01-stl_edificios_ned",
                 "name": "gridcate_250",
                 "legend": "Número total de edificios",
@@ -116,10 +116,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=01-stl_edificios_ned"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=01-stl_edificios_ned"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_02-stl_edificios_m2ed_total",
                 "name": "gridcate_250",
                 "legend": "Superficie total construida en los edificios",
@@ -129,10 +129,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=02-stl_edificios_m2ed_total"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=02-stl_edificios_m2ed_total"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_03-stl_edificios_cced_moda",
                 "name": "gridcate_250",
                 "legend": "Categoría constructiva de los edificios. Valor más frecuente",
@@ -142,10 +142,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=03-stl_edificios_cced_moda"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=03-stl_edificios_cced_moda"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_04-stl_edificios_altsred_q2",
                 "name": "gridcate_250",
                 "legend": "Número de plantas de los edificios. Mediana",
@@ -155,10 +155,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=04-stl_edificios_altsred_q2"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=04-stl_edificios_altsred_q2"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_05-stl_edificios_altsred_max",
                 "name": "gridcate_250",
                 "legend": "Número de plantas de los edificios. Edificio más alto",
@@ -168,10 +168,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=05-stl_edificios_altsred_max"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=05-stl_edificios_altsred_max"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_06-stl_edificios_aanted_moda",
                 "name": "gridcate_250",
                 "legend": "Antigüedad de los edificios. Valor más frecuente",
@@ -181,10 +181,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=06-stl_edificios_aanted_moda"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=06-stl_edificios_aanted_moda"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_07-stl_edificios_ned_res",
                 "name": "gridcate_250",
                 "legend": "Número de edificios con uso principal residencial",
@@ -194,10 +194,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=07-stl_edificios_ned_res"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=07-stl_edificios_ned_res"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_08-stl_edificios_nedi_ind",
                 "name": "gridcate_250",
                 "legend": "Número de edificios con uso principal industrial",
@@ -207,10 +207,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=08-stl_edificios_nedi_ind"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=08-stl_edificios_nedi_ind"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_09-stl_edificios_ned_ofi",
                 "name": "gridcate_250",
                 "legend": "Número de edificios con uso principal de oficinas",
@@ -220,10 +220,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=09-stl_edificios_ned_ofi"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=09-stl_edificios_ned_ofi"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_10-stl_edificios_ned_com",
                 "name": "gridcate_250",
                 "legend": "Número de edificios con uso principal comercial",
@@ -233,10 +233,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=10-stl_edificios_ned_com"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=10-stl_edificios_ned_com"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_11-stl_edificios_ned_dep",
                 "name": "gridcate_250",
                 "legend": "Número de edificios con uso principal deportivo",
@@ -246,10 +246,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=11-stl_edificios_ned_dep"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=11-stl_edificios_ned_dep"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_12-stl_edificios_ned_ocihos",
                 "name": "gridcate_250",
                 "legend": "Número de edificios con uso principal de ocio y hostelería",
@@ -259,10 +259,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=12-stl_edificios_ned_ocihos"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=12-stl_edificios_ned_ocihos"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_13-stl_edificios_ned_cul",
                 "name": "gridcate_250",
                 "legend": "Número de edificios con uso principal cultural",
@@ -272,10 +272,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=13-stl_edificios_ned_cul"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=13-stl_edificios_ned_cul"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_14-stl_edificios_m2ed_res",
                 "name": "gridcate_250",
                 "legend": "Superficie construida con uso residencial",
@@ -285,10 +285,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=14-stl_edificios_m2ed_res"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=14-stl_edificios_m2ed_res"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_15-stl_edificios_m2ed_ind",
                 "name": "gridcate_250",
                 "legend": "Superficie construida con uso industrial",
@@ -298,10 +298,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=15-stl_edificios_m2ed_ind"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=15-stl_edificios_m2ed_ind"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_16-stl_edificios_m2ed_ofi",
                 "name": "gridcate_250",
                 "legend": "Superficie construida con uso de oficinas",
@@ -311,10 +311,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=16-stl_edificios_m2ed_ofi"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=16-stl_edificios_m2ed_ofi"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_17-stl_edificios_m2ed_com",
                 "name": "gridcate_250",
                 "legend": "Superficie construida con uso comercial",
@@ -324,10 +324,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=17-stl_edificios_m2ed_com"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=17-stl_edificios_m2ed_com"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_18-stl_edificios_m2ed_dep",
                 "name": "gridcate_250",
                 "legend": "Superficie construida con uso deportivo",
@@ -337,10 +337,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=18-stl_edificios_m2ed_dep"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=18-stl_edificios_m2ed_dep"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_19-stl_edificios_m2ed_ocihos",
                 "name": "gridcate_250",
                 "legend": "Superficie construida con uso de ocio y hostelería",
@@ -350,10 +350,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=19-stl_edificios_m2ed_ocihos"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=19-stl_edificios_m2ed_ocihos"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?",
                 "id": "gridcate_250_20-stl_edificios_m2ed_cul",
                 "name": "gridcate_250",
                 "legend": "Superficie construida con uso cultural",
@@ -363,7 +363,7 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=20-stl_edificios_m2ed_cul"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcate/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcate_250&style=20-stl_edificios_m2ed_cul"
             },
             {
                 "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcate2020/wms?",
