@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c011_viviendas_colectivas",
                 "name": "gridcattp_250",
                 "legend": "Viviendas colectivas. Urbano",
@@ -116,10 +116,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c011_viviendas_colectivas"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c011_viviendas_colectivas"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c012_viviendas_unifamiliares",
                 "name": "gridcattp_250",
                 "legend": "Viviendas unifamiliares. Urbano",
@@ -129,10 +129,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c012_viviendas_unifamiliares"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c012_viviendas_unifamiliares"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c013_edificiacion_rural",
                 "name": "gridcattp_250",
                 "legend": "Edificación rural",
@@ -142,10 +142,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c013_edificiacion_rural"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c013_edificiacion_rural"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c01G_garages_viviendas",
                 "name": "gridcattp_250",
                 "legend": "Garajes viviendas",
@@ -155,10 +155,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c01G_garages_viviendas"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c01G_garages_viviendas"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c022_otros_garajes",
                 "name": "gridcattp_250",
                 "legend": "Otros garajes y aparcamientos",
@@ -168,10 +168,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c022_otros_garajes"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c022_otros_garajes"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c02_industrial",
                 "name": "gridcattp_250",
                 "legend": "Industrial",
@@ -181,10 +181,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c02_industrial"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c02_industrial"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c03_oficinas",
                 "name": "gridcattp_250",
                 "legend": "Oficinas",
@@ -194,10 +194,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c03_oficinas"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c03_oficinas"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_04_stl_c04_comercio",
                 "name": "gridcattp_250",
                 "legend": "Comercio",
@@ -207,10 +207,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c04_comercio"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c04_comercio"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c05_Deportes",
                 "name": "gridcattp_250",
                 "legend": "Deportes",
@@ -220,10 +220,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c05_Deportes"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c05_Deportes"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c05P_piscinas",
                 "name": "gridcattp_250",
                 "legend": "Piscinas",
@@ -233,10 +233,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c05P_piscinas"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c05P_piscinas"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c06_espectaculos",
                 "name": "gridcattp_250",
                 "legend": "Espectáculos",
@@ -246,10 +246,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c06_espectaculos"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c06_espectaculos"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c07_hosteleria_ocio",
                 "name": "gridcattp_250",
                 "legend": "Hostelería y Ocio",
@@ -259,10 +259,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c07_hosteleria_ocio"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c07_hosteleria_ocio"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c08_sanitarios_beneficos",
                 "name": "gridcattp_250",
                 "legend": "Sanitarios, asistenciales y benéficos",
@@ -272,10 +272,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c08_sanitarios_beneficos"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c08_sanitarios_beneficos"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c09_culturales",
                 "name": "gridcattp_250",
                 "legend": "Culturales",
@@ -285,10 +285,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c09_culturales"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c09_culturales"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c093_religioso",
                 "name": "gridcattp_250",
                 "legend": "Religiosos",
@@ -298,10 +298,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c093_religioso"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c093_religioso"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c10_singulares",
                 "name": "gridcattp_250",
                 "legend": "Singulares",
@@ -311,10 +311,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c10_singulares"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c10_singulares"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/wms?",
                 "id": "gridcattp_250_stl_c1034_golf",
                 "name": "gridcattp_250",
                 "legend": "Campos de golf",
@@ -324,7 +324,7 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c1034_golf"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcattp/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=gridcattp_250&style=stl_c1034_golf"
             }
         ],
         "selectedLayerId": "none",

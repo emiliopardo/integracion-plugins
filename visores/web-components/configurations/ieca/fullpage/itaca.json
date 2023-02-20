@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/itaca/wms?",
                 "id": "contornos_itaca",
                 "name": "contornos_itaca",
                 "legend": "Contornos asentamientos Ítaca",
@@ -115,10 +115,10 @@
                 "style": "itaca:sld_contornos_ITACA",
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=contornos_itaca"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=contornos_itaca"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/itaca/wms?",
                 "id": "da02_term_munic",
                 "name": "da02_term_munic",
                 "legend": "Contornos terminos municipales",
@@ -127,10 +127,10 @@
                 "style": "itaca:stl_contorno_terminos_ITACA",
                 "showLegend": false,
                 "queryable": false,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=da02_term_munic"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=da02_term_munic"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/itaca/wms?",
                 "id": "etiquetas_itaca",
                 "name": "etiquetas_itaca",
                 "legend": "Nombre oficial asentamientos del proyecto Ítaca",
@@ -139,7 +139,7 @@
                 "style": "itaca:sld_Etiquetas_ITACA_categorizado",
                 "showLegend": true,
                 "queryable": false,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=etiquetas_itaca"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/itaca/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=etiquetas_itaca"
             }
         ],
         "selectedLayerId": "all",

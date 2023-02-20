@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nviv",
                 "name": "gridcatv_250",
                 "legend": "Número total de viviendas",
@@ -116,10 +116,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_m2viv_mediana",
                 "name": "gridcatv_250",
                 "legend": "Superficie de las viviendas (Mediana)",
@@ -129,10 +129,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_m2viv_mediana"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_m2viv_mediana"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_m2viv_total",
                 "name": "gridcatv_250",
                 "legend": "Superficie total de las viviendas",
@@ -142,10 +142,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_m2viv_total"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_m2viv_total"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_aantviv_mediana",
                 "name": "gridcatv_250",
                 "legend": "Año de antigüedad (Mediana)",
@@ -155,10 +155,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_aantviv_mediana"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_aantviv_mediana"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nvivpluri",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas plurifamiliares",
@@ -168,10 +168,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivpluri"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivpluri"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nvivunif1",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas unifamiliares aisladas o pareadas",
@@ -181,10 +181,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivunif1"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivunif1"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nvivunif2",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas unifamiliares en líneas o manzana cerrada",
@@ -194,10 +194,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivunif2"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivunif2"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nviv_h2o",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas con piscina",
@@ -207,10 +207,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_h2o"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_h2o"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nviv_h2ouni",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas con piscina de uso unifamiliar",
@@ -220,10 +220,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_h2ouni"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_h2ouni"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nviv_h2ocom",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas con piscina de uso comunitario",
@@ -233,10 +233,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_h2ocom"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_h2ocom"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nviv_ea",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas en parcelas con espacios abiertos (patio/jardín)",
@@ -246,10 +246,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_ea"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_ea"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nvivuni_ea",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas unifamiliares en parcelas con espacio abierto (patio/jardín)",
@@ -259,10 +259,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivuni_ea"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivuni_ea"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nvivplu_ea",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas plurifamiliares en parcelas con espacio abierto (patio/jardín)",
@@ -272,10 +272,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivplu_ea"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivplu_ea"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nviv_app",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas en parcelas con garaje",
@@ -285,10 +285,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_app"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nviv_app"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nvivuniapp",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas unifamiliares en parcelas con garaje",
@@ -298,10 +298,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivuniapp"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivuniapp"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?",
                 "id": "gridcatv_250_stl_viviendas_nvivpluapp",
                 "name": "gridcatv_250",
                 "legend": "Número de viviendas plurifamiliares en parcelas con garaje",
@@ -311,10 +311,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivpluapp"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv_250&style=stl_viviendas_nvivpluapp"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nviv",
                 "name": "gridcatv20_250",
                 "legend": "Número total de viviendas",
@@ -324,10 +324,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_m2viv_mediana",
                 "name": "gridcatv20_250",
                 "legend": "Superficie de las viviendas (Mediana)",
@@ -337,10 +337,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_m2viv_mediana"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_m2viv_mediana"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_m2viv_total",
                 "name": "gridcatv20_250",
                 "legend": "Superficie total de las viviendas",
@@ -350,10 +350,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_m2viv_total"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_m2viv_total"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_aantviv_mediana",
                 "name": "gridcatv20_250",
                 "legend": "Año de antigüedad (Mediana)",
@@ -363,10 +363,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_aantviv_mediana"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_aantviv_mediana"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nvivpluri",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas plurifamiliares",
@@ -376,10 +376,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivpluri"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivpluri"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nvivunif1",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas unifamiliares aisladas o pareadas",
@@ -389,10 +389,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivunif1"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivunif1"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nvivunif2",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas unifamiliares en líneas o manzana cerrada",
@@ -402,10 +402,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivunif2"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivunif2"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nviv_h2o",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas con piscina",
@@ -415,10 +415,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_h2o"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_h2o"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nviv_h2ouni",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas con piscina de uso unifamiliar",
@@ -428,10 +428,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_h2ouni"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_h2ouni"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nviv_h2ocom",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas con piscina de uso comunitario",
@@ -441,10 +441,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_h2ocom"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_h2ocom"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nviv_ea",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas en parcelas con espacios abiertos (patio/jardín)",
@@ -454,10 +454,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_ea"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_ea"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nvivuni_ea",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas unifamiliares en parcelas con espacio abierto (patio/jardín)",
@@ -467,10 +467,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivuni_ea"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivuni_ea"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nvivplu_ea",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas plurifamiliares en parcelas con espacio abierto (patio/jardín)",
@@ -480,10 +480,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivplu_ea"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivplu_ea"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nviv_app",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas en parcelas con garaje",
@@ -493,10 +493,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_app"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nviv_app"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nvivuniapp",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas unifamiliares en parcelas con garaje",
@@ -506,10 +506,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivuniapp"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivuniapp"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?",
                 "id": "gridcatv20_250_stl_viviendas_nvivpluapp",
                 "name": "gridcatv20_250",
                 "legend": "Número de viviendas plurifamiliares en parcelas con garaje",
@@ -519,7 +519,7 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivpluapp"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatv2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatv20_250&style=stl_viviendas_nvivpluapp"
             }
         ],
         "selectedLayerId": "none",

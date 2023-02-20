@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_n_rec",
                 "name": "gridcatr_250",
                 "legend": "Número total de recintos no residenciales",
@@ -116,10 +116,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_n_rec"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_n_rec"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_m2rec_tot",
                 "name": "gridcatr_250",
                 "legend": "Superficie total de los recintos no residenciales",
@@ -129,10 +129,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2rec_tot"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2rec_tot"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_m2rec_q2",
                 "name": "gridcatr_250",
                 "legend": "Superficie de los recintos no residenciales (Mediana)",
@@ -142,10 +142,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2rec_q2"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2rec_q2"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_aant_q2",
                 "name": "gridcatr_250",
                 "legend": "Año de antigüedad de los recintos no residenciales(Mediana)",
@@ -155,10 +155,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_aant_q2"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_aant_q2"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_nrec_ind",
                 "name": "gridcatr_250",
                 "legend": "Recintos no residenciales con destino industrial",
@@ -168,10 +168,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_ind"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_ind"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_nrec_ofi",
                 "name": "gridcatr_250",
                 "legend": "Recintos no residenciales con destino oficina",
@@ -181,10 +181,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_ofi"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_ofi"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_nrec_com",
                 "name": "gridcatr_250",
                 "legend": "Recintos no residenciales con destino comercial",
@@ -194,10 +194,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_com"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_com"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_nrec_dep",
                 "name": "gridcatr_250",
                 "legend": "Recintos no residenciales con destino deportivo",
@@ -207,10 +207,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_dep"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_dep"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_nrec_aloj",
                 "name": "gridcatr_250",
                 "legend": "Recintos no residenciales con destino alojamiento",
@@ -220,10 +220,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_aloj"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_aloj"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_nrec_host",
                 "name": "gridcatr_250",
                 "legend": "Recintos no residenciales con destino hostelero",
@@ -233,10 +233,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_host"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_host"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_nrec_cul",
                 "name": "gridcatr_250",
                 "legend": "Recintos no residenciales con destino cultural",
@@ -246,10 +246,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_cul"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_nrec_cul"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_m2_ind",
                 "name": "gridcatr_250",
                 "legend": "Superficie en recintos no residenciales con destino industrial",
@@ -259,10 +259,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_ind"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_ind"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_m2_ofi",
                 "name": "gridcatr_250",
                 "legend": "Superficie en recintos no residenciales con destino oficina",
@@ -272,10 +272,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_ofi"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_ofi"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_m2_com",
                 "name": "gridcatr_250",
                 "legend": "Superficie en recintos no residenciales con destino comercial",
@@ -285,10 +285,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_com"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_com"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_m2_dep",
                 "name": "gridcatr_250",
                 "legend": "Superficie en recintos no residenciales con destino deportivo",
@@ -298,10 +298,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_dep"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_dep"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_m2_aloj",
                 "name": "gridcatr_250",
                 "legend": "Superficie en recintos no residenciales con destino alojamiento",
@@ -311,10 +311,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_aloj"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_aloj"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_m2_host",
                 "name": "gridcatr_250",
                 "legend": "Superficie en recintos no residenciales con destino hostelero",
@@ -324,10 +324,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_host"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_host"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?",
                 "id": "gridcatr_250_stl_recintos_m2_cul",
                 "name": "gridcatr_250",
                 "legend": "Superficie en recintos no residenciales con destino cultural",
@@ -337,10 +337,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_cul"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr_250&style=stl_recintos_m2_cul"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_n_rec",
                 "name": "gridcatr20_250",
                 "legend": "Número total de recintos no residenciales",
@@ -350,10 +350,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_n_rec"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_n_rec"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_m2rec_tot",
                 "name": "gridcatr20_250",
                 "legend": "Superficie total de los recintos no residenciales",
@@ -363,10 +363,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2rec_tot"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2rec_tot"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_m2rec_q2",
                 "name": "gridcatr20_250",
                 "legend": "Superficie de los recintos no residenciales (Mediana)",
@@ -376,10 +376,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2rec_q2"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2rec_q2"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_aant_q2",
                 "name": "gridcatr20_250",
                 "legend": "Año de antigüedad de los recintos no residenciales(Mediana)",
@@ -389,10 +389,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_aant_q2"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_aant_q2"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_nrec_ind",
                 "name": "gridcatr20_250",
                 "legend": "Recintos no residenciales con destino industrial",
@@ -402,10 +402,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_ind"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_ind"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_nrec_ofi",
                 "name": "gridcatr20_250",
                 "legend": "Recintos no residenciales con destino oficina",
@@ -415,10 +415,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_ofi"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_ofi"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_nrec_com",
                 "name": "gridcatr20_250",
                 "legend": "Recintos no residenciales con destino comercial",
@@ -428,10 +428,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_com"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_com"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_nrec_dep",
                 "name": "gridcatr20_250",
                 "legend": "Recintos no residenciales con destino deportivo",
@@ -441,10 +441,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_dep"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_dep"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_nrec_aloj",
                 "name": "gridcatr20_250",
                 "legend": "Recintos no residenciales con destino alojamiento",
@@ -454,10 +454,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_aloj"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_aloj"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_nrec_host",
                 "name": "gridcatr20_250",
                 "legend": "Recintos no residenciales con destino hostelero",
@@ -467,10 +467,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_host"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_host"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_nrec_cul",
                 "name": "gridcatr20_250",
                 "legend": "Recintos no residenciales con destino cultural",
@@ -480,10 +480,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_cul"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_nrec_cul"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_m2_ind",
                 "name": "gridcatr20_250",
                 "legend": "Superficie en recintos no residenciales con destino industrial",
@@ -493,10 +493,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_ind"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_ind"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_m2_ofi",
                 "name": "gridcatr20_250",
                 "legend": "Superficie en recintos no residenciales con destino oficina",
@@ -506,10 +506,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_ofi"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_ofi"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_m2_com",
                 "name": "gridcatr20_250",
                 "legend": "Superficie en recintos no residenciales con destino comercial",
@@ -519,10 +519,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_com"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_com"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_m2_dep",
                 "name": "gridcatr20_250",
                 "legend": "Superficie en recintos no residenciales con destino deportivo",
@@ -532,10 +532,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_dep"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_dep"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_m2_aloj",
                 "name": "gridcatr20_250",
                 "legend": "Superficie en recintos no residenciales con destino alojamiento",
@@ -545,10 +545,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_aloj"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_aloj"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_m2_host",
                 "name": "gridcatr20_250",
                 "legend": "Superficie en recintos no residenciales con destino hostelero",
@@ -558,10 +558,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_host"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_host"
             },
             {
-                "url": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?",
                 "id": "gridcatr20_250_stl_recintos_m2_cul",
                 "name": "gridcatr20_250",
                 "legend": "Superficie en recintos no residenciales con destino cultural",
@@ -571,7 +571,7 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_cul"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/gridcatr2020/wms?request=GetLegendGraphic&SERVICE=WMS&VERSION=1.0.0&FORMAT=image/png&WIDTH=25&HEIGHT=25&LAYER=gridcatr20_250&style=stl_recintos_m2_cul"
             }
         ],
         "selectedLayerId": "none",

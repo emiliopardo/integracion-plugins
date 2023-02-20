@@ -106,7 +106,7 @@
                 "urlLegend": "https://www.callejerodeandalucia.es/servicios/cdau/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=v_portalpk"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/wms?",
                 "id": "degurba02_1k_stl_degurbagrid02_1k",
                 "name": "degurba02_1k",
                 "legend": "2002. Grado de urbanización - Nivel1 (1kmx1km)",
@@ -116,10 +116,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba02_1k&style=degurbagrid:stl_degurbagrid02_1k"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba02_1k&style=degurbagrid:stl_degurbagrid02_1k"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/wms?",
                 "id": "degurba02_250_stl_degurbagrid02_250m",
                 "name": "degurba02_250",
                 "legend": "2002. Grado de urbanización - Nivel1 (250mx250m)",
@@ -129,10 +129,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba02_250&style=degurbagrid:stl_degurbagrid02_250m"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba02_250&style=degurbagrid:stl_degurbagrid02_250m"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/wms?",
                 "id": "degurba1k_stl_degurbagrid1k",
                 "name": "degurba1k",
                 "legend": "2020. Grado de urbanización - Nivel1 (1kmx1km)",
@@ -142,10 +142,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba1k&style=degurbagrid:stl_degurbagrid1k"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba1k&style=degurbagrid:stl_degurbagrid1k"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/wms?",
                 "id": "degurba1k_stl_degurban2grid1k",
                 "name": "degurba1k",
                 "legend": "2020. Grado de urbanización - Nivel2 (1kmx1km)",
@@ -155,10 +155,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba1k&style=degurbagrid:stl_degurban2grid1k"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba1k&style=degurbagrid:stl_degurban2grid1k"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/wms?",
                 "id": "degurba250_stl_degurbagrid250m",
                 "name": "degurba250",
                 "legend": "2020. Grado de urbanización – Nivel1 (250mx250m)",
@@ -168,10 +168,10 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba250&style=degurbagrid:stl_degurbagrid250m"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba250&style=degurbagrid:stl_degurbagrid250m"
             },
             {
-                "url": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/wms?",
+                "url": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/wms?",
                 "id": "degurba250_stl_degurban2grid250m",
                 "name": "degurba250",
                 "legend": "2020. Grado de urbanización – Nivel2 (250mx250m)",
@@ -181,7 +181,7 @@
                 "opacity": 0.7,
                 "showLegend": true,
                 "queryable": true,
-                "urlLegend": "http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba250&style=degurbagrid:stl_degurban2grid250m"
+                "urlLegend": "http://factorylab01.ieca.junta-andalucia.es/geoserver-ieca/degurbagrid/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=degurba250&style=degurbagrid:stl_degurban2grid250m"
             }
         ],
         "selectedLayerId": "none",
