@@ -813,6 +813,7 @@
                 "label": "G1_Relieve",
                 "layerGroup": [
                     {
+                        "optgroup": "G1_Relieve",
                         "layersId": [
                             "g01_01_Cumbre",
                             "g01_02_PuertoMontana",
@@ -830,6 +831,7 @@
                 "label": "G2_Infraestructura_Geográfica",
                 "layerGroup": [
                     {
+                        "optgroup": "G2_Infraestructura_Geográfica",
                         "layersId": [
                             "g02_01_RedNacional",
                             "g02_02_GNSS",
@@ -846,6 +848,7 @@
                 "label": "G3_Hidrografía",
                 "layerGroup": [
                     {
+                        "optgroup": "G3_Hidrografía",
                         "layersId": [
                             "g03_01_Rio",
                             "g03_02_MasaAgua",
@@ -870,6 +873,7 @@
                 "label": "G4_Medio_Físico",
                 "layerGroup": [
                     {
+                        "optgroup": "G4_Medio_Físico",
                         "layersId": [
                             "g04_01_FracturaGeologica",
                             "g04_02_UnidadEstructural",
@@ -891,6 +895,7 @@
                 "label": "G5_Medio_Marino",
                 "layerGroup": [
                     {
+                        "optgroup": "G5_Medio_Marino",
                         "layersId": [
                             "g05_01_FisiograficoMarino",
                             "g05_02_Litologia",
@@ -910,6 +915,7 @@
                 "label": "G6_Usos_de_Suelo",
                 "layerGroup": [
                     {
+                        "optgroup": "G6_Usos_de_Suelo",
                         "layersId": [
                             "g06_01_UsoSuelo",
                             "g06_02_Paisaje"
@@ -918,9 +924,10 @@
                 ]
             },
             {
-                "label": "Sistema_Urbano",
+                "label": "G7_Sistema_Urbano",
                 "layerGroup": [
                     {
+                        "optgroup": "G7_Sistema_Urbano",
                         "layersId": [
                             "g07_01_NucleosUrbanos_pol",
                             "g07_01_NucleosUrbanos_pun",
