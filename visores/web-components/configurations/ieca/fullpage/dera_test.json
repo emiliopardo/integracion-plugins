@@ -326,30 +326,6 @@
             },
             {
                 "url": "https://www.ideandalucia.es/services/DERA_g3_hidrografia/wms?",
-                "id": "g03_07_Captacion",
-                "name": "g03_07_Captacion",
-                "legend": "g03_07_Captacion",
-                "transparent": true,
-                "tiled": true,
-                "style": "",
-                "showLegend": true,
-                "queryable": true,
-                "urlLegend": "https://www.ideandalucia.es/services/DERA_g3_hidrografia/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=g03_07_Captacion"
-            },
-            {
-                "url": "https://www.ideandalucia.es/services/DERA_g3_hidrografia/wms?",
-                "id": "g03_07_Captacion",
-                "name": "g03_07_Captacion",
-                "legend": "g03_07_Captacion",
-                "transparent": true,
-                "tiled": true,
-                "style": "",
-                "showLegend": true,
-                "queryable": true,
-                "urlLegend": "https://www.ideandalucia.es/services/DERA_g3_hidrografia/ows?service=WMS&request=GetLegendGraphic&format=image%2Fpng&width=20&height=20&layer=g03_07_Captacion"
-            },
-            {
-                "url": "https://www.ideandalucia.es/services/DERA_g3_hidrografia/wms?",
                 "id": "g03_08_Conduccion",
                 "name": "g03_08_Conduccion",
                 "legend": "g03_08_Conduccion",
@@ -894,7 +870,7 @@
                 ]
             },
             {
-                "label": "Sistema_Urbano",
+                "label": "G7_Sistema_Urbano",
                 "layersId": [
                     "g07_01_NucleosUrbanos_pol",
                     "g07_01_NucleosUrbanos_pun",
