@@ -35,7 +35,7 @@
                 "urlLegend": "https://www.juntadeandalucia.es/institutodeestadisticaycartografia/WMC/leyendas/mdt_2016.png"
             },
             {
-                "url": "https://www.ideandalucia.es/wms/mdt_2016?",
+                "url": "https://www.ideandalucia.es/wms/ortofoto2016?",
                 "id": "ortofotografia_2016_rgb",
                 "name": "ortofotografia_2016_rgb",
                 "legend": "Ortofotografía Color 0,5 metros/pixel (Año 2016)",
