@@ -1,4 +1,4 @@
-color= {
+let mapa_andalucia_color= {
   "version": 8,
   "name": "Mapa_Andalucia",
   "metadata": {

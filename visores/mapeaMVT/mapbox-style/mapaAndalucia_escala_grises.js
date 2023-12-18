@@ -1,4 +1,4 @@
-escala_grises = {
+let mapa_andalucia_escala_grises = {
     "layers": [
         {
             "id": "background",

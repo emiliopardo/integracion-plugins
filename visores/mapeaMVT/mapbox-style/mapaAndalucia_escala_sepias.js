@@ -1,4 +1,4 @@
-escala_sepias = {
+let mapa_andalucia_escala_sepias = {
     "layers": [
         {
             "layout": {
